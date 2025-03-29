@@ -1,0 +1,88 @@
+[
+    {
+        
+            "id": 1,
+            "title": "Standard",
+            "price": "00.00",
+            "label": "popular",
+            "icon": "flaticon-computer",
+            "duration": "Per Month",
+            "list1": "Exciting features coming soon",
+            "list2": "Essential tools for startups",
+            "list3": "Reliable customer support",
+            "list4": "Secure and optimized hosting",
+            "delay": 200
+          
+          
+    },
+    {
+        "id": 2,
+        "title": "Business",
+          "price": "00.00",
+            "label": "popular",
+            "icon": "flaticon-computer",
+            "duration": "Per Month",
+            "list1": "Exciting features coming soon",
+            "list2": "Essential tools for startups",
+            "list3": "Reliable customer support",
+            "list4": "Secure and optimized hosting",
+              "delay": 400
+    },
+    {
+        
+         "id": 3,
+            "title": "Premium",
+            "price": "00.00",
+            "label": "popular",
+            "icon": "flaticon-design-process",
+            "duration": "Per Month",
+            "list1": "Exciting features coming soon",
+            "list2": "Tailored for business growth",
+            "list3": "Top-notch support & security",
+            "list4": "Scalable and customizable",
+            "list5": "Best-in-class technology",
+            "list6": "Stay tuned for updates",
+            "delay": 600
+          },
+          
+    
+    {
+        "id": 4,
+        "title": "Standard",
+         "price": "00.00",
+            "label": "popular",
+            "icon": "flaticon-computer",
+            "duration": "Per Month",
+            "list1": "Exciting features coming soon",
+            "list2": "Essential tools for startups",
+            "list3": "Reliable customer support",
+            "list4": "Secure and optimized hosting",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "title": "Business",
+           "price": "00.00",
+            "label": "popular",
+            "icon": "flaticon-computer",
+            "duration": "Per Month",
+            "list1": "Exciting features coming soon",
+            "list2": "Essential tools for startups",
+            "list3": "Reliable customer support",
+            "list4": "Secure and optimized hosting",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "title": "Premium",
+        "price": "00.00",
+            "label": "popular",
+            "icon": "flaticon-computer",
+            "duration": "Per Month",
+            "list1": "Exciting features coming soon",
+            "list2": "Essential tools for startups",
+            "list3": "Reliable customer support",
+            "list4": "Secure and optimized hosting",
+          "delay": 1200
+    }
+]

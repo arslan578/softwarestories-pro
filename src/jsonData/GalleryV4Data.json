@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "thumb": "gallery-four-1.png",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "gallery-four-2.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "gallery-four-3.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "gallery-four-4.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "thumb": "gallery-1.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "thumb": "gallery-3.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 1200
+    },
+    {
+        "id": 7,
+        "thumb": "gallery-2.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 1400
+    },
+    {
+        "id": 8,
+        "thumb": "gallery-4.jpg",
+        "title": "Our Gallery",
+        "description": "Laptop in the office",
+        "delay": 1600
+    }
+]

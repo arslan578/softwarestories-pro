@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "thumb": "news-1.jpg",
+        "icon": "fas fa-calendar-alt",
+        "icon2": "fas fa-tag",
+        "date": "1 March 2025",
+        "tag": "Web Development",
+        "title": "Transforming Ideas into Powerful Web Solutions",
+        "text": "At Software Stories LTD, we craft cutting-edge web applications that drive business success.",
+        "authorThumb": "news-author-1.jpg",
+        "author": "Admin",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "news-2.jpg",
+        "icon": "fas fa-calendar-alt",
+        "icon2": "fas fa-tag",
+        "date": "1 March 2025",
+        "tag": "App Development",
+        "title": "Innovative Mobile Apps for a Digital Future",
+        "text": "Our team develops user-friendly mobile apps tailored to enhance engagement and efficiency.",
+        "authorThumb": "news-author-2.jpg",
+        "author": "Admin",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "news-3.jpg",
+        "icon": "fas fa-calendar-alt",
+        "icon2": "fas fa-tag",
+        "date": "1 March 2025",
+        "tag": "Cybersecurity & IT Consulting",
+        "title": "Protecting Your Business with Advanced Cybersecurity",
+        "text": "We provide top-tier IT consulting and security solutions to safeguard your data and operations.",
+        "authorThumb": "news-author-3.jpg",
+        "author": "Admin",
+        "delay": 600
+    }
+]

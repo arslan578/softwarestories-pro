@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-seo-1",
+        "title": "Web Development",
+        "delay": 700
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-network-1",
+        "title": " Cybersecurity ",
+        "delay": 800
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-prototype",
+        "title": "Digital Marketing ",
+        "delay": 900
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-web-development-4",
+        "title": "App Development",
+        "delay": 1000
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-plan",
+        "title": "Software Development  ",
+        "delay": 1100
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-plan",
+        "title": "AI Automation Service ",
+        "delay": 1200
+    }
+]

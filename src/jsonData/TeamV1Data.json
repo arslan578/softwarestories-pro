@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "thumb": "team-22.jpg",
+        "name": "Aqsa Bukhari",
+        "designation": "Director",
+        "delay": 200
+    },
+    {
+        "id": 3,
+        "thumb": "team-36.jpg",
+        "name": "Arslan Zaheer",
+        "designation": "CEO",
+        "delay": 600
+    },
+    {
+        "id": 2,
+        "thumb": "team-11.jpg",
+        "name": "Asma Saleem",
+        "designation": "HR",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "team-32.jpg",
+        "name": "Shaista Azam",
+        "designation": "MERN Stack Developer",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "team-4.jpg",
+        "name": "Kashan Shafique",
+        "designation": "Python and Django Developer",
+        "delay": 800
+    },
+    {
+        "id": 3,
+        "thumb": "team-34.jpg",
+        "name": "Laiba Rana",
+        "designation": "Design Lead",
+        "delay": 600
+    }
+  
+]

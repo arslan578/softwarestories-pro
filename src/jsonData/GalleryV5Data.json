@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "thumb": "gallery-five-1.jpg",
+        "title": "Cybersecurity & IT Consulting",
+        "text": "Technology Service Solutions",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "gallery-five-2.jpg",
+        "title": "App Development",
+        "text": "At Software Stories LTD, we provide cutting-edge technology solutions to help businesses thrive in the digital world",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "gallery-five-3.jpg",
+        "title": " Digital Marketing",
+        "text": "Technology Service Solutions",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "gallery-five-4.jpg",
+        "title": "Web Development",
+        "text": "Technology Service Solutions",
+        "delay": 800
+    }
+]

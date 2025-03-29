@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "thumb": "service-five-1.jpg",
+        "icon": "flaticon-computer",
+        "title": "Web Development",
+        "text": "At Software Stories LTD, we specialize in Web Development, Mobile App Development, and IT Consultancy. Our expert solutions ensure your business stays ahead in the digital era.",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Software Stories LTD – Your trusted partner in Web Development, App Development, and IT Consultancy",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "service-five-2.jpg",
+        "icon": "flaticon-web-development-4",
+        "title": "Cybersecurity & IT Consulting",
+        "text": "Software Stories LTD – Innovating the Future with Cutting-Edge IT Solutions. From Cybersecurity and IT Consulting, we provide top-tier services to help your business thrive in the digital world",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Protect your business from rising cyber threats with our advanced security solutions. We offer network security, data encryption, threat analysis, penetration testing, and compliance solutions to keep your digital assets safe",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "service-five-3.jpg",
+        "icon": "flaticon-web",
+        "title": "App Development",
+        "text": "Software Stories LTD – Crafting Innovative and Scalable Mobile & Web Applications. We specialize in creating user-friendly, high-performance apps tailored to your business needs",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Software Stories LTD – Delivering Cutting-Edge Web & App Development Solutions for Modern Businesses",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "service-five-4.jpg",
+        "icon": "flaticon-data",
+        "title": "Digital Marketing",
+        "text": "Boost Your Online Presence with Software Stories LTD – SEO, Social Media, & Performance Marketing Solution",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Software Stories LTD – Transforming Businesses with Data-Driven Digital Marketing Strategies",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "thumb": "service-five-1.jpg",
+        "icon": "flaticon-prototype",
+        "title": "AI Automation Services",
+        "text": "Revolutionize Your Business with AI & Automation – Smart Solutions by Software Stories LTD",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Enhance Efficiency with AI-Powered Automation – Optimize Workflows & Boost Productivity",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "thumb": "service-five-2.jpg",
+        "icon": "flaticon-plan",
+        "title": "Software Development ",
+        "text": "Custom Software & SaaS Solutions – Secure, Scalable, and Tailored for Your Business Growth.",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Innovative Software Solutions & Scalable SaaS Development – Transforming Ideas into Reality.",
+        "delay": 1200
+    }
+]
