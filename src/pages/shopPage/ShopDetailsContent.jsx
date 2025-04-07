@@ -27,7 +27,7 @@ const ShopDetailsContent = () => {
                                 </div>
                                 <ShopTabContent />
                                 <div className="section-title mb-45">
-                                    <h2>Related products</h2>
+                                    <h2>Related Services</h2>
                                 </div>
                                 <div className="row">
                                     {ShopData.slice(0, 3).map(items =>

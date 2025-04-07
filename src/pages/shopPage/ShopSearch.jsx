@@ -10,9 +10,9 @@ const ShopSearch = () => {
     return (
         <>
             <div className="widget widget-search wow fadeInUp delay-0-2s">
-                <h3 className="widget-title">Product Search</h3>
+                <h3 className="widget-title">Services  Search</h3>
                 <form onSubmit={handleSearch}>
-                    <input type="text" placeholder="Search Products.." className="searchbox" autoComplete='off' required />
+                    <input type="text" placeholder="Search Services.." className="searchbox" autoComplete='off' required />
                     <button type="submit" className="search-button fa fa-search"></button>
                 </form>
             </div>

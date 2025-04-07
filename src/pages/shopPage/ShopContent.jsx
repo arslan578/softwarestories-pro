@@ -21,17 +21,18 @@ const ShopContent = () => {
                                         <li><Link to="#"><i className="fas fa-list-ul"></i></Link></li>
                                     </ul>
                                     <div className="sort-text">
-                                        <span>Showing 1-9 of 11 Result</span>
-                                    </div>
-                                    <div className="products-dropdown">
-                                        <select>
-                                            <option value="default">Default Sorting</option>
-                                            <option value="new" selected >Short by Latest</option>
-                                            <option value="old">Oldest Product</option>
-                                            <option value="hight-to-low">High To Low</option>
-                                            <option value="low-to-high">Low To High</option>
-                                        </select>
-                                    </div>
+                                    <span>Showing 1-9 of 9 Services</span>
+</div>
+<div className="products-dropdown">
+    <select>
+        <option value="default">Default Sorting</option>
+        <option value="new" selected>Sort by Latest Service</option>
+        <option value="old">Oldest Service</option>
+        <option value="hight-to-low">High To Low</option>
+        <option value="low-to-high">Low To High</option>
+    </select>
+</div>
+
                                 </div>
                                 <div className="row">
                                     {ShopData.map(items =>

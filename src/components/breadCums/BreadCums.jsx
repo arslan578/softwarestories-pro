@@ -4,7 +4,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 const BreadCums = ({ pageTitle, pageLink }) => {
     return (
         <>
-            <section className="page-banner bgs-cover overlay pt-50" style={{ backgroundImage: "url(/images/banner.jpg)" }}>
+            <section className="page-banner bgs-cover overlay pt-50" style={{ backgroundImage: "url(/images/gallery-two-3.jpg)" }}>
                 <div className="container">
                     <div className="banner-inner">
                         <h1 className="page-title">{pageTitle ? pageTitle : "404 Not Found"}</h1>

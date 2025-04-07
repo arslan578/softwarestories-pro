@@ -23,10 +23,12 @@ const FooterWidgetV1 = (props) => {
                                 <Link to="/#"><img src={logo} alt="Logo" /></Link>
                             </div>
                             <div className="text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                            At Software Stories Ltd., we are dedicated to crafting innovative software solutions tailored to your business needs.
+                             Our mission is to empower organizations through modern technology, creativity, and reliable services
                             </div>
                             <ul className="contact-info mt-20">
-                                <li><i className="fas fa-map-marker-alt"></i><span>1791 Yorkshire Circle <br />Kitty Hawk, NC 279499</span></li>
+                                <li><i className="fas fa-map-marker-alt"></i><span>
+            71-75 Shelton Street Covent Garden London WC2H 9JQ United Kingdom</span></li>
                             </ul>
                         </div>
                     </div>
@@ -57,7 +59,8 @@ const FooterWidgetV1 = (props) => {
                     <div className="col-lg-4 col-sm-6">
                         <div className="footer-widget newsletter-widget">
                             <h4 className="footer-title">Newsletter</h4>
-                            <p>Lorem ipsum dolor sit amet, <br />consectetur adipisicing</p>
+                            <p>Stay connected with Software Stories Ltd.<br />Innovative solutions delivered with care.
+                            </p>
                             <form onSubmit={handleEmail}>
                                 <input type="email" name="EMAIL" placeholder="Your Email Address" autoComplete='off' required />
                                 <button value="submit"><i className="fa fa-location-arrow"></i></button>
