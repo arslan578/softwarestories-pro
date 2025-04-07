@@ -1,6 +1,6 @@
 import React from 'react';
-import featureThumb from '/images/about/made-easy.png'
-import featureShape from '/images/about/made-easy-left.png'
+import featureThumb from '/images/about/made-easy.jpg'
+import featureShape from '/images/about/made-easy-left.jpg'
 import { Fade } from 'react-reveal';
 import { HashLink as Link } from 'react-router-hash-link';
 
@@ -27,26 +27,30 @@ const FeatureV4 = () => {
                             <Fade right delay={300}>
                                 <div className="made-easy-way-content mb-55">
                                     <div className="section-title mb-25">
-                                        <span className="sub-title-two mb-25">Made Easy Way</span>
-                                        <h2>We Provide All Solutions In One Application</h2>
-                                    </div>
-                                    <p>Sed ut perspiciatis unde omnis iste natus voluptatem accusantium doloremque laudantium, totam rem aperiam eaque quae ainventore veritatis et quasi architecto beatae vitae dicta sunte</p>
-                                    <div className="feature-item-five mt-25">
-                                        <div className="icon">
-                                            <i className="flaticon flaticon-web-1"></i>
-                                        </div>
-                                        <div className="feature-content">
-                                            <h3><Link to="/service-details#">Quality Design & Coding</Link></h3>
-                                            <p>Sed perspiciatis unde omnis iste voluptatem accusantium doloremque ntiume</p>
-                                        </div>
-                                    </div>
-                                    <div className="feature-item-five">
-                                        <div className="icon">
-                                            <i className="flaticon flaticon-cloud-network-1"></i>
-                                        </div>
-                                        <div className="feature-content">
-                                            <h3><Link to="/service-details#">High & Big Cloud Stroges</Link></h3>
-                                            <p>Sed perspiciatis unde omnis iste voluptatem accusantium doloremque ntiume</p>
+                                    <span className="sub-title-two mb-25">Smart & Simple</span>
+<h2>All-in-One Business Solutions in a Single App</h2>
+</div>
+<p>At Software Stories Ltd., we create seamless, scalable, and customized digital solutions that simplify your business operations and accelerate growth.</p>
+
+<div className="feature-item-five mt-25">
+    <div className="icon">
+        <i className="flaticon flaticon-web-1"></i>
+    </div>
+    <div className="feature-content">
+        <h3><Link to="/service-details#">Modern UI/UX & Clean Code</Link></h3>
+        <p>Our apps are built with intuitive interfaces and optimized performance to ensure a smooth user experience.</p>
+    </div>
+</div>
+
+<div className="feature-item-five">
+    <div className="icon">
+        <i className="flaticon flaticon-cloud-network-1"></i>
+    </div>
+    <div className="feature-content">
+        <h3><Link to="/service-details#">Cloud-Based Scalability</Link></h3>
+        <p>We provide scalable cloud solutions to manage your data securely and access it from anywhere, anytime.</p>
+ 
+
                                         </div>
                                     </div>
                                     <Link to="/contact#" className="theme-btn style-six mt-15 rtl-margin">Get 14 Days Free Trial <i className="fas fa-arrow-right"></i></Link>

@@ -1,7 +1,7 @@
 import React from 'react';
-import shape from '/images/shapes/newsletter.png'
-import newsletter1 from '/images/shapes/newsletter1.png'
-import newsletter2 from '/images/shapes/newsletter2.png'
+import shape from '/images/shapes/newsletter.jpg'
+import newsletter1 from '/images/shapes/newsletter1.jpg'
+import newsletter2 from '/images/shapes/newsletter2.jpg'
 import { Fade } from 'react-reveal';
 import { toast } from 'react-toastify';
 
@@ -33,10 +33,11 @@ const SubscribeV3 = () => {
                                 <Fade left delay={300}>
                                     <div className="newsletter-content rel z-2 my-35">
                                         <div className="section-title mb-15">
-                                            <span className="sub-title-two mb-25">Newsletters</span>
-                                            <h2>Get Every Single Update Subscribe Newsletter</h2>
-                                        </div>
-                                        <p>We are available on store download our Apps</p>
+                                        <span className="sub-title-two mb-25">Stay Connected</span>
+                    <h2>Subscribe to Get the Latest Updates & Offers</h2>
+                            </div>    
+                      <p>Join our newsletter for updates on new services, features, and tech trends.</p>
+
                                         <form onSubmit={handleEmail}>
                                             <div className="form-group">
                                                 <input type="email" autoComplete='off' placeholder="Email Address" className='px-3' required />

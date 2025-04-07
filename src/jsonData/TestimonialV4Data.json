@@ -1,44 +1,62 @@
 [
     {
         "id": 1,
-        "thumb": "test-four-author-1.png",
-        "text": "Nam venenatis vehicula orci, at cursus sapien vestibulum et. Donec suscipit porta turpis non malesuada. In sit amet",
-        "name": "Istiak Ahmed",
-        "designation": "Web App Designer"
+        "thumb": "team-41.jpg",
+        "name": "Hassan Malik",
+        "designation": "Business Owner",
+        "icon": "fas fa-quote-right",
+        "text": "Working with this company was a fantastic experience. They understood our requirements perfectly.",
+        "text2": "The web solution they delivered exceeded our expectations in both design and functionality.",
+        "text3": "Highly professional team — will definitely collaborate again!"
     },
     {
         "id": 2,
-        "thumb": "test-four-author-2.png",
-        "text": "Nam venenatis vehicula orci, at cursus sapien vestibulum et. Donec suscipit porta turpis non malesuada. In sit amet",
-        "name": "Michelle Ley",
-        "designation": "UI Designer"
+        "thumb": "team-36.jpg",
+        "name": "Areeba Khan",
+        "designation": "Startup Founder",
+        "icon": "fas fa-quote-right",
+        "text": "Their development team is top-notch. Quick turnaround and very supportive throughout.",
+        "text2": "We got a fully responsive platform that helped boost our user engagement.",
+        "text3": "Would recommend them to anyone looking for tech expertise."
     },
     {
         "id": 3,
-        "thumb": "test-four-author-3.png",
-        "text": "Nam venenatis vehicula orci, at cursus sapien vestibulum et. Donec suscipit porta turpis non malesuada. In sit amet",
-        "name": "Michael Jack",
-        "designation": "Ux Expert"
+        "thumb": "team-11.jpg",
+        "name": "Bilal Ahmed",
+        "designation": "Digital Marketer",
+        "icon": "fas fa-quote-right",
+        "text": "From concept to execution, they handled our project with care and precision.",
+        "text2": "The UI/UX design was very impressive, and the backend is smooth.",
+        "text3": "Totally satisfied with the services provided."
     },
     {
         "id": 4,
-        "thumb": "test-four-author-1.png",
-        "text": "Nam venenatis vehicula orci, at cursus sapien vestibulum et. Donec suscipit porta turpis non malesuada. In sit amet",
-        "name": "Istiak Ahmed",
-        "designation": "Web App Designer"
+        "thumb": "team-32.jpg",
+        "name": "Fatima Noor",
+        "designation": "Project Manager",
+        "icon": "fas fa-quote-right",
+        "text": "Excellent communication, dedicated service, and timely delivery.",
+        "text2": "They helped streamline our project workflow and made everything manageable.",
+        "text3": "Looking forward to future collaborations."
     },
     {
         "id": 5,
-        "thumb": "test-four-author-2.png",
-        "text": "Nam venenatis vehicula orci, at cursus sapien vestibulum et. Donec suscipit porta turpis non malesuada. In sit amet",
-        "name": "Michelle Ley",
-        "designation": "UI Designer"
+        "thumb": "team-4.jpg",
+        "name": "Owais Raza",
+        "designation": "Tech Consultant",
+        "icon": "fas fa-quote-right",
+        "text": "The team is skilled, creative, and very responsive to feedback.",
+        "text2": "Our website now stands out among competitors, thanks to their expertise.",
+        "text3": "Great results, great people."
     },
     {
         "id": 6,
-        "thumb": "test-four-author-3.png",
-        "text": "Nam venenatis vehicula orci, at cursus sapien vestibulum et. Donec suscipit porta turpis non malesuada. In sit amet",
-        "name": "Michael Jack",
-        "designation": "Ux Expert"
+        "thumb": "team-34.jpg",
+        "name": "Hina Sheikh",
+        "designation": "E-commerce Owner",
+        "icon": "fas fa-quote-right",
+        "text": "They transformed our outdated store into a modern, high-performing website.",
+        "text2": "Their design sense and coding standards are really strong.",
+        "text3": "We’ve seen a major boost in sales after launch."
     }
 ]

@@ -33,21 +33,20 @@ const CollectionGallery = () => {
                 <div className="container">
                     <div className="collection-filter-area mb-60">
                         <div className="section-title mb-45">
-                            <span className="sub-title">Our Collections</span>
-                            <h2>Explore Collections</h2>
-                        </div>
-                        <ul className="collection-filter">
-                            <li onClick={() => handleFilterChange('*')} >All NFT</li>
-                            <li onClick={() => handleFilterChange('.collectibles, .virtual, .sports')} >Collectibles</li>
-                            <li onClick={() => handleFilterChange('.game, .cartoon')} >Game Assets</li>
-                            <li onClick={() => handleFilterChange('.virtual, .music, .artworks')} >Virtual Land</li>
-                            <li onClick={() => handleFilterChange('.fashion, .sports ')} >NFT Fashion</li>
-                            <li onClick={() => handleFilterChange('.artworks, .cartoon, .game')} >Artworks</li>
-                            <li onClick={() => handleFilterChange('.music, .collectibles')} >Music</li>
-                            <li onClick={() => handleFilterChange('.sports, .virtual, .game')} >Sports</li>
-                            <li onClick={() => handleFilterChange('.cartoon, .collectibles')} >Cartoon</li>
-                        </ul>
-                    </div>
+                        <span className="sub-title">Our Collections</span>
+<h2>Explore Our Software Solutions</h2>
+</div>
+<ul className="collection-filter">
+    <li onClick={() => handleFilterChange('*')}>All Services</li>
+    <li onClick={() => handleFilterChange('.web-development, .mobile-apps, .ui-ux')}>Web & Mobile Development</li>
+    <li onClick={() => handleFilterChange('.cloud, .devops')}>Cloud & DevOps Solutions</li>
+    <li onClick={() => handleFilterChange('.cyber-security, .data-protection')}>Cybersecurity & Data Protection</li>
+    <li onClick={() => handleFilterChange('.consultation, .digital-transformation')}>Consulting & Digital Transformation</li>
+    <li onClick={() => handleFilterChange('.enterprise-solutions')}>Enterprise Software Solutions</li>
+    <li onClick={() => handleFilterChange('.custom-software, .application-development')}>Custom Software Development</li>
+    <li onClick={() => handleFilterChange('.artificial-intelligence, .machine-learning')}>AI & ML Solutions</li>
+</ul>
+</div>
                     <div className='row' ref={galleryRef}>
                         {CollectionData.map((collection) => (
                             <div className={`col-xl-3 col-lg-4 col-sm-6 gallery-item ${collection.category}`} key={collection.id}>

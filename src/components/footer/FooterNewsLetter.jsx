@@ -17,7 +17,7 @@ const FooterNewsLetter = () => {
                         <div className="row align-items-center justify-content-between">
                             <div className="col-xl-6 col-lg-7">
                                 <div className="section-title text-white mb-25 rmb-35">
-                                    <h2>Sign up for latest IT resources news from Restly</h2>
+                                    <h2>Sign up for latest IT resources news from Software Stories LTD</h2>
                                 </div>
                             </div>
                             <div className="col-lg-5">

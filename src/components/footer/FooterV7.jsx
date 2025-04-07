@@ -14,7 +14,7 @@ const FooterV7 = () => {
 
     return (
         <>
-            <footer className="main-footer footer-six bgs-cover pt-110" style={{ backgroundImage: "url(/images/background/footer-bg.png)" }}>
+            <footer className="main-footer footer-six bgs-cover pt-110" style={{ backgroundImage: "url(/images/background/footer-bg.jpg)" }}>
                 <div className="container">
                     <div className="row justify-content-between">
                         <div className="col-md-3 col-sm-6">
@@ -22,8 +22,8 @@ const FooterV7 = () => {
                                 <div className="footer-logo mb-30">
                                     <Link to="/#"><img src={footerLogo3} alt="Logo" /></Link>
                                 </div>
-                                <div className="text">
-                                    Sed perspiciatis unde omnis natus error voluptatem accusan
+                                <div className="text-black font-bold">
+                                Delivering smart and secure digital solutions for your growth.
                                 </div>
                                 <div className="social-style-two mt-30">
                                     <SocialShare />
@@ -45,17 +45,17 @@ const FooterV7 = () => {
                             <div className="footer-widget link-widget">
                                 <h4 className="footer-title">Our Services</h4>
                                 <ul className="list-style-two">
-                                    <li><Link to="#">Technology</Link></li>
-                                    <li><Link to="#">Healthcare</Link></li>
-                                    <li><Link to="#">Data Science</Link></li>
-                                    <li><Link to="#">Applied math</Link></li>
+                                    <li><Link to="#">App Development</Link></li>
+                                    <li><Link to="#">cyber Security</Link></li>
+                                    <li><Link to="#">Web Development</Link></li>
+                                    <li><Link to="#">Digital Marketing</Link></li>
                                 </ul>
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-6">
                             <div className="footer-widget newsletter-widget">
                                 <h4 className="footer-title">Address</h4>
-                                <p>Pellentesque aliquam sem in tellus fringilla interdum.</p>
+                                <p>71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom</p>
                                 <form onSubmit={handleEmail}>
                                     <input type="email" name="email" placeholder="Your Email Address" autoComplete='off' required />
                                     <button value="submit"><i className="fa fa-location-arrow"></i></button>

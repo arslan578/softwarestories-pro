@@ -13,14 +13,15 @@ const TestimonialV7 = () => {
                     <div className="row">
                         <div className="col-xl-7 col-lg-8 col-md-10">
                             <div className="section-title text-white text-center mb-55">
-                                <span className="sub-title-two mb-25">Testimonials</span>
-                                <h2>What Our Clients Say About Our Mobile Apps</h2>
+                            <span className="sub-title-two mb-25">Testimonials</span>
+                   <h2>What Our Clients Say About Software Stories Ltd.</h2>
+
                             </div>
                         </div>
                     </div>
                     <div className="row no-gutters justify-content-center">
                         <div className="col-md-5">
-                            <div className="testi-seven-left bgs-cover" style={{ backgroundImage: "url(/images/testimonials/testimonial-seven-left.jpg)" }}></div>
+                            <div className="testi-seven-left bgs-cover" style={{ backgroundImage: "url(/images/testimonials/testimonial-seven-left.png)" }}></div>
                         </div>
                         <div className="col-md-7">
                             <div className="testimonial-seven-slider">
@@ -48,10 +49,10 @@ const TestimonialV7 = () => {
                     </div>
                 </div>
                 <div className="testimonials-shapes rmb-20">
-                    <img className="shape one" src="/images/testimonials/test-seven-1.png" alt="Shape" />
-                    <img className="shape two" src="/images/testimonials/test-seven-2.png" alt="Shape" />
-                    <img className="shape three" src="/images/testimonials/test-seven-3.png" alt="Shape" />
-                    <img className="shape four" src="/images/testimonials/test-seven-4.png" alt="Shape" />
+                    <img className="shape one" src="/images/testimonials/test-seven-1.jpg" alt="Shape" />
+                    <img className="shape two" src="/images/testimonials/test-seven-1.jpg" alt="Shape" />
+                    <img className="shape three" src="/images/testimonials/test-seven-3.jpg" alt="Shape" />
+                    <img className="shape four" src="/images/testimonials/test-seven-1.jpg" alt="Shape" />
                 </div>
             </section>
         </>

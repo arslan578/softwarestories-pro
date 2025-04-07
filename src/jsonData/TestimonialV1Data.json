@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "thumb": "test-author-1.jpg",
-        "name": "Istiak Ahmed",
-        "designation": "Design Lead",
+        "thumb": "team-22.jpg",
+        "name": "Aqsa Bukhari",
+        "designation": "Director",
         "icon": "fas fa-quote-right",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-        "text2": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et",
-        "text3": "Consectetur adipisicing elit, sed do eiusmod  incididunt labore et dolore magna."
+        "text": "Aqsa Bukhari is an exceptional leader, known for her strategic vision and ability to drive teams toward success.",
+        "text2": "Her leadership style fosters innovation and encourages a culture of excellence within the organization.",
+        "text3": "Under her guidance, the company has achieved remarkable milestones."
     },
     {
         "id": 2,
-        "thumb": "test-author-2.jpg",
-        "name": "Rodney J. Sabo",
-        "designation": "Product Lead",
+        "thumb": "team-36.jpg",
+        "name": "Arslan Zaheer",
+        "designation": "CEO",
         "icon": "fas fa-quote-right",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-        "text2": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et",
-        "text3": "Consectetur adipisicing elit, sed do eiusmod  incididunt labore et dolore magna."
+        "text": "Arslan Zaheer is a visionary CEO with a track record of driving growth and fostering innovation.",
+        "text2": "His strategic thinking and leadership skills have positioned the company at the forefront of the industry.",
+        "text3": "He is dedicated to delivering high-quality services and ensuring client satisfaction."
     },
     {
         "id": 3,
-        "thumb": "test-author-1.jpg",
-        "name": "Istiak Ahmed",
-        "designation": "Design Lead",
+        "thumb": "team-11.jpg",
+        "name": "Asma Saleem",
+        "designation": "HR",
         "icon": "fas fa-quote-right",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-        "text2": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et",
-        "text3": "Consectetur adipisicing elit, sed do eiusmod  incididunt labore et dolore magna."
+        "text": "Asma Saleem excels in human resource management, ensuring a healthy work environment.",
+        "text2": "Her efforts in employee engagement and satisfaction contribute significantly to the company's success.",
+        "text3": "She is committed to fostering a positive and productive workplace culture."
     },
     {
         "id": 4,
-        "thumb": "test-author-2.jpg",
-        "name": "Rodney J. Sabo",
-        "designation": "Product Lead",
+        "thumb": "team-32.jpg",
+        "name": "Shaista Azam",
+        "designation": "MERN Stack Developer",
         "icon": "fas fa-quote-right",
-        "text": "Lorem ipsum dolor sit amet,ju u consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-        "text2": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et",
-        "text3": "Consectetur adipisicing elit, sed do eiusmod  incididunt labore et dolore magna."
+        "text": "Shaista Azam is a skilled MERN Stack Developer, proficient in building scalable web applications.",
+        "text2": "She has expertise in React.js, Node.js, Express.js, and MongoDB, creating seamless user experiences.",
+        "text3": "Her dedication to clean code and innovative solutions makes her a valuable asset to any development team."
     },
     {
         "id": 5,
-        "thumb": "test-author-1.jpg",
-        "name": "Istiak Ahmed",
-        "designation": "Design Lead",
+        "thumb": "team-4.jpg",
+        "name": "Kashan Shafique",
+        "designation": "Python and Django Developer",
         "icon": "fas fa-quote-right",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-        "text2": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et",
-        "text3": "Consectetur adipisicing elit, sed do eiusmod  incididunt labore et dolore magna."
+        "text": "Kashan Shafique specializes in Python and Django, developing robust backend systems.",
+        "text2": "His ability to optimize performance and handle complex data structures sets him apart.",
+        "text3": "He is passionate about writing efficient and scalable code to solve real-world problems."
     },
     {
         "id": 6,
-        "thumb": "test-author-2.jpg",
-        "name": "Rodney J. Sabo",
-        "designation": "Product Lead",
+        "thumb": "team-34.jpg",
+        "name": "Laiba Rana",
+        "designation": "Design Lead",
         "icon": "fas fa-quote-right",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-        "text2": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et",
-        "text3": "Consectetur adipisicing elit, sed do eiusmod  incididunt labore et dolore magna."
+        "text": "Laiba Rana is an innovative Design Lead, bringing creative solutions to user experience challenges.",
+        "text2": "Her expertise in UI/UX design ensures visually appealing and user-friendly interfaces.",
+        "text3": "She believes in the power of design to enhance digital interactions and engagement."
     }
 ]

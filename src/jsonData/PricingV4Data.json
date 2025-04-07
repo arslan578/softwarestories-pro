@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Business",
-        "price": 39.99,
+        "price": 0.00,
         "label": "popular",
         "icon": "flaticon-web-traffic-1",
         "duration": "Per Month",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "title": "Standard",
-        "price": 29.99,
+        "price": 0.00,
         "label": "Standard",
         "icon": "flaticon-web-traffic-1",
         "duration": "Per Month",
@@ -27,7 +27,7 @@
     {
         "id": 3,
         "title": "Business",
-        "price": 390.99,
+        "price": 0.00,
         "label": "popular",
         "icon": "flaticon-web-traffic-1",
         "duration": "Per Year",
@@ -40,7 +40,7 @@
     {
         "id": 4,
         "title": "Standard",
-        "price": 290.99,
+        "price":0.00,
         "label": "Standard",
         "icon": "flaticon-web-traffic-1",
         "duration": "Per Year",

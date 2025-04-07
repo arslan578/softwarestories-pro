@@ -8,7 +8,8 @@ const CounterV3 = () => {
             <section className="cournter-section-three home-six bg-lighter text-center pt-115 rpt-95 pb-70 rpb-50">
                 <div className="container">
                     <div className="section-title mb-55">
-                        <h2>Over 1200+ finished work and <br />Still counting.</h2>
+                    <h2>Starting our journey with great potential and <br />excited to complete our some projects.</h2>
+
                     </div>
                     <div className="row">
                         {CounterV3Data.map(counter =>

@@ -2,22 +2,22 @@
     {
         "id": 1,
         "thumb": "test-author-1.jpg",
-        "text": "Proin imperdiet commodo diam ac tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam tristique, augue et blandit consequat,",
-        "name": "Michael M. Yates",
-        "designation": "Senior Manager"
+        "text": "This company provided us with exceptional service and truly understood our business needs. Their commitment to excellence sets them apart.",
+        "name": "John D. Smith",
+        "designation": "Chief Operations Officer"
     },
     {
         "id": 2,
         "thumb": "test-author-4.jpg",
-        "text": "Laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque",
-        "name": "Rodney J. Sabo",
-        "designation": "Design Lead"
+        "text": "From concept to execution, they have been an invaluable partner. Their innovative approach and timely delivery exceeded our expectations.",
+        "name": "Sophia L. Williams",
+        "designation": "Lead Graphic Designer"
     },
     {
         "id": 3,
         "thumb": "test-author-2.jpg",
-        "text": "Sed ut perspiciatis unde omnis istenatus error sit voluptatem accusant doloremque laudantium totam rem aperiam eaque ipsa quae abillo inventore veritatis et",
-        "name": "Michele Morrone",
-        "designation": "Marketing Lead"
+        "text": "The professionalism and expertise this team brings are unmatched. They made the whole process seamless and easy to understand.",
+        "name": "David A. Brown",
+        "designation": "Digital Marketing Manager"
     }
 ]

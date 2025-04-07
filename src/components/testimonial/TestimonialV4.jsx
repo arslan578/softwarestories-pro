@@ -13,7 +13,7 @@ const TestimonialV4 = ({ testClass }) => {
                         <div className="col-lg-6 col-md-9">
                             <div className="section-title text-center mb-60">
                                 <span className="sub-title">07 Testimonial</span>
-                                <h2>Really take a look at What Say our clients</h2>
+                                <h2>Real Feedback from Our Clients</h2>
                             </div>
                         </div>
                     </div>

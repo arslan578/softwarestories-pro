@@ -14,13 +14,14 @@ const CollectionV2 = () => {
                     <div className="row align-items-end mb-50">
                         <div className="col-xl-6 col-lg-8">
                             <div className="section-title mb-20">
-                                <span className="sub-title">Popular Collection</span>
-                                <h2>Collection Category</h2>
-                            </div>
-                        </div>
-                        <div className="col-xl-6 col-lg-4">
-                            <div className="collection-category-btns text-lg-right mb-20">
-                                <Link to="/about#" className="theme-btn gradient-btn-one">Explore Now</Link>
+                            <span className="sub-title">Our Featured Services</span>
+             <h2>Explore Our Service Categories</h2>
+         </div>
+            </div>
+           <div className="col-xl-6 col-lg-4">
+    <div className="collection-category-btns text-lg-right mb-20">
+        <Link to="/services#" className="theme-btn gradient-btn-one">Explore Our Solutions</Link>
+
                             </div>
                         </div>
                     </div>

@@ -20,7 +20,7 @@ const FooterV2 = () => {
                             <li>
                                 <i className="fas fa-envelope"></i>
                                 <div className="content">
-                                    <span>Write to Us</span>
+                                    <span><strong>Write to Us</strong></span>
                                     <h5><a href="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a></h5>
                                 </div>
                             </li>
@@ -28,7 +28,7 @@ const FooterV2 = () => {
                                 <i className="fas fa-clock"></i>
                                 <div className="content">
                                     <span>Office hours</span>
-                                    <h5>Mon-Sat 9:00 - 7:00</h5>
+                                    <h5>Mon-Fri 9:00 - 5:00</h5>
                                 </div>
                             </li>
                         </ul>

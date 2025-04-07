@@ -13,8 +13,9 @@ const MobileUiV1 = () => {
                     <div className="row">
                         <div className="col-xl-6 col-lg-7 col-md-10">
                             <div className="section-title text-center text-white mb-55">
-                                <h2>Let’s See Some Beautyful Mobile UI Screens</h2>
-                                <p>Learn more about cool options that grow business</p>
+                            <h2>Explore Our Clean & Powerful App Interfaces</h2>
+                   <p>Designed to deliver seamless user experiences and drive business results.</p>
+
                             </div>
                         </div>
                     </div>

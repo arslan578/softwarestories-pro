@@ -10,8 +10,9 @@ const SellerV1 = () => {
             <section className="sellers-section pt-120 rpt-100" id="sellers">
                 <div className="container rel z-2 py-80">
                     <div className="section-title text-center mb-65">
-                        <span className="sub-title">Creators</span>
-                        <h2>Our Top Sellers</h2>
+                    <span className="sub-title">Our Trusted Experts</span>
+                   <h2>Meet Our Visionaries</h2>
+
                     </div>
                     <div className="sellers-active">
                         <Swiper

@@ -2,64 +2,64 @@
     {
         "id": 1,
         "icon": "icon1.png",
-        "title": "Threat Intelligence",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "title": "Web Development",
+        "text": "We create high-performance websites and portals tailored to meet your business goals.",
         "icon2": "fas fa-angle-double-right",
         "delay": 200
     },
     {
         "id": 2,
         "icon": "icon2.png",
-        "title": "Server Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "title": "Mobile App Development",
+        "text": "Designing smooth, scalable mobile apps for iOS & Android to enhance user engagement.",
         "icon2": "fas fa-angle-double-right",
         "delay": 400
     },
     {
         "id": 3,
         "icon": "icon3.png",
-        "title": "Database Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "title": "Cybersecurity Solutions",
+        "text": "We protect your data and systems with the latest security technologies and audits.",
         "icon2": "fas fa-angle-double-right",
         "delay": 600
     },
     {
         "id": 4,
         "icon": "icon4.png",
-        "title": "Threat Intelligence",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "title": "Digital Marketing",
+        "text": "Boost your brand online with SEO, social media, PPC, and content marketing strategies.",
         "icon2": "fas fa-angle-double-right",
         "delay": 800
     },
     {
         "id": 5,
-        "icon": "icon2.png",
-        "title": "Server Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "icon5.png",
+        "title": "Online Education Platforms",
+        "text": "Build e-learning systems and LMS platforms for schools, academies, and training centers.",
         "icon2": "fas fa-angle-double-right",
         "delay": 1000
     },
     {
         "id": 6,
-        "icon": "icon3.png",
-        "title": "Database Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "icon6.png",
+        "title": "AI Integration",
+        "text": "Implement AI-driven solutions like chatbots, recommendation systems, and smart analytics.",
         "icon2": "fas fa-angle-double-right",
         "delay": 1200
     },
     {
         "id": 7,
-        "icon": "icon1.png",
-        "title": "Threat Intelligence",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "icon7.png",
+        "title": "Automation Services",
+        "text": "Streamline your business operations with custom automation and workflow tools.",
         "icon2": "fas fa-angle-double-right",
         "delay": 1400
     },
     {
         "id": 8,
-        "icon": "icon2.png",
-        "title": "Server Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "icon8.png",
+        "title": "Cloud Services",
+        "text": "Deploy scalable and secure cloud solutions tailored to your enterprise needs.",
         "icon2": "fas fa-angle-double-right",
         "delay": 1600
     }

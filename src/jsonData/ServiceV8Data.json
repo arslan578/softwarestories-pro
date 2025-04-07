@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "title": "Machine Learning BootCamp",
-        "thumb": "service-seven1.png",
+        "title": "Web Development",
+        "thumb": "service-five-1.jpg",
         "icon": "fas fa-long-arrow-alt-right"
     },
     {
         "id": 2,
-        "title": "Digital Data Consulting for Science lab",
-        "thumb": "service-seven2.png",
+        "title": "Mobile App Development",
+        "thumb": "service-1.jpg",
         "icon": "fas fa-long-arrow-alt-right"
     },
     {
         "id": 3,
-        "title": "Machine Learning BootCamp",
-        "thumb": "service-seven3.png",
+        "title": "Cyber Security",
+        "thumb": "service-five-2.jpg",
         "icon": "fas fa-long-arrow-alt-right"
     },
     {
         "id": 4,
-        "title": "Machine Learning BootCamp",
-        "thumb": "service-seven1.png",
+        "title": "Software Development",
+        "thumb": "service-five-2.jpg",
         "icon": "fas fa-long-arrow-alt-right"
     },
     {
         "id": 5,
-        "title": "Digital Data Consulting for Science lab",
-        "thumb": "service-seven2.png",
+        "title": "Digital Marketing",
+        "thumb": "service-five-4.jpg",
         "icon": "fas fa-long-arrow-alt-right"
     },
     {
         "id": 6,
-        "title": "Machine Learning BootCamp",
-        "thumb": "service-seven3.png",
+        "title": "AI & Automaion Services",
+        "thumb": "service-five-1.jpg",
         "icon": "fas fa-long-arrow-alt-right"
     }
 ]

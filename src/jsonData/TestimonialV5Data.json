@@ -1,18 +1,23 @@
+
 [
     {
-        "id": 1,
-        "text": "Praesent eget ullamcorper elit, vel volutpat tellus. Aliquam auctor, neque quis blandit vestibulum, magna ante congue arcu, nec sodales purus ante sed sapien. Cras eleifend ex vitae odio ultrices volutpat. Quisque sodales aliquam accumsan.",
-        "authorThumb": "test-five-author-1.jpg",
-        "name": "Istiak Ahmed",
-        "designation": "Web App Dev",
-        "delay": 300
-    },
-    {
-        "id": 2,
-        "text": "Praesent eget ullamcorper elit, vel volutpat tellus. Aliquam auctor, neque quis blandit vestibulum, magna ante congue arcu, nec sodales purus ante sed sapien. Cras eleifend ex vitae odio ultrices volutpat. Quisque sodales aliquam accumsan.",
-        "authorThumb": "test-five-author-2.jpg",
-        "name": "Mubarak Ahmed",
-        "designation": "Ui Ux Designer",
-        "delay": 300
-    }
+    "id": 7,
+    "thumb": "team-32.jpg",
+    "name": "Shaista Azam",
+    "designation": "MERN Stack Developer",
+    "icon": "fas fa-quote-right",
+    "text": "Shaista Azam is a passionate MERN Stack Developer with expertise in creating scalable and user-friendly applications. She is committed to delivering high-quality code and seamless user experiences.",
+    "authorThumb": "test-five-author-3.jpg",
+    "delay": 300
+},
+{
+    "id": 8,
+    "thumb": "team-4.jpg",
+    "name": "Kashan Shafique",
+    "designation": "Python and Django Developer",
+    "icon": "fas fa-quote-right",
+    "text": "Kashan Shafique specializes in Python and Django, developing robust backend systems. His ability to optimize performance and handle complex data structures sets him apart. He is passionate about writing efficient and scalable code to solve real-world problems.",
+    "authorThumb": "test-five-author-4.jpg",
+    "delay": 300
+}
 ]

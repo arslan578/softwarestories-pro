@@ -21,7 +21,7 @@ const BannerV6 = () => {
                                     <h1 className="mt-20">The direct way Organize your saas</h1>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={600}>
-                                    <p>Integer molestie magna in augue euismod, sit amet pulvinar arcu dapibus.</p>
+                                    <p>Empowering your business with cutting-edge digital solutions.</p>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={800}>
                                     <div className="hero-btns mt-35">
@@ -37,9 +37,9 @@ const BannerV6 = () => {
                         <div className="col-md-6">
                             <Fade className="fadeInRight" delay={800}>
                                 <div className="hero-six-images">
-                                    <img src="/images/hero/hero-six-1.png" alt="Hero" />
-                                    <img src="/images/hero/hero-six-2.png" alt="Hero" />
-                                    <img src="/images/hero/hero-six-3.png" alt="Hero" />
+                                    <img src="/images/hero/hero-six-1.jpg" alt="Hero" />
+                                    <img src="/images/hero/hero-six-2.jpg" alt="Hero" />
+                                    <img src="/images/hero/hero-six-3.jpg" alt="Hero" />
                                     <img src="/images/hero/hero-six-ellipse.png" alt="Ellipse" />
                                 </div>
                             </Fade>

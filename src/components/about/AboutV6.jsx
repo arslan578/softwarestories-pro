@@ -16,10 +16,12 @@ const AboutV6 = () => {
                             <Fade left delay={300}>
                                 <div className="about-content-six pr-90 rpr-0 rmb-65">
                                     <div className="section-title mb-25">
-                                        <span className="sub-title">It Support For Business</span>
-                                        <h2>Preparing for your success trusted source in IT pros for global providing</h2>
-                                    </div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam nostrud </p>
+                                    <span className="sub-title">IT Solutions for Your Business</span>
+                                            <h2>Preparing for your success trusted source in IT services.</h2>
+                                        </div>
+                                        <p>At Software Stories LTD, we provide cutting-edge technology solutions to 
+                                            help businesses thrive in the digital world.</p>
+                    
                                     <ul className="list-style-one mt-25 pb-10">
                                         <li>Best IT Solutions</li>
                                         <li>Professional Web Solutions</li>

@@ -54,7 +54,7 @@ const HeaderMenu5 = () => {
                                 </div>
                                 <div className="top-right">
                                     <div className="office-time">
-                                        <i className="far fa-clock"></i><span>08:00 am - 06:00 pm</span>
+                                        <i className="far fa-clock"></i><span>09:00 am - 05:00 pm</span>
                                     </div>
                                     <div className="social-style-one">
                                         <SocialShare />

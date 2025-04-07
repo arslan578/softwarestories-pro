@@ -10,8 +10,9 @@ const BlogV5 = () => {
                     <div className="row">
                         <div className="col-xl-5 col-lg-6 col-md-8">
                             <div className="section-title text-center mb-65">
-                                <span className="sub-title">Blog & News</span>
-                                <h2>Every single day update Security</h2>
+                            <span className="sub-title">Blog & News</span>
+                          <h2>Fresh Updates on Tech, Web & Security</h2>
+
                             </div>
                         </div>
                     </div>

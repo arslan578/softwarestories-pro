@@ -42,10 +42,10 @@ const FooterV4Content = (props) => {
                         <div className="footer-widget contact-widget mr-30 rmr-0">
                             <h4 className="footer-title">Contacts</h4>
                             <ul className="list-style-two">
-                                <li><i className="fas fa-map-marker-alt"></i> 1791 Yorkshire Circle Kitty Hawk, NC 27949</li>
-                                <li><i className="fas fa-clock"></i> Mon-Sat 9:00 - 7:00</li>
-                                <li><i className="fas fa-phone-alt"></i> <Link to="tel:+012-345-6789">+012-345-6789</Link></li>
-                                <li><i className="fas fa-envelope"></i> <Link to="mailto:info@example.com">info@example.com</Link></li>
+                                <li><i className="fas fa-map-marker-alt"></i>71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom</li>
+                                <li><i className="fas fa-clock"></i> Mon-Fri 9:00 - 6:00</li>
+                                <li><i className="fas fa-phone-alt"></i> <Link to="tel:+012-345-6789">+07438255631</Link></li>
+                                <li><i className="fas fa-envelope"></i> <Link to="aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</Link></li>
                             </ul>
                         </div>
                     </div>

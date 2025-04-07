@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "thumb": "collections-1.png",
-        "title": "Creative Artwork",
+        "thumb": "collections-1.jpg",
+        "title": "Custom Software Solutions",
         "items": 225
     },
     {
         "id": 2,
-        "thumb": "collections-2.png",
-        "title": "Action Art",
+        "thumb": "collections-22.jpg",
+        "title": "Mobile App Development",
         "items": 220
     },
     {
         "id": 3,
-        "thumb": "collections-3.png",
-        "title": "Artwork",
+        "thumb": "collections-3.jpg",
+        "title": "Web Development",
         "items": 235
     },
     {
         "id": 4,
-        "thumb": "collections-1.png",
-        "title": "Creative Artwork",
+        "thumb": "collections-1.jpg",
+        "title": "Cloud Integration",
         "items": 225
     },
     {
         "id": 5,
-        "thumb": "collections-2.png",
-        "title": "Action Art",
+        "thumb": "collections-22.jpg",
+        "title": "AI Solutions",
         "items": 220
     },
     {
         "id": 6,
-        "thumb": "collections-3.png",
-        "title": "Artwork",
+        "thumb": "collections-33.jpg",
+        "title": "Cybersecurity Services",
         "items": 235
     }
 ]

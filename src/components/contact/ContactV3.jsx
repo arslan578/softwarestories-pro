@@ -20,7 +20,8 @@ const ContactV3 = () => {
                                 <Fade className="fadeInUp" delay={200}>
                                     <div className="form-group">
                                         <label htmlFor="name">Your Full Name</label>
-                                        <input type="text" id="name" name="name" className="form-control" placeholder="Timothy K. Lukas" required autoComplete="off" />
+                                        <input type="text" id="name" name="name" className="form-control" placeholder="Aqsa bukhari
+                                        " required autoComplete="off" />
                                     </div>
                                 </Fade>
                             </div>
@@ -28,7 +29,7 @@ const ContactV3 = () => {
                                 <Fade className="fadeInUp" delay={400}>
                                     <div className="form-group">
                                         <label htmlFor="email">Email Address</label>
-                                        <input type="email" id="email" name="email" className="form-control" placeholder="support@gmail.com" required autoComplete="off" />
+                                        <input type="email" id="email" name="email" className="form-control" placeholder="aqsa9098syed@gmail.com" required autoComplete="off" />
                                     </div>
                                 </Fade>
                             </div>
@@ -49,7 +50,7 @@ const ContactV3 = () => {
                                 <Fade className="fadeInUp" delay={800}>
                                     <div className="form-group">
                                         <label htmlFor="number">Phone Number</label>
-                                        <input type="number" id="number" name="number" className="form-control no-arrows" placeholder="+012 (345) 67 89" required autoComplete="off" />
+                                        <input type="number" id="number" name="number" className="form-control no-arrows" placeholder=" 07438255631" required autoComplete="off" />
                                     </div>
                                 </Fade>
                             </div>

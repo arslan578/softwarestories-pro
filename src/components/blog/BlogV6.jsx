@@ -8,8 +8,8 @@ const BlogV6 = () => {
             <section className="news-six-area rel z-1 pt-110 pb-90 rpt-90 rpb-70" id="news">
                 <div className="container">
                     <div className="section-title text-center mb-65">
-                        <span className="sub-title">Our Update</span>
-                        <h2>Our Latest Blog & News</h2>
+                    <span className="sub-title">Our Updates</span>
+                    <h2>Latest Blog Posts & News from Software Stories Ltd.</h2>
                     </div>
                     <div className="row">
                         {BlogV6Data.map(blog =>

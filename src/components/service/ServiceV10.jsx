@@ -13,8 +13,9 @@ const ServiceV10 = () => {
                         <Fade left delay={200}>
                             <div className="col-lg-5 ">
                                 <div className="section-title mb-45">
-                                    <span className="sub-title-two mb-20">Core Features</span>
-                                    <h2>Amazing Apps Features</h2>
+                                <span className="sub-title-two mb-20">What We Offer</span>
+                        <h2>Powerful Features Tailored for Your Business</h2>
+
                                 </div>
                             </div>
                         </Fade>
@@ -24,7 +25,7 @@ const ServiceV10 = () => {
                                     <div className="author">
                                         <img src={commentAuthor} alt="Author" />
                                     </div>
-                                    <div className="text">Sed ut perspiciatis unde omnis iste natus voluptatem accusantiume doloremque laudantium, totam rem aperiam eaque quae</div>
+                                    <div className="text">We turn complex ideas into simple, scalable software solutions — crafted with precision, passion, and performance in mind.</div>
                                 </div>
                             </Fade>
                         </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
-import footerAction from '/images/footer/footer-call-action.png'
+import footerAction from '/images/footer/footer-call-action.jpg'
 
 const CallToActionV3 = () => {
     return (

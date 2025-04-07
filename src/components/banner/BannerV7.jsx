@@ -1,7 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
 import { HashLink as Link } from 'react-router-hash-link';
-import heroSevenThumb from '/images/hero/hero-seven-right-image.png'
+import heroSevenThumb from '/images/hero/hero-seven-right-image.jpg'
 import heroIcon1 from '/images/hero/hero-icon1.png'
 import heroIcon2 from '/images/hero/hero-icon2.png'
 import heroIcon3 from '/images/hero/hero-icon3.png'
@@ -23,7 +23,7 @@ const BannerV7 = () => {
                                     <h1 className="mt-20">Big data will Come up with A Solution</h1>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={600}>
-                                    <p>Maecenas tincidunt ex quis arcu ultrices, et commodo diam volutpat. Fusce ligula mauris, sodales </p>
+                                    <p>At our company, we prioritize delivering cutting-edge solutions tailored to your needs, ensuring seamless experiences and exceptional results. </p>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={800}>
                                     <Link to="/contact#" className="theme-btn style-eight mt-30">Start Free Trial <i className="fas fa-long-arrow-alt-right"></i></Link>
@@ -37,20 +37,20 @@ const BannerV7 = () => {
                     <div className="data-item one">
                         <img src={heroIcon1} alt="Icon" />
                         <div className="data-item-content">
-                            <h4>Data Visualization</h4>
+                            <h4>Web Development</h4>
                         </div>
                     </div>
                     <div className="data-item two">
                         <img src={heroIcon2} alt="Icon" />
                         <div className="data-item-content">
-                            <h4>Data Scientist</h4>
+                            <h4>Mobile App Development</h4>
                             <span>259+</span>
                         </div>
                     </div>
                     <div className="data-item three">
                         <img src={heroIcon3} alt="Icon" />
                         <div className="data-item-content">
-                            <h4>Machine Scientist</h4>
+                            <h4>AI & Automation</h4>
                         </div>
                     </div>
                 </div>

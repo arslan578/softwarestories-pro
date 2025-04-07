@@ -2,32 +2,32 @@
     {
         "id": 1,
         "thumb": "blog-1.jpg",
-        "date": "12 February, 2023",
-        "title": "Is your measurement plan ready for 2022?",
+        "date": "12 February, 2025",
+        "title": "Top Web Development Trends to Follow in 2025",
         "icon": "fas fa-long-arrow-alt-right",
         "icon2": "far fa-calendar-alt"
     },
     {
         "id": 2,
         "thumb": "blog-2.jpg",
-        "date": "15 March, 2023",
-        "title": "Is your measurement plan ready for 2022?",
+        "date": "15 March, 2025",
+        "title": "Why Cybersecurity is Critical for Every Business Today",
         "icon": "fas fa-long-arrow-alt-right",
         "icon2": "far fa-calendar-alt"
     },
     {
         "id": 3,
-        "thumb": "blog-1.jpg",
-        "date": "11 April, 2023",
-        "title": "Is your measurement plan ready for 2022?",
+        "thumb": "blog-3.jpg",
+        "date": "11 Feb, 2025",
+        "title": "How We Build Scalable Web Apps for Our Clients",
         "icon": "fas fa-long-arrow-alt-right",
         "icon2": "far fa-calendar-alt"
     },
     {
         "id": 4,
-        "thumb": "blog-2.jpg",
-        "date": "12 February, 2023",
-        "title": "Is your measurement plan ready for 2022?",
+        "thumb": "blog-4.png",
+        "date": "12 march, 2025",
+        "title": "Beginner's Guide to Securing Your Online Business",
         "icon": "fas fa-long-arrow-alt-right",
         "icon2": "far fa-calendar-alt"
     }

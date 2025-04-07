@@ -2,29 +2,29 @@
     {
         "id": 1,
         "icon": "flaticon-3d",
-        "title": "Project manage",
-        "text": "Integer molestie magna in augue euismod,",
+        "title": "Web Development",
+        "text": "Building fast, responsive, and scalable websites tailored to your business.",
         "delay": 200
     },
     {
         "id": 2,
         "icon": "flaticon-coding",
-        "title": "Responsive design",
-        "text": "Integer molestie magna in augue euismod,",
+        "title": "App Development",
+        "text": "Creating user-friendly mobile and desktop apps to enhance customer experience.",
         "delay": 400
     },
     {
         "id": 3,
         "icon": "flaticon-art",
-        "title": "Easy Customize",
-        "text": "Integer molestie magna in augue euismod,",
+        "title": "Digital Marketing",
+        "text": "Driving growth through SEO, social media, and smart digital strategies.",
         "delay": 600
     },
     {
         "id": 4,
         "icon": "flaticon-web",
-        "title": "Project manage",
-        "text": "Integer molestie magna in augue euismod,",
+        "title": "IT Consultancy",
+        "text": "Providing expert advice to help businesses adopt the right tech solutions.",
         "delay": 800
     }
 ]

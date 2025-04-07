@@ -2,81 +2,81 @@
     {
         "id": 1,
         "number": 1,
-        "thumb": "seller1.png",
+        "thumb": "seller1.jpg",
         "icon": "fas fa-check",
-        "name": "Michele Morrone",
-        "items": 230
+        "name": "Shaista Azam",
+        "Projects": 15
     },
     {
         "id": 2,
         "number": 2,
-        "thumb": "seller2.png",
+        "thumb": "seller2.jpg",
         "icon": "fas fa-check",
-        "name": "John Kery",
-        "items": 240
+        "name": "Kashan Shafiq",
+        "projects": 18
     },
     {
         "id": 3,
         "number": 3,
-        "thumb": "seller3.png",
+        "thumb": "seller3.jpg",
         "icon": "fas fa-check",
-        "name": "Hardy Voughn",
-        "items": 250
+        "name": "Aqsa Bukhari",
+        "services": 15
     },
     {
         "id": 4,
         "number": 4,
-        "thumb": "seller4.png",
+        "thumb": "seller4.jpg",
         "icon": "fas fa-check",
-        "name": "jonathan Tomas",
-        "items": 260
+        "name": "Arslan Zaheer",
+        "contracts": 22
     },
     {
         "id": 5,
         "number": 5,
-        "thumb": "seller5.png",
+        "thumb": "seller6.jpg",
         "icon": "fas fa-check",
-        "name": "Nicolas Morrone",
-        "items": 230
+        "name": "Asma Saleem",
+        "services": 30
     },
     {
         "id": 6,
         "number": 6,
-        "thumb": "seller1.png",
+        "thumb": "seller5.jpg",
         "icon": "fas fa-check",
-        "name": "Michele Morrone",
-        "items": 230
+        "name": "Laiba Rana",
+        "projects": 28
     },
     {
         "id": 7,
         "number": 7,
-        "thumb": "seller2.png",
+        "thumb": "seller4.jpg",
         "icon": "fas fa-check",
-        "name": "John Kery",
-        "items": 240
+        "name": "Arslan Zaheer",
+        "clients": 33
     },
     {
         "id": 8,
         "number": 8,
-        "thumb": "seller3.png",
+        "thumb": "seller3.jpg",
         "icon": "fas fa-check",
-        "name": "Hardy Voughn",
-        "items": 250
+        "name": "Aqsa Bukhari",
+        "contracts": 40
     },
     {
         "id": 9,
         "number": 9,
-        "thumb": "seller4.png",
+        "thumb": "seller1.jpg",
         "icon": "fas fa-check",
-        "name": "jonathan Tomas",
-        "items": 260
+        "name": "Shaista Azam",
+        "services": 45
     },
     {
         "id": 10,
         "number": 10,
-        "thumb": "seller5.png",
+        "thumb": "seller5.jpg",
         "icon": "fas fa-check",
-        "name": "Nicolas Morrone",
-        "items": 230
+        "name": "Laiba Rana",
+        "projects": 50
     }
 ]

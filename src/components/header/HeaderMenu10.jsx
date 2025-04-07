@@ -41,7 +41,7 @@ const HeaderMenu10 = () => {
                 <div className="main-header header-ten">
                     <div className="header-top bg-blue py-10 text-center text-white">
                         <div className="container">
-                            <p>Welcome to Saaxio a modern saas landing template. Have any project <Link to="/contact#">Contact Us</Link></p>
+                            <p>Welcome to Software Stories Ltd – Your Partner in Innovative Software Solutions. Have a project in mind? Let’s build it together <hr /><Link to="/contact#">Contact Us</Link></p>
                         </div>
                     </div>
                     <div className="header-upper">

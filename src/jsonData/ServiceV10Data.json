@@ -3,32 +3,32 @@
         "id": "1",
         "icon": "flaticon flaticon-art",
         "icon2": "fas fa-arrow-right",
-        "title": "Smarter Insights",
-        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "title": "Custom Software Solutions",
+        "text": "We build scalable software tailored to your business needs — efficient, reliable, and secure.",
         "delay": 200
     },
     {
         "id": "2",
         "icon": "flaticon flaticon-web",
         "icon2": "fas fa-arrow-right",
-        "title": "Supper Faster",
-        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "title": "Responsive Web Development",
+        "text": "Get high-performance websites and web apps that look amazing and work flawlessly on all devices.",
         "delay": 400
     },
     {
         "id": "3",
         "icon": "flaticon flaticon-3d",
         "icon2": "fas fa-arrow-right",
-        "title": "Developer Friendly",
-        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "title": "Mobile App Development",
+        "text": "Build user-friendly mobile applications that elevate your brand on iOS and Android platforms.",
         "delay": 600
     },
     {
         "id": "4",
         "icon": "flaticon flaticon-bars",
         "icon2": "fas fa-arrow-right",
-        "title": "Organize Easily",
-        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "title": "UI/UX & Graphic Design",
+        "text": "We craft visually engaging designs and smooth user experiences that connect with your audience.",
         "delay": 800
     }
 ]

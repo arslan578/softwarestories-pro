@@ -1,7 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
-import customization1 from '/images/about/customization-1.png'
-import customization2 from '/images/about/customization-1.png'
+import customization1 from '/images/about/customization-1.jpg'
+import customization2 from '/images/about/customization-1.jpg'
 import { HashLink as Link } from 'react-router-hash-link';
 
 const DescriptionV1 = () => {

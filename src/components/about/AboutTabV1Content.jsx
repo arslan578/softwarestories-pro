@@ -1,6 +1,6 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
-import aboutTabThumb from '/images/about/about-tab.png'
+import aboutTabThumb from '/images/about/about-tab.jpg';
 
 const AboutTabV1Content = () => {
     return (

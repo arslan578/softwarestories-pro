@@ -17,9 +17,11 @@ const StatisticsV1 = (props) => {
                                     <div className="counter-left-content px-100 py-70">
                                         <div className="section-title mb-30">
                                             <span className="sub-title">Company Statistics</span>
-                                            <h2>We have achieved many world wide awards</h2>
+                                            <h2>Committed to excellence with a vision for global recognition through innovative digital solutions.</h2>
                                         </div>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing sed do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam.</p>
+                                        <p>At Software Stories LTD, we specialize in transforming innovative ideas into powerful digital solutions. From concept to deployment, we deliver seamless software experiences that drive results."
+
+"Our team is dedicated to crafting high-quality websites, mobile apps, and tailored software solutions that meet the unique needs of businesses across all industries.</p>
                                         <Link to="/about#" className="theme-btn style-five">Learn More</Link>
                                     </div>
                                 </Fade>

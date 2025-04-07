@@ -18,7 +18,8 @@ const TestimonialV3 = () => {
                                     <div className="testimonial-three-content text-center p-55 ">
                                         <div className="section-title mb-25">
                                             <span className="sub-title">Testimonials</span>
-                                            <h2>2356+ client say <br />about us</h2>
+                                            <h2>Starting strong with growing client trust and <br />positive feedback from every project.</h2>
+
                                         </div>
                                         <div className="testimonial-three-active">
                                             <Swiper

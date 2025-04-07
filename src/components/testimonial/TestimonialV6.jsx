@@ -17,7 +17,7 @@ const TestimonialV6 = () => {
                                 <div className="testimonial-six-content ">
                                     <div className="section-title mb-30">
                                         <span className="sub-title">Testimonial</span>
-                                        <h2>Awesome Clients Feedback</h2>
+                                        <h2>Awesome Team</h2>
                                     </div>
                                     <div className="testi-author-images mb-45">
                                         <img src="/images/testimonials/test1.png" alt="Testimonial" />

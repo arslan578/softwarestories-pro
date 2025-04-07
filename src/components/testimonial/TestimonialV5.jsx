@@ -8,7 +8,7 @@ import TestimonialCustomNavigation from './TestimonialCustomNavigation';
 const TestimonialV5 = () => {
     return (
         <>
-            <section className="testimonial-five pt-120 rpt-100 mb-55" style={{ backgroundImage: "url(/images/testimonials/testimonial-five-bg.jpg)" }}>
+            <section className="testimonial-five pt-120 rpt-100 mb-55 " style={{ backgroundImage: "url(/images/testimonials/testimonial-five-bg.jpg)",   minHeight: "700px" }}>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-7">

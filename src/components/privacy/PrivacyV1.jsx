@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import ModalVideo from 'react-modal-video';
 import PrivacyV1Data from '../../jsonData/PrivacyV1Data.json'
 import { HashLink as Link } from 'react-router-hash-link';
-import protectThumb from '/images/protects/left-image.png'
+import protectThumb from '/images/protects/left-image.jpg'
 import SinglePrivacyV1 from './SinglePrivacyV1';
 
 const PrivacyV1 = () => {

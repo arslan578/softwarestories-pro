@@ -1,30 +1,32 @@
 [
     {
         "id": 1,
-        "text": "Aenean volutpat in massa at euismod. Phasellus quis viverra lacus, ac interdum dui. Quisque pretium metus id molestie aliquet. In nec neque in metus placerat commodo. Sed in bibendum lorem.",
-        "name": "David Beckham",
-        "designation": "UI Designer",
-        "author": "test-six-author-1.png"
+        "text": "Shaista Azam is a skilled MERN Stack Developer, proficient in building scalable web applications. She has expertise in React.js, Node.js, Express.js, and MongoDB, creating seamless user experiences.",
+        "name": "Shaista Azam",
+        "designation": "MERN Stack Developer"
+       
     },
     {
         "id": 2,
-        "text": "Aenean volutpat in massa at euismod. Phasellus quis viverra lacus, ac interdum dui. Quisque pretium metus id molestie aliquet. In nec neque in metus placerat commodo. Sed in bibendum lorem.",
-        "name": "Selina Gomez",
-        "designation": "UX Expert",
-        "author": "test-six-author-2.png"
+        "text": "Kashan Shafique specializes in Python and Django, developing robust backend systems. His ability to optimize performance and handle complex data structures sets him apart.",
+        "name": "Kashan Shafique",
+        "designation": "Python and Django Developer"
+    
     },
     {
         "id": 3,
-        "text": "Aenean volutpat in massa at euismod. Phasellus quis viverra lacus, ac interdum dui. Quisque pretium metus id molestie aliquet. In nec neque in metus placerat commodo. Sed in bibendum lorem.",
-        "name": "David Beckham",
-        "designation": "UI Designer",
-        "author": "test-six-author-1.png"
+        "text": "Asma Saleem excels in human resource management, ensuring a healthy work environment. Her efforts in employee engagement and satisfaction contribute significantly to the company's success.",
+        "name": "Asma Saleem",
+        "designation": "HR"
+       
+        
     },
     {
         "id": 4,
-        "text": "Aenean volutpat in massa at euismod. Phasellus quis viverra lacus, ac interdum dui. Quisque pretium metus id molestie aliquet. In nec neque in metus placerat commodo. Sed in bibendum lorem.",
-        "name": "Selina Gomez",
-        "designation": "UX Expert",
-        "author": "test-six-author-2.png"
+        "text": "Laiba Rana is an innovative Design Lead, bringing creative solutions to user experience challenges. Her expertise in UI/UX design ensures visually appealing and user-friendly interfaces.",
+        "name": "Laiba Rana",
+        "designation": "Design Lead"
+      
     }
 ]
+

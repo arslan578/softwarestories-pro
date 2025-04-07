@@ -14,7 +14,7 @@ const ServiceV8 = () => {
                         <div className="col-lg-8">
                             <div className="section-title mb-75">
                                 <span className="sub-title">03 Our Services</span>
-                                <h2>Our proposition Data Science and Analytics Services</h2>
+                                <h2>Our proposition Web Development and AI & Automation Solutions</h2>
                             </div>
                         </div>
                     </div>

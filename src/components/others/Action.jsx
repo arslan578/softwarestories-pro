@@ -13,8 +13,9 @@ const Action = () => {
                     <div className="row align-items-end mb-40">
                         <div className="col-xl-6 col-lg-8">
                             <div className="section-title mb-20">
-                                <span className="sub-title">Actions</span>
-                                <h2>Live Auctions</h2>
+                            <span className="sub-title">Innovation in Action</span>
+                      <h2>Crafting Powerful Digital Experiences</h2>
+
                             </div>
                         </div>
                     </div>

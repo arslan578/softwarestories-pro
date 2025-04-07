@@ -17,7 +17,7 @@ const FooterV10 = () => {
                                     <Link to="/#"><img src={logoTwo} alt="Logo" /></Link>
                                 </div>
                                 <div className="text">
-                                    On the other hand denounce with righteous indignation dislike beguiled and demoralized
+                                    Software Stories Ltd. is a tech-driven company offering innovative solutions in the field of mobile app development and web-based platforms. We focus on helping businesses grow with tailor-made software services.
                                 </div>
                                 <div className="social-style-two mt-30">
                                     <SocialShare />
@@ -32,7 +32,7 @@ const FooterV10 = () => {
                                     <li><Link to="#">Privacy & Policy</Link></li>
                                     <li><Link to="/services#">Our Services</Link></li>
                                     <li><Link to="#">Core Features</Link></li>
-                                    <li><Link to="/about#">About Applio</Link></li>
+                                    <li><Link to="/about#">About Software Stories Ltd.</Link></li>
                                 </ul>
                             </div>
                         </div>
@@ -42,7 +42,7 @@ const FooterV10 = () => {
                                 <ul className="list-style-three">
                                     <li><Link to="#">My Dashboard</Link></li>
                                     <li><Link to="#">Need a Career?</Link></li>
-                                    <li><Link to="#">Download Apps</Link></li>
+                                    <li><Link to="#">Download Our Apps</Link></li>
                                     <li><Link to="#">Meet The Team</Link></li>
                                     <li><Link to="#">Newsletter</Link></li>
                                 </ul>
@@ -62,7 +62,7 @@ const FooterV10 = () => {
                 <div className="copyright-area mt-30 bg-lighter">
                     <div className="container">
                         <div className="copyright-inner justify-content-center">
-                            <p>Copyright &copy; {(new Date().getFullYear())} Restly All Rights Reserved.</p>
+                            <p>Copyright &copy; {(new Date().getFullYear())} Software Stories Ltd. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>
