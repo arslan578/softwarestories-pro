@@ -39,7 +39,7 @@ const HeaderMenuV1 = () => {
                                 <ul>
                                     <li> <strong>Call Us:</strong> <a href="tel:07438255631">07438255631</a></li>
                                     <li><strong>Email us: </strong><a href="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a></li>
-                                    <li><strong>Our Address:</strong><br />71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom</li>
+                                    <li><strong>Our Address :  </strong>      71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom</li>
                                 </ul>
                             </div>
                             <div className="top-right">

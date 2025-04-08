@@ -9,6 +9,7 @@ import PricingPlanV1 from '../../components/pricing/PricingPlanV1';
 import GalleryV1 from '../../components/gallery/GalleryV1';
 import BlogV1 from '../../components/blog/BlogV1';
 import FooterV1 from '../../components/footer/FooterV1';
+import '../../assets/css/animation.css'
 
 const HomeOne = () => {
     return (

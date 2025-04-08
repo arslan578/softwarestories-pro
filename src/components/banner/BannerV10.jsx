@@ -4,7 +4,7 @@ import heroMobile from "/images/hero/hero-ten-mobile.jpg";
 import heroThumb1 from "/images/hero/hero-ten-1.png";
 import heroThumb2 from "/images/hero/hero-ten-2.png";
 import heroThumb3 from "/images/hero/hero-ten-3.png";
-import heroThumb4 from "/images/hero/hero-ten-4.png";
+import heroThumb4 from "/images/hero/hero-ten-4.jpg";
 import heroThumb5 from "/images/hero/hero-ten-5.png";
 
 const BannerV10 = () => {

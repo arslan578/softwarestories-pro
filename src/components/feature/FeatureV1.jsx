@@ -2,12 +2,13 @@ import React from 'react';
 import FeatureV1Data from '../../jsonData/FeatureV1Data.json'
 import SingleFeatureV1 from './SingleFeatureV1';
 import { HashLink as Link } from 'react-router-hash-link';
+import Button2 from '../importedButtons/Button2';
 
 const FeatureV1 = (props) => {
     const { featureSpace } = props
 
     return (
-        <>
+        <div className="scroll-animate">
             <section className={`featured-section bgs-cover rpt-150 pb-120 rpb-100 ${featureSpace}`} style={{ backgroundImage: "url(/images/feature/feature-bg.jpg)" }}>
                 <div className="container">
                     <div className="row">
@@ -26,11 +27,13 @@ const FeatureV1 = (props) => {
                         )}
                     </div>
                     <div className="feature-btn text-center mt-20">
-                        <Link to="/services#" className="theme-btn">view all services</Link>
+                        <Link to="/services#" className="">
+                        <Button2 value="view all services"/>
+                        </Link>
                     </div>
                 </div>
             </section>
-        </>
+        </div>
     );
 };
 
