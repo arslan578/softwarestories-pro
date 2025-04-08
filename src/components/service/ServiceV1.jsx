@@ -1,7 +1,6 @@
 import React from 'react';
 import Service1Data from '../../jsonData/ServiceV1Data.json'
 import SingleServiceV1 from './SingleServiceV1';
-// import SingleServiceV1 from './singleServiceV1';
 
 const ServiceV1 = () => {
     return (
