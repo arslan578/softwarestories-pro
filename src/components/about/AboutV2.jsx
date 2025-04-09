@@ -21,11 +21,10 @@ const AboutV2 = () => {
                                 <Fade right delay={300}>
                                     <div className="about-content pt-75 rpt-20 pr-70 rpr-0">
                                         <div className="section-title mb-35">
-                                            <span className="sub-title">IT Solutions for Your Business</span>
-                                            <h2>Preparing for your success trusted source in IT services.</h2>
+                                        <span className="sub-title">IT Solutions for Your Business</span>
+                                            <h2>Preparing for your success, trusted source in IT services.</h2>
                                         </div>
-                                        <p>At Software Stories LTD, we provide cutting-edge technology solutions to 
-                                            help businesses thrive in the digital world.</p>
+                                        <p>At Software Stories LTD, forward thinking technical solutions are provided to organizations to cope with the modern digital world.</p>
                                         <ul className="list-style-three mt-15">
                                             <li>which means as the company ramps</li>
                                             <li>Available in 14.1-in. and 16-in. versions.</li>

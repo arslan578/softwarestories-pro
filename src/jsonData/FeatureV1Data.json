@@ -3,7 +3,7 @@
         "id": 1,
         "icon": "flaticon-art",
         "title": "Web Development",
-        "text": "Empowering businesses with cutting-edge web and app development solutions. Transform your ideas into reality with Software Stories LTD",
+        "text": "Helping businesses bring their ideas to life with powerful websites, apps, and custom software. Launch your next big product with Software Stories LTD by your side.",
         "icon2": "fas fa-arrow-right",
         "delay": 200
     },
@@ -48,3 +48,4 @@
         "delay": 1200
     }
 ]
+
