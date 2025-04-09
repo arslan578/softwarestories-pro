@@ -5,7 +5,7 @@ const Button2 = (value) => {
   return (
     <StyledWrapper>
       <button className="btn">
-       view all services
+       View All S ervices
       </button>
     </StyledWrapper>
   );
@@ -24,7 +24,7 @@ const StyledWrapper = styled.div`
     color: rgb(234, 234, 234);
     font-weight: 700;
     transition: 0.6s;
-    box-shadow: 0px 0px 60px #1f4c65;
+    box-shadow: 0px 0px 12px #1f4c65;
     // -webkit-box-reflect: below 10px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
   }
 

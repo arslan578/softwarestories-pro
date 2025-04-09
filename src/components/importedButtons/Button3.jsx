@@ -4,15 +4,15 @@ import styled from 'styled-components';
 const Button3 = () => {
   return (
     <StyledWrapper>
-      <button>Meet with us</button>
+      <button>Meet With Us</button>
     </StyledWrapper>
   );
 }
 
 const StyledWrapper = styled.div`
   button {
-   --border-radius: 15px;
-   --border-width: 3px;
+   --border-radius: 10px;
+   --border-width: 2.5px;
    appearance: none;
    position: relative;
    padding: 0.8em 2em;

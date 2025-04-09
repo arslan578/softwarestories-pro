@@ -28,7 +28,7 @@ const FeatureV1 = (props) => {
                     </div>
                     <div className="feature-btn text-center mt-20">
                         <Link to="/services#" className="">
-                        <Button2 value="view all services"/>
+                        <Button2 />
                         </Link>
                     </div>
                 </div>
