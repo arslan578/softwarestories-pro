@@ -20,10 +20,10 @@ const PortfolioDetailsContent = () => {
                                     <img src={portfolioDetails} alt="Portfolio Details" />
                                 </div>
                                 <h2>Web Development</h2>
-                                <p>At Software Stories LTD, we specialize in delivering top-tier technology solutions, including web and mobile app development, IT consultancy, and data analytics. Our mission is to empower businesses with cutting-edge digital solutions that drive success and efficiency.
+                                <p>At Software Stories LTD, We have proven excellence in providing advanced technology solutions in web and mobile application development, IT consulting, and data analysis. The organization aims to empower enterprises with the latest innovative capabilities in the digital space to enhance their operational efficiencies and business growth.
 
-                 With a team of experienced developers and IT professionals, we create scalable, secure, and innovative applications tailored to meet your business needs. Whether you require a high-performance website, a feature-rich mobile app, or expert guidance in technology strategy, 
-                 we are here to help. Let’s build the future of technology togethe</p>
+                 With a team of experienced developers and IT professionals, we create secure and innovative applications to meet your business needs. Whether you require a high performance website, a feature rich mobile app, or expert guidance in technology strategy, 
+                 we are here to help. Let’s build the future of technology together </p>
                                 <div className="row mt-45">
                                     <div className="col-sm-6">
                                         <div className="image mb-30">

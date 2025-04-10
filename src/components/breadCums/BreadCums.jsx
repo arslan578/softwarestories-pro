@@ -10,7 +10,8 @@ const BreadCums = ({ pageTitle, pageLink }) => {
                         <h1 className="page-title">{pageTitle ? pageTitle : "404 Not Found"}</h1>
                         <nav aria-label="breadcrumb">
                             <ol className="breadcrumb">
-                                <li className="breadcrumb-item"><Link to="/#">Home</Link></li>
+                                <li className="breadcrumb-item"><Link to="/#">At Software Stories Ltd, we create brilliant ideas into <br />reality through strong digital solutions.Mobile applications, <br/>online security, or a digital marketing drive, <br/>
+                                whatever your business requirements, we have you covered.</Link></li>
                                 <li className="breadcrumb-item active">{pageLink ? pageLink : "404 Not Found"}</li>
                             </ol>
                         </nav>

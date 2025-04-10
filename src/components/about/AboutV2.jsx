@@ -26,9 +26,9 @@ const AboutV2 = () => {
                                         </div>
                                         <p>At Software Stories LTD, forward thinking technical solutions are provided to organizations to cope with the modern digital world.</p>
                                         <ul className="list-style-three mt-15">
-                                            <li>which means as the company ramps</li>
-                                            <li>Available in 14.1-in. and 16-in. versions.</li>
-                                            <li>The potential loss of the Touch Bar.</li>
+                                            <li>which means as the business scales</li>
+                                            <li>Available in cybersecurity, marketing & apps.</li>
+                                            <li>The potential impact of data breaches.</li>
                                             <li>High-speed USB 4.0.</li>
                                         </ul>
                                         <Link to="/about#" className="theme-btn style-three mt-25">View details</Link>

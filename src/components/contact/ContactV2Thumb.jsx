@@ -7,7 +7,7 @@ const ContactV2Thumb = () => {
             <Fade className="fadeInRight" delay={300}>
                 <div className="contact-image-number style-two bgs-cover overlay" style={{ backgroundImage: "url(/images/contact/home-two.jpg)" }}>
                     <div className="contact-informations text-white">
-                        <h3>Dont hesitate to contact us</h3>
+                        <h3> contact us</h3>
                         <ul className="contact-info">
                             <li>
                                 <i className="fas fa-phone-alt"></i>

@@ -19,7 +19,7 @@ const FooterV4Content = (props) => {
                                 <Link to="/#"><img src={logo ? footerLogo : footerLogo2} alt="Logo" /></Link>
                             </div>
                             <div className="text">
-                                Sed ut perspiciatis unde omnis natus evoluptat emaccu santium doloremque laudantium totam rem aperiam eaquepsa
+                                Software Stories Ltd. is your digital partner in web development, app development, cybersecurity, and digital marketing. Empowering businesses with modern tech solutions.
                             </div>
                             <div className="social-style-two mt-30">
                                 <SocialShare />
@@ -32,9 +32,9 @@ const FooterV4Content = (props) => {
                             <ul className="list-style-three">
                                 <li><Link to="/about#">About Us</Link></li>
                                 <li><Link to="#">Latest Events</Link></li>
-                                <li><Link to="#">How It Work</Link></li>
+                                <li><Link to="#">How It Works</Link></li>
                                 <li><Link to="/blog#">News & Articles</Link></li>
-                                <li><Link to="/contact#">contact us</Link></li>
+                                <li><Link to="/contact#">Contact Us</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -43,9 +43,9 @@ const FooterV4Content = (props) => {
                             <h4 className="footer-title">Contacts</h4>
                             <ul className="list-style-two">
                                 <li><i className="fas fa-map-marker-alt"></i>71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom</li>
-                                <li><i className="fas fa-clock"></i> Mon-Fri 9:00 - 6:00</li>
-                                <li><i className="fas fa-phone-alt"></i> <Link to="tel:+012-345-6789">+07438255631</Link></li>
-                                <li><i className="fas fa-envelope"></i> <Link to="aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</Link></li>
+                                <li><i className="fas fa-clock"></i> Mon-Fri 9:00AM - 5:00PM</li>
+                                <li><i className="fas fa-phone-alt"></i> <Link to="tel:+07438255631">+07438255631</Link></li>
+                                <li><i className="fas fa-envelope"></i> <Link to="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</Link></li>
                             </ul>
                         </div>
                     </div>

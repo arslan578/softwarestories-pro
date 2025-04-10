@@ -12,7 +12,7 @@ const FooterCopyRightV1 = (props) => {
                         <div className="social-style-one mb-10">
                             <SocialShare />
                         </div>
-                        <p>&copy; {(new Date().getFullYear())} Restly All Rights Reserved.</p>
+                        <p>&copy; {(new Date().getFullYear())} Software Stories LTD All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
