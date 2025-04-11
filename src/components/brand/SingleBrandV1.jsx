@@ -7,6 +7,7 @@ const SingleBrandV1 = ({ brand }) => {
     return (
         <>
             <div className="logo-item">
+              
                 <Link to="#">
                     <img src={`images/client-logo/${thumb}`} alt="Client Logo" />
                 </Link>

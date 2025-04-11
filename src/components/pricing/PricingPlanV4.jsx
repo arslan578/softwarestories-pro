@@ -17,7 +17,8 @@ const PricingPlanV4 = () => {
                                         <span className="sub-title">Pricing Packages</span>
                                         <h2>Choose Best Plan</h2>
                                     </div>
-                                    <p>At Software Stories Ltd, we turn ideas into powerful digital solutions, helping businesses grow through innovative technology and creative development.</p>
+                                    <p>At Software Stories Ltd, each concept finds its powerful digital solution, 
+                                        made possible for a business to grow with creativity from the edges..</p>
                                     <ul className="nav nav-tabs price-five-tab">
                                         <div className="monthly-yearly mt-15 mb-30">
                                             <li className='nav-item' role='presentation'>
@@ -35,7 +36,7 @@ const PricingPlanV4 = () => {
                                             </li>
                                         </div>
                                     </ul>
-                                    <p>Delivering innovative tech solutions tailored to your business needs.</p>
+                                    <p>Delivering innovative tech solutions aligning with your business needs.</p>
                                     <Link to="/pricing-5#" className="theme-btn style-two mt-10">learn more</Link>
                                 </div>
                             </Fade>

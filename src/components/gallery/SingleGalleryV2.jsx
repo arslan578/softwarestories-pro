@@ -3,7 +3,7 @@ import { Fade } from 'react-reveal';
 import { HashLink as Link } from 'react-router-hash-link';
 
 const SingleGalleryV2 = ({ gallery }) => {
-    const { delay, thumb, title } = gallery;
+    const { delay, thumb, title, slug} = gallery;
 
     return (
         <>
@@ -12,8 +12,8 @@ const SingleGalleryV2 = ({ gallery }) => {
                     <img src={`/images/gallery/${thumb}`} alt="Gallery" />
                     <div className="gallery-content">
                         <div className="gallery-content-inner">
-                            <h5><Link to="/portfolio-details#">{title}</Link></h5>
-                            <Link to="/portfolio-details#" className="learn-more">Read More <i className="fas fa-arrow-right"></i></Link>
+                            <h5><Link to={slug}>{title}</Link></h5>
+                            <Link to={slug} className="learn-more">Read More <i className="fas fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>

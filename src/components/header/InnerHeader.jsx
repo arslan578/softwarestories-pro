@@ -3,7 +3,7 @@ import NavigationMenu from './NavigationMenu';
 import logo from '/images/logos/logo.png'
 import { HashLink as Link } from 'react-router-hash-link';
 import MobileHeader from './MobileHeader';
-
+import Button3 from '../importedButtons/Button3';
 const InnerHeader = () => {
 
     const [isSticky, setIsSticky] = useState(false);
@@ -60,7 +60,9 @@ const InnerHeader = () => {
                                         <NavigationMenu />
                                     </nav>
                                     <div className="menu-btn">
-                                        <Link to="/contact#" className="theme-btn">meet with us</Link>
+                                        <Link to="/contact#" >
+                                        <Button3/>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>

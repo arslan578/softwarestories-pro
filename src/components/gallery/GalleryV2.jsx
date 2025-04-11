@@ -16,7 +16,7 @@ const GalleryV2 = ({ partial = true }) => {
                             <>
                                 {GalleryV2Data.slice(0, 3).map(gallery =>
                                     <div className="col-xl-4 col-md-6" key={gallery.id}>
-                                        <SingleGalleryV2 gallery={gallery} />
+                                        <SingleGalleryV2  gallery={gallery} />
                                     </div>
                                 )}
                             </> ||

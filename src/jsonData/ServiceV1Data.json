@@ -4,7 +4,7 @@
         "thumb": "service-five-1.jpg",
         "icon": "flaticon-computer",
         "title": "Web Development",
-        "text": "At Software Stories LTD, we specialize in Web Development, Mobile App Development, and IT Consultancy. Our expert solutions ensure your business stays ahead in the digital era.",
+        "text": "We are into the expertise of Web Development, Mobile App Development, and IT Consultancy at Software Stories LTD. Our solutions will keep your business one step ahead in this digital era.",
         "icon2": "fas fa-long-arrow-alt-right",
         "title2": "Preparing For Your Business Success With IT Solution",
         "text2": "Software Stories LTD – Your trusted partner in Web Development, App Development, and IT Consultancy",
@@ -15,10 +15,10 @@
         "thumb": "service-five-2.jpg",
         "icon": "flaticon-web-development-4",
         "title": "Cybersecurity & IT Consulting",
-        "text": "Software Stories LTD – Innovating the Future with Cutting-Edge IT Solutions. From Cybersecurity and IT Consulting, we provide top-tier services to help your business thrive in the digital world",
+        "text": "Software Stories LTD - Assist Business to Grow with Smart and Reliable IT Solutions. Cybersecurity or IT Consulting, we are there to making your digital journey smoother, safer, and more successful.",
         "icon2": "fas fa-long-arrow-alt-right",
         "title2": "Preparing For Your Business Success With IT Solution",
-        "text2": "Protect your business from rising cyber threats with our advanced security solutions. We offer network security, data encryption, threat analysis, penetration testing, and compliance solutions to keep your digital assets safe",
+        "text2": "Safeguard your business from emerging cyber threats with advanced security solutions. Provide network security, data encryption, threat analysis, penetration testing, and compliance solutions for the protection of your digital assets.",
         "delay": 400
     },
     {
@@ -26,10 +26,10 @@
         "thumb": "service-five-3.jpg",
         "icon": "flaticon-web",
         "title": "App Development",
-        "text": "Software Stories LTD – Crafting Innovative and Scalable Mobile & Web Applications. We specialize in creating user-friendly, high-performance apps tailored to your business needs",
+        "text": "Software Stories LTD – Ingeniously developing mobile apps that are also usable with the web. This consists of an assortment of utility apps that are suited for businesses.",
         "icon2": "fas fa-long-arrow-alt-right",
         "title2": "Preparing For Your Business Success With IT Solution",
-        "text2": "Software Stories LTD – Delivering Cutting-Edge Web & App Development Solutions for Modern Businesses",
+        "text2": "Software Stories LTD – Advanced web and app development services for modern businesses",
         "delay": 600
     },
     {
@@ -37,10 +37,10 @@
         "thumb": "service-five-4.jpg",
         "icon": "flaticon-data",
         "title": "Digital Marketing",
-        "text": "Boost Your Online Presence with Software Stories LTD – SEO, Social Media, & Performance Marketing Solution",
+        "text": "Grow Your Online Presence with Software Stories LTD – A SEO, Social Media, and Performance Marketing Solution.",
         "icon2": "fas fa-long-arrow-alt-right",
         "title2": "Preparing For Your Business Success With IT Solution",
-        "text2": "Software Stories LTD – Transforming Businesses with Data-Driven Digital Marketing Strategies",
+        "text2": "Software Stories LTD - Business Transformation through Digital Marketing Strategies",
         "delay": 800
     },
     {
@@ -48,10 +48,10 @@
         "thumb": "service-five-1.jpg",
         "icon": "flaticon-prototype",
         "title": "AI Automation Services",
-        "text": "Revolutionize Your Business with AI & Automation – Smart Solutions by Software Stories LTD",
+        "text": "Take your idea to the next level with intelligent AI and automation solutions and Software Stories LTD.",
         "icon2": "fas fa-long-arrow-alt-right",
         "title2": "Preparing For Your Business Success With IT Solution",
-        "text2": "Enhance Efficiency with AI-Powered Automation – Optimize Workflows & Boost Productivity",
+        "text2": "Maximize Efficiency through AI Technology: Optimizing Workflows, Productivity, and Implications",
         "delay": 1000
     },
     {
@@ -59,10 +59,10 @@
         "thumb": "service-five-2.jpg",
         "icon": "flaticon-plan",
         "title": "Software Development ",
-        "text": "Custom Software & SaaS Solutions – Secure, Scalable, and Tailored for Your Business Growth.",
+        "text": "It's all about the customization of software and SaaS solutions- customized to meet your needs, scalable and secure-so as to help you to grow in your core business.",
         "icon2": "fas fa-long-arrow-alt-right",
         "title2": "Preparing For Your Business Success With IT Solution",
-        "text2": "Innovative Software Solutions & Scalable SaaS Development – Transforming Ideas into Reality.",
+        "text2": "We turn your ideas into real, working software — with smart solutions and scalable SaaS development that grows with you.",
         "delay": 1200
     }
 ]

@@ -3,7 +3,7 @@
         "id": 1,
         "icon": "flaticon-speech-bubble",
         "title": "Advertising and Marketing",
-        "text": "Software Stories LTD – Transforming Businesses with Data-Driven Digital Marketing Strategies",
+        "text": "Software Stories LTD – Transforming Businesses with Digital Marketing Strategies",
         "delay": 200,
         "step": "01"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "icon": "flaticon-vector",
         "title": "Web Development",
-        "text": "We at Software Stories LTD specialize in Web Development, App Development, and IT Solutions, helping businesses thrive in the digital age.e",
+        "text": "We at Software Stories LTD are experts in Web Development, App Development, and IT Solutions, helping businesses thrive in the digital age.",
         "delay": 400,
         "step": "02"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "icon": "flaticon-like-1",
         "title": "Mobile App Development",
-        "text": "At Software Stories LTD, we craft innovative digital solutions with expert Web and App Development services, ensuring business growth and success.",
+        "text": "At Software Stories LTD, We compose novelties in digital solutioning works that ensure growth and success in the business with the expert Web and App Development Services.",
         "delay": 600,
         "step": "03"
     }

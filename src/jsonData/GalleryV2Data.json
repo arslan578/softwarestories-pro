@@ -4,21 +4,24 @@
         "title": "Cyber Security Services",
         "thumb": "gallery-two-1.png",
         "thumb2": "gallery-three-1.jpg",
-        "delay": 200
+        "delay": 200,
+        "slug":"/security-page#"
     },
     {
         "id": 2,
         "title": "Web Development",
         "thumb": "gallery-two-2.jpg",
         "thumb2": "gallery-three-2.jpg",
-        "delay": 400
+        "delay": 400,
+         "slug":"/Webdevelopment-page#"
     },
     {
         "id": 3,
         "title": " Digital Marketing ",
         "thumb": "gallery-two-3.jpg",
         "thumb2": "gallery-three-3.jpg",
-        "delay": 600
+        "delay": 600,
+        "slug":"/Digitalmarketing-page#"
     },
     {
         "id": 4,

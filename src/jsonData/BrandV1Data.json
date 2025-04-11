@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "client-logo-1.png"
+        "thumb": "client-logo-1.jpg"
     },
     {
         "id": 2,
@@ -21,23 +21,23 @@
     },
     {
         "id": 6,
-        "thumb": "client-logo-1.png"
+        "thumb": "client-logo-66.jpg"
     },
     {
         "id": 7,
-        "thumb": "client-logo-2.png"
+        "thumb": "client-logo-77.png"
     },
     {
         "id": 8,
-        "thumb": "client-logo-3.png"
+        "thumb": "client-logo-88.jpg"
     },
     {
         "id": 9,
-        "thumb": "client-logo-4.png"
+        "thumb": "client-logo-1.jpg"
     },
     {
         "id": 10,
-        "thumb": "client-logo-5.png"
+        "thumb": "client-logo-2.png"
     },
     {
         "id": 11,
@@ -45,6 +45,6 @@
     },
     {
         "id": 12,
-        "thumb": "client-logo-2.png"
+        "thumb": "client-logo-4.png"
     }
 ]

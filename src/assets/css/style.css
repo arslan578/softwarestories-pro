@@ -47,13 +47,14 @@
 /* -------------------------------------------------------------- */
 
 /* Import Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;700;800&family=Rubik:wght@400;500&family=Oswald:wght@300;400;500;600;700&family=Mulish:wght@400;500;600&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;700;800&family=Rubik:wght@400;500&family=Oswald:wght@300;400;500;600;700&family=Mulish:wght@400;500;600&display=swap"); */
 
-@import url("../fonts/customFonts.css");
+/* @import url("../fonts/customFonts.css"); */
 
 /*******************************************************/
 /******************* 01. Default Style *****************/
 /*******************************************************/
+
 
 * {
   margin: 0;
@@ -62,7 +63,97 @@
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
+  font-weight: 500;
+  /* font-family: 'Poppins', sans-serif !important; */
+  /* font-family: 'Oswald', sans-serif !important;  */
+  /* font-family: 'Playfair Display', serif !important;  */
+  /* font-family: 'Bebas Neue', sans-serif !important; */
+  /* font-family: 'Source Serif Pro', serif !important; */
+  font-family: 'Quicksand', sans-serif !important;
+  /* font-family: 'Merriweather', serif !important; */
+  /* font-family: 'Montserrat', sans-serif !important; */
+  /* font-family: 'Lora', serif !important; */
+  /* font-family: 'Raleway', sans-serif !important; */
 }
+
+
+.colorful-border {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  background: white;
+  z-index: 1;
+  overflow: hidden;
+}
+
+/* The rotating border */
+.colorful-border::before {
+  content: "";
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: conic-gradient(#ff0000,
+      #ff7300,
+      #fffb00,
+      #48ff00,
+      #00ffd5,
+      #002bff,
+      #7a00ff,
+      #ff00ab,
+      #ff0000);
+  z-index: -1;
+  animation: rotate 4s linear infinite;
+  border-radius: 18px;
+}
+
+/* Mask inner content so only border shows */
+.colorful-border::after {
+  content: "";
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  right: 6px;
+  bottom: 6px;
+  background: white;
+  z-index: 2;
+  border-radius: 12px;
+}
+
+/* Rotate animation */
+@keyframes rotate {
+  0% {
+    transform: rotate(0turn);
+  }
+
+  100% {
+    transform: rotate(1turn);
+  }
+}
+
+
+/* style.css */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+button,
+section {
+  animation: fadeInUp 1s ease-out both;
+}
+
+
+
 
 body {
   color: #454545;
@@ -73,6 +164,9 @@ body {
   font-family: "Rubik", sans-serif;
   overflow-y: auto;
   overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  /* Regular weight */
 }
 
 a {
@@ -99,6 +193,8 @@ h4,
 h5,
 h6 {
   margin-bottom: 12px;
+  /* text-shadow: 0 0 10px 0 rgba(114, 103, 103, 0.5); */
+  text-shadow: 0 0 10px 0 rgb(123, 56, 17);
 }
 
 h1 a,
@@ -165,11 +261,19 @@ li {
 
 img {
   max-width: 100%;
- 
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  /* smooth and elegant */
+  will-change: transform;
   display: inline-block;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0 rgba(114, 103, 103, 0.5);
+
 }
 
+img:hover {
+  transform: scale3d(1.05, 1.05, 1.05);
 
+}
 
 header:after,
 section:after,
@@ -498,7 +602,9 @@ a.theme-btn.btn-circle {
 .theme-btn:hover,
 a.theme-btn:hover {
   color: white;
-  background: #000000;
+  background: #2a1d1d;
+  transform: scale(1.05);
+  box-shadow: 0 0 10px 0 rgba(114, 103, 103, 0.5);
 }
 
 .theme-btn:hover i,
@@ -562,7 +668,7 @@ a.theme-btn.style-six {
   padding: 10px 35px;
   color: #000000;
   background: transparent;
-  border: 1px solid #e5e5e5;
+  border: 5px solid #000000;
 }
 
 .theme-btn.style-six:hover,
@@ -6919,11 +7025,16 @@ h6,
 }
 
 .header-three .top-right .office-time {
-  display: flex;  /* Flexbox activate */
-  align-items: center;  /* Vertically center */
-  justify-content: flex-start; /* Left-align */
-  gap: 10px; /* Space between elements */
-  white-space: nowrap; /* Prevent line breaks */
+  display: flex;
+  /* Flexbox activate */
+  align-items: center;
+  /* Vertically center */
+  justify-content: flex-start;
+  /* Left-align */
+  gap: 10px;
+  /* Space between elements */
+  white-space: nowrap;
+  /* Prevent line breaks */
   margin-left: 35px;
 }
 
@@ -15194,7 +15305,7 @@ blockquote .author {
   top: 0;
   left: 0;
   opacity: 0.6;
- 
+
 }
 
 .contact-form-left h2 {

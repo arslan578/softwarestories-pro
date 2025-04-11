@@ -13,11 +13,11 @@ const SingleBlogDetails = () => {
                 <ul className="post-meta-item mr-15">
                     <li>
                         <i className="far fa-user"></i>
-                        <Link to="#">Daniel Custer</Link>
+                        <Link to="#">Aqsa Bukhari</Link>
                     </li>
                     <li>
                         <i className="fas fa-calendar-alt"></i>
-                        <Link to="#">25 Jan 2022</Link>
+                        <Link to="#">25 Mar 2025</Link>
                     </li>
                 </ul>
                 <div className="social-style-one d-flex">
@@ -25,21 +25,19 @@ const SingleBlogDetails = () => {
                     <SocialShare />
                 </div>
             </div>
-            <h3>Monthly Web Development Update Complexity Over HTTPS, And Push Notifications</h3>
-            <p>But we ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore</p>
-            <p>et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehendermust explain to you how all this mistaken idea of denouncing
-                pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes,
-                or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone</p>
+            <h3>Enhancing Your Business with Web Development, App Solutions, and Cybersecurity</h3>
+            <p>At Software Stories Ltd., we provide state-of-the-art web development services, ensuring your business is built on the latest technologies and frameworks.</p>
+            <p>Our app development solutions are tailored to meet the needs of modern businesses, with a focus on performance, user experience, and seamless integration. Additionally, we offer top-tier cybersecurity services to protect your data and digital assets. Our experts follow best practices to keep your information safe and secure, providing peace of mind for your company.</p>
             <blockquote>
-                Avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter con sequences that are extremely painful again anyone
-                <span className="author">Tony R. Francois</span>
+                In the world of digital solutions, a well-built system is key to success. We are here to ensure your business grows with the power of technology.
+                <span className="author">Arslan Zaheer</span>
             </blockquote>
             <div className="blog-footer mb-40">
                 <div className="popular-tags mb-15">
                     <b className='me-1'>Popular Tags:</b>
-                    <Link to="#">IT Services</Link>
-                    <Link to="#">Technology</Link>
-                    <Link to="#">Services</Link>
+                    <Link to="#">Web Development</Link>
+                    <Link to="#">App Development</Link>
+                    <Link to="#">Cybersecurity</Link>
                 </div>
                 <div className="social-style-two">
                     <span className='me-2'>Share</span>
@@ -49,12 +47,12 @@ const SingleBlogDetails = () => {
             <div className="row">
                 <div className="col-sm-6">
                     <Link to="/blog-details#" className="next-prev-blog">
-                        <h4>Building Pub Sub Service Using Node And Redis</h4>
+                        <h4>Building Secure Digital Solutions for Businesses</h4>
                     </Link>
                 </div>
                 <div className="col-sm-6">
                     <Link to="/blog-details#" className="next-prev-blog">
-                        <h4>Once Upon Time Use Story For Better Engagement</h4>
+                        <h4>App Development: Turning Ideas into Functional Solutions</h4>
                     </Link>
                 </div>
             </div>

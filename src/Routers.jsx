@@ -52,6 +52,10 @@ import Blog from './pages/blog/Blog';
 import BlogDetails from './pages/blogDetails/BlogDetails';
 import Contact from './pages/contact/Contact';
 import Error404 from './pages/error/Error404';
+import Secuitypage from './pages/portfolio/Secuitypage';
+import Webdevelopmentpage from './pages/portfolio/Webdevelopmentpage';
+import Digitalmarketingpage from './pages/portfolio/Digitalmarketingpage';
+
 
 const Routers = () => {
     return (
@@ -86,6 +90,9 @@ const Routers = () => {
                 <Route path='/shop' element={<Shop />}></Route>
                 <Route path='/shop-details' element={<ShopDetails />}></Route>
                 <Route path='/portfolio' element={<Portfolio />}></Route>
+                <Route path='/security-page' element={<Secuitypage />}></Route>
+                <Route path='/webdevelopment-page' element={<Webdevelopmentpage />}></Route>
+                <Route path='/digitalmarketing-page' element={<Digitalmarketingpage />}></Route>
                 <Route path='/portfolio-2' element={<Portfolio2 />}></Route>
                 <Route path='/portfolio-3' element={<Portfolio3 />}></Route>
                 <Route path='/portfolio-4' element={<Portfolio4 />}></Route>
