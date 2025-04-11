@@ -1,12 +1,15 @@
+import { Button } from "bootstrap/dist/js/bootstrap.bundle";
 import React from "react";
 import { Fade } from "react-reveal";
 import { HashLink as Link } from "react-router-hash-link";
+import Button1 from "../importedButtons/Button1";  
+
 
 const BannerV1 = () => {
   return (
     <>
       <section
-        className="hero-section overlay bgs-cover pt-200 pb-150"
+        className="hero-section overlay bgs-cover pt-200 pb-150 "
         style={{ backgroundImage: "url(/images/hero/hero-one.jpg)" }}
       >
         <div className="container">
@@ -23,13 +26,14 @@ const BannerV1 = () => {
                     Innovative IT Solutions for Your Growth
                   </h1>
                 </Fade>
-                <Fade delay={600} bottom>
-                  <div className="hero-btn mt-35">
-                    <Link to="/contact#" className="theme-btn">
-                      meet with us
+                
+                  <div >
+                    <Link to="/contact#" className="">
+                      <Button1/>
                     </Link>
                   </div>
-                </Fade>
+                 
+                
               </div>
             </div>
           </div>
