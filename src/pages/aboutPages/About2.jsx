@@ -11,7 +11,10 @@ const About2 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="About Us" pageLink="about" />
+            <BreadCums pageTitle="About Us" pageLink="about" 
+             image={"/images/gallery/cyb1.jpg"}
+             description={"Software Stories Ltd. builds best websites on high performance engines. <br /> that deliver solutions to all your needs. We guarantee to work alongside <br /> you to attain smooth integration of modern technologies into your website.<br/> That will elevate your brand in the online space."}
+             />
             <AboutV1 counter={false} aboutClass="pb-240" />
             <WorkProgressV3 />
             <TestimonialV1 />

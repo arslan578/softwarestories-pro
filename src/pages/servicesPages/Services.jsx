@@ -12,7 +12,7 @@ const Services = () => {
         <>
             <InnerHeader />
             <BreadCums pageTitle="Web Development" pageLink="" 
-             image={"/images/gallery/web4.png"}
+             image={"/images/gallery/pick3.jpg"}
              description={"Software Stories Ltd. builds best websites on high performance engines. <br /> that deliver solutions to all your needs. We guarantee to work alongside <br /> you to attain smooth integration of modern technologies into your website.<br/> That will elevate your brand in the online space."}
              />
             <FeatureV1 featureSpace="pt-115" />

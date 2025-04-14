@@ -10,7 +10,10 @@ const About6 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="About Us" pageLink="about" />
+            <BreadCums pageTitle="About Us" pageLink="about"
+             image={"/images/gallery/abu6.jpg"}
+             description={"Software Stories Ltd. builds best websites on high performance engines. <br /> that deliver solutions to all your needs. We guarantee to work alongside <br /> you to attain smooth integration of modern technologies into your website.<br/> That will elevate your brand in the online space."}
+             /> 
             <AboutV7 aboutSpace="py-120" />
             <TestimonialV1 />
             <ContactV4 />
