@@ -10,14 +10,14 @@
         "id": 2,
         "thumb": "icon2.png",
         "title": "Online Education ",
-        "text": "Our online education solutions provide interactive courses, virtual classrooms, and personalized learning experiences.",
+        "text": "We at the online education section provide interactive tutorials, virtual classrooms, and individualized learning experiences..",
         "delay": 400
     },
     {
         "id": 3,
         "thumb": "icon3.png",
         "title": "website development",
-        "text": "We create responsive, fast, and user-friendly websites tailored to your business needs.",
+        "text": "We build fast and catchy websites that suit your business.",
         "delay": 600
     }
 ]

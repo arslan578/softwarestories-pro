@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "text": "Shaista Azam is a skilled MERN Stack Developer, proficient in building scalable web applications. She has expertise in React.js, Node.js, Express.js, and MongoDB, creating seamless user experiences.",
+        "text": "Shaista Azam is a talented MERN Stack Developer and can create catchy web applications. The developer is an expert in React.js, Node.js, Express.js, and MongoDB and has an excellent user experience with these technologies.",
         "name": "Shaista Azam",
         "designation": "MERN Stack Developer"
        
     },
     {
         "id": 2,
-        "text": "Kashan Shafique specializes in Python and Django, developing robust backend systems. His ability to optimize performance and handle complex data structures sets him apart.",
+        "text": "Kashan Shafique is an expert in Python and Django, known for building strong and efficient backend systems. His skill in boosting performance and managing complex data makes him stand out.",
         "name": "Kashan Shafique",
         "designation": "Python and Django Developer"
     
     },
     {
         "id": 3,
-        "text": "Asma Saleem excels in human resource management, ensuring a healthy work environment. Her efforts in employee engagement and satisfaction contribute significantly to the company's success.",
+        "text": "Asma Saleem is a committed HR professional who works to make her workplace positive; her focus on employee wellbeing is instrumental in contributing to the company's success..",
         "name": "Asma Saleem",
         "designation": "HR"
        
@@ -23,7 +23,7 @@
     },
     {
         "id": 4,
-        "text": "Laiba Rana is an innovative Design Lead, bringing creative solutions to user experience challenges. Her expertise in UI/UX design ensures visually appealing and user-friendly interfaces.",
+        "text": "Laiba Rana is a creative and forward thinking Design Lead who formulates innovative solutions to UX challenges. She is good at UI/UX and comes up with designs that are eye-catching but also functional and usable.",
         "name": "Laiba Rana",
         "designation": "Design Lead"
       

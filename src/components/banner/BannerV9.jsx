@@ -18,7 +18,9 @@ const BannerV9 = () => {
     <h1 className="mb-30">Build, Secure & Grow with Next-Gen Tech Solutions</h1>
 </Fade>
 <Fade bottom delay={600}>
-    <p>We deliver top-notch Web & App Development, Cybersecurity, AI Automation, and Digital Marketing services tailored to your business needs.</p>
+    <p>The intention behind the functionalities we provide is to get the highest possible options
+         in modern-day Web & App Development, Cybersecurity, AI Automation, 
+        and Digital Marketing services adapted to all business needs..</p>
 </Fade>
 <Fade bottom delay={800}>
     <div className="hero-btns mt-30">

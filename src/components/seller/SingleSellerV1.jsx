@@ -12,7 +12,8 @@ const SingleSellerV1 = ({ seller }) => {
                     <span className="check"><i className={icon}></i></span>
                 </div>
                 <h5>{name}</h5>
-                <span className="items">{items} items</span>
+                <span className="items">{items} web developer
+                </span>
             </div>
         </>
     );

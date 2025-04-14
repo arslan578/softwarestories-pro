@@ -11,7 +11,11 @@ const Services2 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Services Two" pageLink="Services-2" />
+            <BreadCums pageTitle="Cyber Secuity" pageLink=""
+            image={"/images/gallery/cyb1.jpg"}
+            description={" Software Stories LTD. is committed to keeping a company's digital <br/> footprint alive as one of the latest cybersecurity solutions as well <br/>as providing customer data protection and safety, including peace of mind."}
+
+            /> 
             <ServiceV1 />
             <WorkProgressV6 />
             <PricingPlanV2 />

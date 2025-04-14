@@ -21,9 +21,8 @@ const ServiceV4 = (props) => {
                         </div>
                         <div className="col-lg-5">
                             <Fade className="fadeInRight" delay={300}>
-                                <p>Empowering businesses with cutting-edge web and app development 
-                                        solutions. Transform your 
-                                    ideas into reality with Software Stories LTD.</p>
+                                <p>Envision a project by developing a highly capable web solution with Software Stories LTD.
+                                .</p>
                             </Fade>
                         </div>
                     </div>

@@ -30,11 +30,9 @@ const AboutV10 = () => {
                     <h2>All Your Digital Solutions — Under One Roof</h2>
                   </div>
                   <p>
-                    At Software Stories Ltd., we specialize in creating
-                    powerful, user-friendly applications tailored to your
-                    business needs. Whether it's mobile apps, websites, or
-                    complete management systems — we bring your ideas to life
-                    through technology.
+                  Software Stories is a company that builds strong, best in class applications for your business needs. 
+                  Be it mobile apps, websites, 
+                  or comprehensive management systems, we turn your visions into reality using technology
                   </p>
 
                   <div className="row">

@@ -28,8 +28,8 @@ const AboutV7 = (props) => {
                     <div className="service-content">
                       <h5>Fully Responsive</h5>
                       <p>
-                        We build responsive platforms that adapt seamlessly
-                        across all devices and screens.
+                      Responsiveness is in our heart, extending to all devices and screens.
+
                       </p>
                     </div>
                   </div>
@@ -40,8 +40,8 @@ const AboutV7 = (props) => {
                     <div className="service-content">
                       <h5>App Development</h5>
                       <p>
-                        We create intuitive, high-performance mobile apps
-                        tailored to your business goals.
+                      We create high performing mobile apps for business goals and are custom friendly.
+
                       </p>
                     </div>
                   </div>

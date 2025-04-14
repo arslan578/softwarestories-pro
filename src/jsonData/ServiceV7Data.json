@@ -3,28 +3,28 @@
         "id": 1,
         "icon": "flaticon-3d",
         "title": "Web Development",
-        "text": "Building fast, responsive, and scalable websites tailored to your business.",
+        "text": "Constructing websites that are quick, responsive, and scalable to fit your business..",
         "delay": 200
     },
     {
         "id": 2,
         "icon": "flaticon-coding",
         "title": "App Development",
-        "text": "Creating user-friendly mobile and desktop apps to enhance customer experience.",
+        "text": "improve customer service experience by creating mobile first, best web and mobile apps.",
         "delay": 400
     },
     {
         "id": 3,
         "icon": "flaticon-art",
         "title": "Digital Marketing",
-        "text": "Driving growth through SEO, social media, and smart digital strategies.",
+        "text": "Boosted by SEO, social media, and intelligent digital strategies.",
         "delay": 600
     },
     {
         "id": 4,
         "icon": "flaticon-web",
         "title": "IT Consultancy",
-        "text": "Providing expert advice to help businesses adopt the right tech solutions.",
+        "text": "With professional advice, aid businesses in selecting the right technical solutions.",
         "delay": 800
     }
 ]

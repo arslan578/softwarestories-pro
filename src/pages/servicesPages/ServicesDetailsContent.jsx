@@ -73,6 +73,24 @@ ServicesDetailsContent = () => {
                    we make individualized strategies for making your 
                   online presence work more to attract business to your doorstep.
                   </p>
+                  <h3>Software Development</h3>
+                  <p>
+                  Take advantage of the customized and reliable software development 
+                  service from Software Stories Limited. Develop completely new systems
+                   or enhance existing ones; the team will be ready to provide smart and scalable solutions 
+                   for your business to grow and stay ahead in a digital world.
+
+                  </p>
+                  <h3>AI & Automation Services</h3>
+                  <p>
+                  Software Stories is a company that provides smart AI and automation
+                   solutions to business houses for streamlining their operations. 
+                   Offering from intelligent chatbots to automated workflows, 
+                   its services save valuable time, cut down manual effort to be done, 
+                   and increase efficiency—all in all, getting you freed up to focus on what matters most.
+
+
+                  </p>
 
                   <div className="row pt-25">
                     {FeatureV1Data.slice(0, 3).map((feature) => (

@@ -25,7 +25,8 @@ const ServiceV10 = () => {
                                     <div className="author">
                                         <img src={commentAuthor} alt="Author" />
                                     </div>
-                                    <div className="text">We turn complex ideas into simple, scalable software solutions — crafted with precision, passion, and performance in mind.</div>
+                                    <div className="text">We are turning abstract concepts into the best software solutions with due care, passion, and performance in mind.
+                                    </div>
                                 </div>
                             </Fade>
                         </div>

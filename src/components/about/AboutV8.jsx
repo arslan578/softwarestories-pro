@@ -1,5 +1,5 @@
 import React from "react";
-import aboutSevenThumb from "/images/about/about-seven.jpg";
+import aboutSevenThumb from "/images/about/about-seve.jpg";
 import { HashLink as Link } from "react-router-hash-link";
 
 const AboutV8 = (props) => {
@@ -22,10 +22,8 @@ const AboutV8 = (props) => {
                   <h2>Innovative Digital Solutions We Provide</h2>
                 </div>
                 <p>
-                  We specialize in delivering cutting-edge digital solutions
-                  tailored to meet the unique needs of our clients. Our team
-                  ensures efficient, scalable, and secure systems for your
-                  business growth.
+                We are an expert in developing bespoke digital solutions for the requirements that only a 
+                specific client has. Our team brings efficiency coupled with security for the solutions that grow your business
                 </p>
                 <ul className="list-style-three mt-35 mb-50">
                   <li>Custom Web Development & Design</li>

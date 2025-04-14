@@ -17,7 +17,8 @@ const FaqV1 = () => {
                                     </Link>
                                     <div id="collapse0" className="collapse show" data-bs-parent="#faq-accordion">
                                         <div className="card-body">
-                                            <p>We specialize in Web Development, Cyber Security, Mobile App Development, and Data Analytics. Our goal is to deliver innovative and scalable solutions to meet client needs.</p>
+                                            <p>Our main areas of focus are Web Development, Cyber Security, Mobile App Development, and Data Analytics. Looking at delivering creative solutions to suit clients' requirements.
+                                            .</p>
                                         </div>
                                     </div>
                                 </div>
@@ -28,7 +29,7 @@ const FaqV1 = () => {
                                     </Link>
                                     <div id="collapse1" className="collapse" data-bs-parent="#faq-accordion">
                                         <div className="card-body">
-                                            <p>Our team builds modern, responsive, and SEO-optimized websites tailored to your business needs. We ensure high performance and great user experience.</p>
+                                            <p> We develop trending websites, adaptive and search engine optimization websites to meet the distinct need of your business. Testing for the best performance and user experiences is paramount in our website creations..</p>
                                         </div>
                                     </div>
                                 </div>
@@ -39,7 +40,8 @@ const FaqV1 = () => {
                                     </Link>
                                     <div id="collapse2" className="collapse" data-bs-parent="#faq-accordion">
                                         <div className="card-body">
-                                            <p>We provide robust security audits, threat prevention, and vulnerability assessments to ensure your digital infrastructure is safe from cyber threats and attacks.</p>
+                                            <p>With a formidable range of security audits, threat prevention, and vulnerability assessments, we give surety that your digital infrastructure's safety from potential cyber threats and attacks.
+                                            .</p>
                                         </div>
                                     </div>
                                 </div>
@@ -51,7 +53,7 @@ const FaqV1 = () => {
                                     <span className="sub-title">05 FAQ</span>
                                     <h2>Have Questions About Our Services?</h2>
                                 </div>
-                                <p>Explore how our expertise in Web Development, Cyber Security, and Digital Solutions can help you grow your business effectively and securely.</p>
+                                <p>Founded on the skills harnessed in masterful Web Development, Cyber Security, and Digital Solutions, pour out your heart with us for business growth in the most perfect and securely idealized way..</p>
                             </div>
                         </div>
                     </div>

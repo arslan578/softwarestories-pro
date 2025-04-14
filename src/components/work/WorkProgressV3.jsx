@@ -10,6 +10,9 @@ const WorkProgressV3 = () => {
         <>
             <section className="work-progress-three bg-blue text-white pb-85 rpb-65" style={{ backgroundImage: "url(/images/background/progress.png)" }}>
                 <div className="container">
+                <h1 className="section-title text-center mb-50">Our Technologies</h1>
+                    
+                    
                     <div className="logo-carousel-wrap style-two bg-white py-100 px-25 br-5">
                         <Swiper
                             modules={[Keyboard, Autoplay]}

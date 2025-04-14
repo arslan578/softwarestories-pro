@@ -21,7 +21,7 @@ const BannerV6 = () => {
                                     <h1 className="mt-20">The direct way Organize your saas</h1>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={600}>
-                                    <p>Empowering your business with cutting-edge digital solutions.</p>
+                                    <p>Equipping your enterprise with digitized business solutions..</p>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={800}>
                                     <div className="hero-btns mt-35">

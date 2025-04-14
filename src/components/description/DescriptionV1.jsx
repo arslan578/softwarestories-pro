@@ -25,7 +25,9 @@ const DescriptionV1 = () => {
                                         <span className="sub-title">Use & Customization</span>
                                         <h2>Planned in view of the candidate</h2>
                                     </div>
-                                    <p>Praesent non viverra elit. Suspendisse sed nulla cursus, gravida diam id, consectetur nisl. Sed fermentum ipsum mollis velit eleifend,</p>
+                                    <p>With an understanding of user journeys and development goals, we believe every software has a story from 
+                                        the first line of code up to the last user interaction, 
+                                        and we want to tell that story through design intent and seamless user experience.,</p>
                                     <ul className="list-style-three mt-25 pb-10">
                                         <li>top audience</li>
                                         <li>Web & app development</li>

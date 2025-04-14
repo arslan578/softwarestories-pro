@@ -11,7 +11,11 @@ const Services7 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Services Seven" pageLink="Services-7" />
+            <BreadCums pageTitle="Services Seven" pageLink=" " 
+            image={"/images/gallery/business-corporate-protection-safety-security-concept.jpg"}
+          description={"This is the description of service 07"}
+          
+          />
             <ServiceV8InnerPage />
             <WorkProgressV6 />
             <PricingPlanV2 />

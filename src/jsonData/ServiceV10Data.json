@@ -4,7 +4,7 @@
         "icon": "flaticon flaticon-art",
         "icon2": "fas fa-arrow-right",
         "title": "Custom Software Solutions",
-        "text": "We build scalable software tailored to your business needs — efficient, reliable, and secure.",
+        "text": "Scale your software requirements according to your unique business needs for efficiency, reliability, and security..",
         "delay": 200
     },
     {
@@ -12,7 +12,7 @@
         "icon": "flaticon flaticon-web",
         "icon2": "fas fa-arrow-right",
         "title": "Responsive Web Development",
-        "text": "Get high-performance websites and web apps that look amazing and work flawlessly on all devices.",
+        "text": "Develop incredibly fast webpages and web apps that remain aesthetic and functional irrespective of the device..",
         "delay": 400
     },
     {
@@ -20,7 +20,7 @@
         "icon": "flaticon flaticon-3d",
         "icon2": "fas fa-arrow-right",
         "title": "Mobile App Development",
-        "text": "Build user-friendly mobile applications that elevate your brand on iOS and Android platforms.",
+        "text": "Raise your brand profile with a friendly user interface mobile application on iOS and Android platforms.",
         "delay": 600
     },
     {
@@ -28,7 +28,7 @@
         "icon": "flaticon flaticon-bars",
         "icon2": "fas fa-arrow-right",
         "title": "UI/UX & Graphic Design",
-        "text": "We craft visually engaging designs and smooth user experiences that connect with your audience.",
+        "text": " Handcrafting visually enticing designs and user experiences, we ensure keeping pace with your audience.",
         "delay": 800
     }
 ]
