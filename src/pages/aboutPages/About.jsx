@@ -11,10 +11,10 @@ const About = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="About Us" pageLink="about" 
-             image={"/images/gallery/abu1.jpg"}
-             description={"Software Stories Ltd. builds best websites on high performance engines. <br /> that deliver solutions to all your needs. We guarantee to work alongside <br /> you to attain smooth integration of modern technologies into your website.<br/> That will elevate your brand in the online space."}
-             />/>
+            <BreadCums pageTitle="Who We Are" pageLink="" 
+             image={"/images/gallery/abu5.jpg"}
+             description={"Software Stories Ltd. is a creative tech company focused on building  <br/>smart digital solutions. We turn ideas into apps, websites, and strategies <br/> that help businesses grow.Our team of developers, designers, and tech <br/> experts works together to deliver reliable, scalable, and user-friendly software."}
+             />
             <AboutV3 aboutClass="pt-120 rpt-100 pb-240 rpb-150" />
             <WorkProgressV3 />
             <TestimonialV1 />
