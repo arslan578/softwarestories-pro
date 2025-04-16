@@ -11,7 +11,8 @@ const CounterPage = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Counter" pageLink="Counter" />
+             <BreadCums pageTitle="Counter" pageLink=""
+             image={"/images/gallery/pick3.jpg"} />
             <CounterV1 counterSpace="pt-120 rpt-100 pb-90 rpb-70" />
             <CounterV3 />
             <StatisticsV1 areaSpace="pt-120 rpt-100 pb-120 rpb-70" />
