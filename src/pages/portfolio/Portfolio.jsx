@@ -8,7 +8,7 @@ const Portfolio = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Portfolio" pageLink="Portfolio" />
+            <BreadCums pageTitle="" pageLink="" />
             <PortfolioContent />
             <FooterV2 />
         </>

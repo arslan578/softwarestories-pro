@@ -8,7 +8,10 @@ const ShopDetails = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Shop Details" pageLink="Shop-details" />
+            <BreadCums pageTitle="Shop Details" pageLink="" 
+             image={"/images/gallery/pick3.jpg"}
+             description={"At Software Stories Ltd., we offer a complete set of services designed <br/>to make your business successful in the digital world. These services <br/> include web development, mobile app solutions, cybersecurity, and  <br/>digital marketing. Quality, service, and innovation are assured in meeting your needs.."}
+             />
             <ShopDetailsContent />
             <FooterV2 />
         </>

@@ -8,7 +8,7 @@ const ServicesDetails = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Service Details" pageLink="Service-details" />
+            <BreadCums pageTitle="Service Details" pageLink="" />
             <ServicesDetailsContent />
             <FooterV2 />
         </>

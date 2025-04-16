@@ -11,7 +11,10 @@ const Team1 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Team One" pageLink="Team-1" />
+            <BreadCums pageTitle="Shaista Azam" pageLink=""
+            image={"/images/gallery/cyb1.jpg"}
+            description={"Shaista Azam, a talented MERN Stack Developer working at Software Stories,  <br/>has a passion for building powerful, responsive, and user-friendly applications.<br/>  Its command over MongoDB, Express.js, React.js, and Node.js allows for the  <br/>translation of random ideas into beautiful and performant digital experiences.  <br/>Whether it could be building backend APIs or developing gorgeous user interfaces  <br/>on the frontend, she adds precision, creativity, and functionality to every word of code."}
+              />
             <TeamV1 />
             <WorkProgressV6 />
             <TestimonialV1 />

@@ -3,7 +3,7 @@ import SocialShare from '../../components/others/SocialShare';
 import { HashLink as Link } from 'react-router-hash-link';
 
 const SingleBlogContent = ({ blog }) => {
-    const { thumb, author, icon, date, icon2, title, text, btn } = blog
+    const { thumb, author, icon, date, icon2, title, text, btn, link } = blog
 
     return (
         <>
@@ -29,7 +29,7 @@ const SingleBlogContent = ({ blog }) => {
                 </div>
                 <h3><Link to="/blog-details#">{title}</Link></h3>
                 <p>{text}</p>
-                <Link to="/blog-details#" className="theme-btn">{btn}</Link>
+                <Link to={"/"+link}className="theme-btn">{btn}</Link>
             </div>
         </>
     );

@@ -11,8 +11,11 @@ const Testimonial2 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Testimonial Two" pageLink="testimonial-2" />
-            <TestimonialV2 />
+            <BreadCums pageTitle="Michael Lee" pageLink=""
+            image={"/images/gallery/abu2.jpg"}
+            description={" Product Manager, CloudSync Ltd.Thanks to Software Stories' <br/>Python-based automation system, our team is more efficient  <br/>than ever. They truly go above and beyond in delivering  <br/>solutions that work!"}
+            />
+
             <AboutV3 aboutClass="rpt-100 pb-240 rpb-150" />
             <WorkProgressV3 />
             <ContactV4 />

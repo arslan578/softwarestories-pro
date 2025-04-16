@@ -11,7 +11,10 @@ const Team3 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Team Three" pageLink="Team-3" />
+            <BreadCums pageTitle="Asma Saleem" pageLink=""
+            image={"/images/gallery/web1.jpg"}
+            description={"Asma Saleem really acts as the heart of our operations at Software Stories.<br/> Human Resource and Team Management are the responsibilities she carries <br/> out with heart and soul. To her, getting the right people on board is a key  <br/>component, after which she smooths communication and collaboration to  <br/>build a successful and positive work culture. With people, performance and  <br/>growth always at the forefront of her mind, she keeps everyone motivated, <br/>engaged, and aligned with the company's mission."}
+              />
             <TeamV3 teamClass="pt-100 pb-150" teamTitle={false} partial={false} />
             <WorkProgressV3 />
             <TestimonialV1 />

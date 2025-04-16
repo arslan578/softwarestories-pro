@@ -8,7 +8,9 @@ const Portfolio4 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Portfolio Four" pageLink="Portfolio-4" />
+            <BreadCums pageTitle="Best Collaborations" pageLink="" 
+              image={"/images/gallery/abu1.jpg"}  description={"We are engaged in close consultation with our customers throughout  <br/>ideation, creation, and testing to create something that is not only <br/>useful but also relevant years down the line. "}
+             />
             <GalleryV4 />
             <FooterV2 />
         </>

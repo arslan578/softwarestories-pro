@@ -28,7 +28,7 @@ const FooterV2 = () => {
                                 <i className="fas fa-clock"></i>
                                 <div className="content">
                                     <span>Office hours</span>
-                                    <h5>Mon-Fri 9:00 - 5:00</h5>
+                                    <h5>Mon-Fri 9:00AM - 5:00PM</h5>
                                 </div>
                             </li>
                         </ul>

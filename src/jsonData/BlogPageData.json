@@ -6,9 +6,10 @@
         "icon": "far fa-user",
         "date": "02 Apr 2025",
         "icon2": "fas fa-calendar-alt",
-        "title": "Latest Web Development Trends: Speed, SEO & Security",
+        "title": " Latest Web Development Trends: Speed, SEO & SecurityBy Software Stories Ltd",
         "text": "Stay ahead with modern web development strategies including responsive design, SEO optimization, and strong security protocols. Our team ensures client websites perform flawlessly.",
-        "btn": "Read More"
+        "btn": "Read More",
+        "link": "web-development"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "icon2": "fas fa-calendar-alt",
         "title": "Why Cybersecurity Is a Must for Modern Businesses",
         "text": "As cyber threats grow, our new services offer protection through firewalls, penetration testing, and real-time monitoring. Learn why investing in cybersecurity is vital.",
-        "btn": "Read More"
+        "btn": "Read More",
+        "link":"cyber-security"
     },
     {
         "id": 3,
@@ -30,6 +32,7 @@
         "icon2": "fas fa-calendar-alt",
         "title": "Mobile App Development: Turning Ideas into Reality",
         "text": "We build scalable, user-friendly apps for Android & iOS. From concept to launch, discover how Software Stories brings innovation to mobile development.",
-        "btn": "Read More"
+        "btn": "Read More",
+        "link":"app-development"
     }
 ]
