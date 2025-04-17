@@ -1,6 +1,6 @@
 import React from 'react';
 import SocialShare from '../../components/others/SocialShare';
-import teamProfileThumb from '/images/team/gallery-three-6.jpg'
+import teamProfileThumb from '/images/gallery/medium-shot-woman-posing-indoors (1).jpg';
 import { Fade } from 'react-reveal';
 
 const TeamProfileContent = () => {

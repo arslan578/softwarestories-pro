@@ -34,7 +34,7 @@ const BannerV5 = () => {
                     </div>
                 </div>
                 <Fade right delay={900}>
-                    <div className="hero-five-image bgs-cover" style={{ backgroundImage: "url(/images/hero/hero-five.jpg)" }}></div>
+                    <div className="hero-five-image bgs-cover" style={{ backgroundImage: "url(/images/hero/heroo.jpg)" }}></div>
                 </Fade>
             </section>
         </>

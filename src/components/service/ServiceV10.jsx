@@ -23,7 +23,7 @@ const ServiceV10 = () => {
                             <Fade right delay={200}>
                                 <div className="author-comment mb-45">
                                     <div className="author">
-                                        <img src={commentAuthor} alt="Author" />
+                                       
                                     </div>
                                     <div className="text">We are turning abstract concepts into the best software solutions with due care, passion, and performance in mind.
                                     </div>

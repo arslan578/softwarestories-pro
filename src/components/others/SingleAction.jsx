@@ -21,10 +21,10 @@ const SingleAction = ({ action }) => {
                         <div className="bid">Bid : <b>{bid}</b></div>
                         <div className="dots"><span></span><span></span><span></span></div>
                     </div>
-                    <h4>Fictional character</h4>
+                    <h4></h4>
                     <div className="author-wish">
                         <div className="author">
-                            <img src={`/images/actions/${author}`} alt="Author" />
+                           
                             <div className="description">
                                 <h6>{name}</h6>
                                 <span>{designation}</span>

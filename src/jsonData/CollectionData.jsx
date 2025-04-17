@@ -2,7 +2,7 @@ const CollectionData = [
     {
         "id": 1,
         "thumb": "collection1.jpg",
-        "title": "Fictional Character",
+       
         "category": "cartoon",
         "date": "14",
         "hours": "23",
@@ -18,7 +18,7 @@ const CollectionData = [
     {
         "id": 2,
         "thumb": "collection2.jpg",
-        "title": "Fictional Character",
+       
         "category": "sports",
         "date": "12",
         "hours": "21",
@@ -34,7 +34,7 @@ const CollectionData = [
     {
         "id": 3,
         "thumb": "collection3.jpg",
-        "title": "Fictional Character",
+      
         "category": "music",
         "date": "16",
         "hours": "13",
@@ -50,7 +50,7 @@ const CollectionData = [
     {
         "id": 4,
         "thumb": "collection4.jpg",
-        "title": "Fictional Character",
+       
         "category": "artworks",
         "date": "12",
         "hours": "14",
@@ -66,7 +66,7 @@ const CollectionData = [
     {
         "id": 5,
         "thumb": "collection5.jpg",
-        "title": "Fictional Character",
+      
         "category": "fashion",
         "date": "14",
         "hours": "23",
@@ -82,7 +82,7 @@ const CollectionData = [
     {
         "id": 6,
         "thumb": "collection6.jpg",
-        "title": "Fictional Character",
+      
         "category": "virtual",
         "date": "12",
         "hours": "21",
@@ -98,7 +98,7 @@ const CollectionData = [
     {
         "id": 7,
         "thumb": "collection7.jpg",
-        "title": "Fictional Character",
+      
         "category": "game",
         "date": "16",
         "hours": "13",
@@ -114,7 +114,7 @@ const CollectionData = [
     {
         "id": 8,
         "thumb": "collection8.jpg",
-        "title": "Fictional Character",
+      
         "category": "collectibles",
         "date": "12",
         "hours": "14",

@@ -1,23 +1,24 @@
 [
     {
-        "id": 1,
-        "thumb": "icon1.png",
-        "title": "Automation Services",
-        "text": "Revolutionize Your Business with AI & Automation – Smart Solutions by Software Stories LTD.",
-        "delay": 200
+      "id": 1,
+      "thumb": "icon1.png",
+      "title": "Automation Services",
+      "text": "Revolutionize your workflow with intelligent AI and automation tools tailored to boost efficiency and productivity.",
+      "delay": 200
     },
     {
-        "id": 2,
-        "thumb": "icon2.png",
-        "title": "Online Education ",
-        "text": "We at the online education section provide interactive tutorials, virtual classrooms, and individualized learning experiences..",
-        "delay": 400
+      "id": 2,
+      "thumb": "icon2.png",
+      "title": "Online Education",
+      "text": "We offer engaging tutorials, virtual classrooms, and personalized learning to empower students through modern education.",
+      "delay": 400
     },
     {
-        "id": 3,
-        "thumb": "icon3.png",
-        "title": "website development",
-        "text": "We build fast and catchy websites that suit your business.",
-        "delay": 600
+      "id": 3,
+      "thumb": "icon3.png",
+      "title": "Website Development",
+      "text": "We design and build fast, responsive websites that reflect your brand and drive real business results.",
+      "delay": 600
     }
-]
+  ]
+  

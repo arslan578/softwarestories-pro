@@ -12,7 +12,7 @@ const SingleTestimonialV6 = ({ testimonial }) => {
                         <h3>{name}</h3>
                         <span>{designation}</span>
                     </div>
-                    <img src={`/images/testimonials/${author}`} alt="Author" />
+                   
                 </div>
             </div>
         </>

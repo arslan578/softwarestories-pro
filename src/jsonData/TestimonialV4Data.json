@@ -1,62 +1,56 @@
 [
+   
+    
+   
     {
-        "id": 1,
-        "thumb": "team-41.jpg",
-        "name": "Hassan Malik",
-        "designation": "Business Owner",
-        "icon": "fas fa-quote-right",
-        "text": "Working with this company was a fantastic experience. They understood our requirements perfectly.",
-        "text2": "The web solution they delivered exceeded our expectations in both design and functionality.",
-        "text3": "Highly professional team — will definitely collaborate again!"
+      "id": 2,
+      "thumb": "team-36.jpg",
+      "name": "Areeba Khan",
+      "designation": "Startup Founder",
+      "icon": "fas fa-quote-right",
+      "text": "Their team delivered fast and supported us throughout with excellent communication.",
+      "text2": "The platform helped boost user engagement and was fully responsive across devices.",
+      "text3": "I would recommend them to anyone who values reliability and great development."
     },
     {
-        "id": 2,
-        "thumb": "team-36.jpg",
-        "name": "Areeba Khan",
-        "designation": "Startup Founder",
-        "icon": "fas fa-quote-right",
-        "text": "Their development team is top-notch. Quick turnaround and very supportive throughout.",
-        "text2": "We got a fully responsive platform that helped boost our user engagement.",
-        "text3": "Would recommend them to anyone looking for tech expertise."
+      "id": 3,
+      "thumb": "team-11.jpg",
+      "name": "Bilal Ahmed",
+      "designation": "Digital Marketer",
+      "icon": "fas fa-quote-right",
+      "text": "Handled our concept with great attention to detail and a focus on smooth delivery.",
+      "text2": "Impressive UI/UX design and solid backend performance met all our standards.",
+      "text3": "We are highly satisfied with the results and would gladly choose them again."
     },
     {
-        "id": 3,
-        "thumb": "team-11.jpg",
-        "name": "Bilal Ahmed",
-        "designation": "Digital Marketer",
-        "icon": "fas fa-quote-right",
-        "text": "From concept to execution, they handled our project with care and precision.",
-        "text2": "The UI/UX design was very impressive, and the backend is smooth.",
-        "text3": "Totally satisfied with the services provided."
+      "id": 4,
+      "thumb": "team-32.jpg",
+      "name": "Fatima Noor",
+      "designation": "Project Manager",
+      "icon": "fas fa-quote-right",
+      "text": "Great communication and timely service — they truly cared about our project needs.",
+      "text2": "Helped us streamline the workflow, making the entire process simple and clear.",
+      "text3": "Looking forward to more collaborations with their professional team soon."
     },
     {
-        "id": 4,
-        "thumb": "team-32.jpg",
-        "name": "Fatima Noor",
-        "designation": "Project Manager",
-        "icon": "fas fa-quote-right",
-        "text": "Excellent communication, dedicated service, and timely delivery.",
-        "text2": "They helped streamline our project workflow and made everything manageable.",
-        "text3": "Looking forward to future collaborations."
+      "id": 5,
+      "thumb": "team-4.jpg",
+      "name": "Owais Raza",
+      "designation": "Tech Consultant",
+      "icon": "fas fa-quote-right",
+      "text": "Creative, skilled, and always ready to respond — they met our goals with ease.",
+      "text2": "Thanks to their input, our website now stands out among all the competition.",
+      "text3": "Excellent people to work with and we’re happy with the final product delivered."
     },
     {
-        "id": 5,
-        "thumb": "team-4.jpg",
-        "name": "Owais Raza",
-        "designation": "Tech Consultant",
-        "icon": "fas fa-quote-right",
-        "text": "The team is skilled, creative, and very responsive to feedback.",
-        "text2": "Our website now stands out among competitors, thanks to their expertise.",
-        "text3": "Great results, great people."
-    },
-    {
-        "id": 6,
-        "thumb": "team-34.jpg",
-        "name": "Hina Sheikh",
-        "designation": "E-commerce Owner",
-        "icon": "fas fa-quote-right",
-        "text": "They transformed our outdated store into a modern, high-performing website.",
-        "text2": "Their design sense and coding standards are really strong.",
-        "text3": "We’ve seen a major boost in sales after launch."
+      "id": 6,
+      "thumb": "team-34.jpg",
+      "name": "Hina Sheikh",
+      "designation": "E-commerce Owner",
+      "icon": "fas fa-quote-right",
+      "text": "They rebuilt our store with modern features and optimized it for top performance.",
+      "text2": "Clean code, great design, and a user-friendly layout gave us the edge we needed.",
+      "text3": "Post-launch, our sales have grown significantly — truly happy with the work!"
     }
-]
+  ]
+  

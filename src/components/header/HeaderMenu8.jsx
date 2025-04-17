@@ -45,7 +45,7 @@ const HeaderMenu8 = () => {
                             <div className="header-top">
                                 <div className="top-left">
                                     <ul>
-                                        <li><i className="far fa-envelope"></i> <a href="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a></li>
+                                        <li><i className="far fa-envelope"></i> <a href="mailto:aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</a></li>
                                         <li>
                                             <i className="fas fa-globe"></i>
                                             <select name="language" id="language">

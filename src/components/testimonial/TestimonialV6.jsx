@@ -20,11 +20,11 @@ const TestimonialV6 = () => {
                                         <h2>Awesome Team</h2>
                                     </div>
                                     <div className="testi-author-images mb-45">
-                                        <img src="/images/testimonials/test1.png" alt="Testimonial" />
-                                        <img src="/images/testimonials/test2.png" alt="Testimonial" />
-                                        <img src="/images/testimonials/test3.png" alt="Testimonial" />
-                                        <img src="/images/testimonials/test4.png" alt="Testimonial" />
-                                        <img src="/images/testimonials/test5.png" alt="Testimonial" />
+                                        <img src="/images/testimonials/test1.jpg" alt="Testimonial" />
+                                        <img src="/images/testimonials/test2.jpg" alt="Testimonial" />
+                                        <img src="/images/testimonials/test3.jpg" alt="Testimonial" />
+                                        <img src="/images/testimonials/test4.jpg" alt="Testimonial" />
+                                        <img src="/images/testimonials/test5.jpg" alt="Testimonial" />
                                         <span className="plus"><i className="fas fa-plus"></i></span>
                                     </div>
                                     <Link to="/testimonial#" className="theme-btn gradient-btn-one mb-30 rmb-55">View Testimonial</Link>

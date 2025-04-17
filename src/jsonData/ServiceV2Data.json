@@ -26,13 +26,13 @@
     {
         "id": 5,
         "icon": "flaticon-plan",
-        "title": "Software Development  ",
+        "title": "Tech Development  ",
         "delay": 1100
     },
     {
         "id": 6,
         "icon": "flaticon-plan",
-        "title": "AI Automation Service ",
+        "title": "AI  Service ",
         "delay": 1200
     }
 ]

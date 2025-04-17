@@ -17,9 +17,9 @@
         "icon": "gift.png",
         "price": 0,
         "list1": "UI/UX Optimization",
-        "list2": "Dedicated Hosting Setup",
+        "list2": "Dedicated Hosting ",
         "list3": "Priority Email Support",
-        "list4": "5 Pages Responsive Design",
+        "list4": " Responsive Design",
         "icon2": "fas fa-long-arrow-alt-right",
         "delay": 400
     },
@@ -42,7 +42,7 @@
         "price": 0,
         "list1": "All-in-One Web Solution",
         "list2": "Cloud Deployment",
-        "list3": "24/7 Dedicated Support",
+        "list3": "Dedicated Support",
         "list4": "SEO & Analytics Setup",
         "icon2": "fas fa-long-arrow-alt-right",
         "delay": 800

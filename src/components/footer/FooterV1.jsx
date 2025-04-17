@@ -44,10 +44,10 @@ const FooterV1 = () => {
                                 <div className="footer-widget contact-widget mr-30 rmr-0">
                                     <h4 className="footer-title">Contact Us</h4>
                                     <ul className="list-style-two">
-                                        <li><i className="fas fa-map-marker-alt"></i> 71-75 Shelton Street, Covent Garden, London WC2H 9JQ, UK</li>
+                                        <li><i className="fas fa-map-marker-alt"></i> Shelton Street, Covent Garden, London, UK</li>
                                         <li><i className="fas fa-clock"></i> Mon - Fri: 9:00 AM - 5:00 PM</li>
                                         <li><i className="fas fa-phone-alt"></i> <Link to="tel:+07438255631">07438255631</Link></li>
-                                        <li><i className="fas fa-envelope"></i> <Link to="mailto:aqsa9098syed@gmail.com">info@softwarestories.com</Link></li>
+                                        <li><i className="fas fa-envelope"></i> <Link to="mailto:aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</Link></li>
                                     </ul>
                                 </div>
                             </div>

@@ -8,7 +8,7 @@ const SIngleBlogComment = ({ comment }) => {
         <>
             <div className="comment-item">
                 <div className="author-image">
-                    <img src={`/images/news/${thumb}`} alt="Author" />
+                    
                 </div>
                 <div className="comment-details">
                     <div className="name-date">

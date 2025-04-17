@@ -10,7 +10,9 @@ const Pricing6 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Pricing Six" pageLink="Pricing-6" />
+            <BreadCums pageTitle="Hosting & Maintenance Packages" pageLink=""
+            image={"/images/gallery/back-1.jpg"}
+            description={"We provide fast, secure hosting and regular site maintenance at affordable monthly rates.  <br />Includes domain support, backups, performance monitoring, and security updates so your <br /> website stays live, fast, and safe."} />
             <PricingPlanV7 />
             <TestimonialV1 />
             <ContactV4 />

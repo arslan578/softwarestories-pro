@@ -18,7 +18,7 @@ const ContactContent = () => {
             <div className="contact-info-item">
               <i className="far fa-envelope"></i>
               <p>
-                <a href="mailto:support@gmail.com">aqsa9098syed@gmail.com</a> <br />
+                <a href="mailto:support@gmail.com">aqsasyed9098@gmail.com</a> <br />
                 <Link to="#">www.softwarestories.com</Link>
               </p>
             </div>

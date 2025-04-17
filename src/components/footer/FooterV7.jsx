@@ -55,7 +55,7 @@ const FooterV7 = () => {
                         <div className="col-md-4 col-sm-6">
                             <div className="footer-widget newsletter-widget">
                                 <h4 className="footer-title">Address</h4>
-                                <p>71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom</p>
+                                <p>Shelton Street, Covent Garden, London, UK</p>
                                 <form onSubmit={handleEmail}>
                                     <input type="email" name="email" placeholder="Your Email Address" autoComplete='off' required />
                                     <button value="submit"><i className="fa fa-location-arrow"></i></button>

@@ -21,7 +21,7 @@ const FooterV2 = () => {
                                 <i className="fas fa-envelope"></i>
                                 <div className="content">
                                     <span><strong>Write to Us</strong></span>
-                                    <h5><a href="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a></h5>
+                                    <h5><a href="mailto:aqsa9098syed@gmail.com">aqsasyed9098@gmail.com</a></h5>
                                 </div>
                             </li>
                             <li>

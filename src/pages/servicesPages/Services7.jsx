@@ -12,7 +12,7 @@ const Services7 = () => {
         <>
             <InnerHeader />
             <BreadCums pageTitle="Cloud Services & Hosting" pageLink=" " 
-            image={"/images/gallery/business-corporate-protection-safety-security-concept.jpg"}
+            image={"/images/gallery/project3.jpg"}
           description={"We offer end-to-end cloud solutions to keep your digital presence fast, secure, and <br/> always online. From scalable cloud deployment to reliable web hosting, our services  <br/>ensure that your applications run smoothly with minimal downtime. Whether you need  <br/> server setup, automated backups, domain management, or performance optimization <br/>we handle it all with care and expertise."}
           
           />

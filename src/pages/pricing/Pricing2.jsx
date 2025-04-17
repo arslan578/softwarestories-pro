@@ -11,7 +11,9 @@ const Pricing2 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Pricing Two" pageLink="Pricing-2" />
+            <BreadCums pageTitle="Web Development Packages" pageLink=""
+            image={"/images/gallery/pri2.jpg"}
+            description={"We offer tailored web development packages for static websites, dynamic platforms,  <br />e-commerce solutions, and enterprise-level applications. Our pricing is based on features, <br /> complexity, and timeline to ensure high value for your investment."} />
             <PricingPlanV2 pricingClass="pb-200" partial={false} />
             <WorkProgressV3 />
             <TestimonialV1 />

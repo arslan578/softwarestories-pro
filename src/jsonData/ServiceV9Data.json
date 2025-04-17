@@ -10,7 +10,7 @@
     {
         "id": 2,
         "icon": "icon2.png",
-        "title": "Mobile App Development",
+        "title": "App Development",
         "text": "mprove customer service experience by creating mobile first, best web and mobile apps..",
         "icon2": "fas fa-angle-double-right",
         "delay": 400
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "icon": "icon3.png",
-        "title": "Cybersecurity Solutions",
+        "title": "Cyber Security",
         "text": "We protect your data and systems with the latest security technologies and audits.",
         "icon2": "fas fa-angle-double-right",
         "delay": 600

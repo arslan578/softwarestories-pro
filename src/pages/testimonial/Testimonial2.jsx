@@ -12,7 +12,7 @@ const Testimonial2 = () => {
         <>
             <InnerHeader />
             <BreadCums pageTitle="Michael Lee" pageLink=""
-            image={"/images/gallery/abu2.jpg"}
+            image={"/images/gallery/abu5.jpg"}
             description={" Product Manager, CloudSync Ltd.Thanks to Software Stories' <br/>Python-based automation system, our team is more efficient  <br/>than ever. They truly go above and beyond in delivering  <br/>solutions that work!"}
             />
 

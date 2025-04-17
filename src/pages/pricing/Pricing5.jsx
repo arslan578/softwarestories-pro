@@ -10,7 +10,9 @@ const Pricing5 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Pricing Five" pageLink="Pricing-5" />
+            <BreadCums pageTitle="Digital Marketing Plans" pageLink=""
+            image={"/images/gallery/pri2.jpg"}
+            description={"Our marketing packages include SEO, social media management, Google Ads,  <br />and content strategy starting from basic plans for startups to advanced  <br />campaigns for growing brands. Transparent pricing with measurable results."} />
             <PricingPlanV6 />
             <TestimonialV1 />
             <ContactV4 />

@@ -7,10 +7,13 @@
        
     },
     {
-        "id": 2,
-        "text": "Kashan Shafique is an expert in Python and Django, known for building strong and efficient backend systems. His skill in boosting performance and managing complex data makes him stand out.",
-        "name": "Kashan Shafique",
-        "designation": "Python and Django Developer"
+        
+            "id": 2,
+            "text": "Kashan Shafique is an expert in Python and Django, known for building strong and efficient backend systems. His skill in boosting performance and managing complex data makes him stand out. He consistently delivers scalable .",
+            "name": "Kashan Shafique",
+            "designation": "Python and Django Developer"
+          
+          
     
     },
     {

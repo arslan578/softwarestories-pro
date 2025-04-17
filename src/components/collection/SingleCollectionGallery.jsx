@@ -20,7 +20,7 @@ const SingleCollectionGallery = ({ collection }) => {
                         <h4>{title}</h4>
                         <div className="author-wish">
                             <div className="author">
-                                <img src={`/images/actions/${author}`} alt="Author" />
+                               
                                 <div className="description">
                                     <h6>{name}</h6>
                                     <span>{designation}</span>

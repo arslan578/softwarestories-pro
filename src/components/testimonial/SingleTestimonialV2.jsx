@@ -9,7 +9,7 @@ const SingleTestimonialV2 = ({ testimonial }) => {
                 <p>{text2}</p>
                 <i>{text3}</i>
                 <div className="author-description">
-                    <img src={`/images/testimonials/${thumb}`} alt="Author" />
+             
                     <div className="designation">
                         <h5>{name}</h5>
                         <span>{designation}</span>
