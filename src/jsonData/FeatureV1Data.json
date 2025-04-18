@@ -8,12 +8,21 @@
       "delay": 200
     },
     {
+<<<<<<< HEAD
       "id": 2,
       "icon": "flaticon-cloud-computing-1",
       "title": "Cyber Security",
       "text": "We safeguard your digital presence with advanced cybersecurity to ensure full data protection.",
       "icon2": "fas fa-arrow-right",
       "delay": 400
+=======
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Cyber security",
+        "text": "Software Stories LTD – Innovating the Future with Cutting-Edge IT Solutions. From  Cybersecurity and IT Consulting,",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+>>>>>>> kashan_remote-branch
     },
     {
       "id": 3,

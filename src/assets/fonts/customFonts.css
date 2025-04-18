@@ -1,8 +1,26 @@
-@font-face {
+/* @font-face {
     font-family: 'Circular Std';
     src: url('../fonts/CircularStd-Medium.woff2') format('woff2'),
         url('../fonts/CircularStd-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
+} */
+
+/* @font-face {
+    font-family: 'Circular Std';
+    src: url('../fonts/CircularStd-Medium.woff2') format('woff2'),
+        url('../fonts/CircularStd-Medium.woff') format('woff');
+} */
+
+
+/* import other fonts here  */
+@font-face {
+    font-family: 'Circular Std';
+    src: url('../fonts/CircularStd-Medium.woff2') format('woff2'),
+        url('../fonts/CircularStd-Medium.woff') format('woff');
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    /* Medium weight */
+
 }
