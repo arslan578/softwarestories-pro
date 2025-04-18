@@ -38,18 +38,13 @@ const HeaderMenuV1 = () => {
                             <div className="top-left">
                                 <ul>
                                     <li> <strong>Call Us:</strong> <a href="tel:07438255631">07438255631</a></li>
-<<<<<<< HEAD
-                                    <li><strong>Email us: </strong><a href="mailto:aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</a></li>
-                                    <li><strong>Our Address:</strong><br /> Shelton Street, Covent Garden, London, UK</li>
-=======
                                     <li><strong>Email us: </strong><a href="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a></li>
-                                    <li><strong>Our Address :  </strong>      71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom</li>
->>>>>>> kashan_remote-branch
+                                    <li><strong>Our Address :  </strong>  Shelton Street, Covent Garden, London, UK</li>
                                 </ul>
                             </div>
                             <div className="top-right">
                                 <div className="office-time">
-                                    <i className="far fa-clock"></i><span> 9:00am to 5:00pm</span>
+                                    <i className="far fa-clock"></i><span> 9:00AM to 5:00PM</span>
                                 </div>
                             </div>
                         </div>
