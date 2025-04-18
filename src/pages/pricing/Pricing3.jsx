@@ -11,7 +11,9 @@ const Pricing3 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Pricing Three" pageLink="Pricing-3" />
+            <BreadCums pageTitle=" App Development Plans" pageLink=""
+            image={"/images/gallery/pri5.jpg"}
+            description={"Our mobile app pricing is flexible and based on your platform (Android/iOS),  <br />feature requirements, and UI complexity. From MVPs to full-scale apps, <br /> we offer competitive pricing with reliable development timelines."} />
             <PricingPlanV3 pricingClass="pb-200" />
             <WorkProgressV3 />
             <TestimonialV1 />

@@ -19,8 +19,8 @@ const AboutV4 = () => {
                                     <span className="sub-title">IT Solutions for Your Business</span>
                                             <h2>Preparing for your success trusted source in IT services.</h2>
                                         </div>
-                                        <p>At Software Stories LTD, we provide cutting-edge technology solutions to 
-                                            help businesses thrive in the digital world.</p>
+                                        <p>At Software Stories Ltd, we create brilliant ideas into reality through strong digital solutions. Mobile applications, online security, 
+                                            or a digital marketing drive, whatever your business requirements, we have you covered.</p>
                                     <i>Empowering businesses with top-notch web and app development solutions 
                                         for a seamless digital experience.</i>
                                     <Link to="/about#" className="theme-btn mt-25">Learn About More</Link>

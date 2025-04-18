@@ -49,10 +49,7 @@ const TestimonialV7 = () => {
                     </div>
                 </div>
                 <div className="testimonials-shapes rmb-20">
-                    <img className="shape one" src="/images/testimonials/test-seven-1.jpg" alt="Shape" />
-                    <img className="shape two" src="/images/testimonials/test-seven-1.jpg" alt="Shape" />
-                    <img className="shape three" src="/images/testimonials/test-seven-3.jpg" alt="Shape" />
-                    <img className="shape four" src="/images/testimonials/test-seven-1.jpg" alt="Shape" />
+                    
                 </div>
             </section>
         </>

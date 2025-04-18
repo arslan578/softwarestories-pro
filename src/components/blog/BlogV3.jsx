@@ -46,10 +46,7 @@ const BlogV3 = () => {
                                         <p>From custom software development to advanced cybersecurity, Software Stories LTD ensures your business stays ahead in 2025 and beyond.</p>
                                     </div>
                                     <div className="news-author">
-                                        <img src={newsAuthor2} alt="Author" />
-                                        <span className="posted-by">
-                                            By <Link to="#">Admin</Link>
-                                        </span>
+                                        
                                     </div>
                                 </div>
                             </Fade>

@@ -9,7 +9,7 @@ const BannerV3 = () => {
 
     return (
         <>
-            <section className="hero-section-two bgs-cover overlay pt-40 rpt-80" style={{ backgroundImage: "url(/images/hero/hero-three.jpg)" }}>
+            <section className="hero-section-two bgs-cover overlay pt-40 rpt-80" style={{ backgroundImage: "url(/images/hero/hero-six33.jpg)" }}>
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-8 col-md-10 col-sm-11">

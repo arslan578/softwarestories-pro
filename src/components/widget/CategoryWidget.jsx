@@ -7,13 +7,14 @@ const CategoryWidget = () => {
             <div className="widget widget-category">
                 <h3 className="widget-title">Category</h3>
                 <ul className="list-style-two">
-                    <li><Link to="#">Business Strategy</Link> <span>(20)</span></li>
-                    <li><Link to="#">Investment Planning</Link> <span>(05)</span></li>
-                    <li><Link to="#">Financial Investment</Link> <span>(03)</span></li>
-                    <li><Link to="#">Banking & Insurance</Link> <span>(30)</span></li>
-                    <li><Link to="#">Free Consulting</Link> <span>(07)</span></li>
-                    <li><Link to="#">Meet Our Team</Link> <span>(09)</span></li>
-                </ul>
+    <li><Link to="#">Web Development</Link> <span>(12)</span></li>
+    <li><Link to="#">App Development</Link> <span>(08)</span></li>
+    <li><Link to="#">Cybersecurity Solutions</Link> <span>(05)</span></li>
+    <li><Link to="#">Digital Marketing</Link> <span>(15)</span></li>
+    <li><Link to="#">Free Consultation</Link> <span>(04)</span></li>
+    <li><Link to="#">Our Team</Link> <span>(06)</span></li>
+       </ul>
+
             </div>
         </>
     );

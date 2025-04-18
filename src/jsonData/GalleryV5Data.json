@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "thumb": "gallery-five-1.jpg",
-        "title": "Cybersecurity & IT Consulting",
+        "thumb": "c1.jpg",
+        "title": "Cyber Security",
         "text": "Technology Service Solutions",
         "delay": 200
     },
     {
         "id": 2,
-        "thumb": "gallery-five-2.jpg",
+        "thumb": "c2.png",
         "title": "App Development",
         "text": "Technology Service Solutions",
         "delay": 400

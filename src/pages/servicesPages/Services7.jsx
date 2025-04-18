@@ -11,7 +11,11 @@ const Services7 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Services Seven" pageLink="Services-7" />
+            <BreadCums pageTitle="Cloud Services & Hosting" pageLink=" " 
+            image={"/images/gallery/project3.jpg"}
+          description={"We offer end-to-end cloud solutions to keep your digital presence fast, secure, and <br/> always online. From scalable cloud deployment to reliable web hosting, our services  <br/>ensure that your applications run smoothly with minimal downtime. Whether you need  <br/> server setup, automated backups, domain management, or performance optimization <br/>we handle it all with care and expertise."}
+          
+          />
             <ServiceV8InnerPage />
             <WorkProgressV6 />
             <PricingPlanV2 />

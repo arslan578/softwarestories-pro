@@ -44,11 +44,9 @@ const AboutV9 = () => {
                     </div>
                   </div>
                   <p>
-                    We specialize in crafting modern web solutions, securing
-                    digital infrastructure, and transforming ideas into scalable
-                    applications. Our mission is to empower startups and
-                    businesses with reliable, secure, and innovative technology
-                    services.
+                  We make modern web solutions, secure the digital infrastructure, and convert ideas into scalable applications. 
+                  We enable startups and their
+                   businesses to have a reliable, secure, and innovative technology presence.
                   </p>
 
                   <ul className="list-style-one mt-35 pb-45">

@@ -16,7 +16,8 @@ const SolutionV1 = () => {
                                     <span className="sub-title">04 Solution Place</span>
                                     <h2>A one place solution for All your problems</h2>
                                 </div>
-                                <p>Our team focuses on creating smart, user-friendly digital products that drive results and elevate your brand.</p>
+                                <p> We design products that embrace modern web technologies to give you maximum digital impact in developing, arenas of growth, and brand positioning.
+                                .</p>
                                 <Link to="/about#" className="theme-btn style-eight mt-35">Learn Click Here <i className="fas fa-long-arrow-alt-right"></i></Link>
                             </div>
                         </div>

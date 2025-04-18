@@ -7,9 +7,9 @@
       "icon1": "far fa-user",
       "icon2": "far fa-comments",
       "icon3": "fas fa-angle-double-right",
-      "author": "By Admin",
+      
       "comments": "3 Comments",
-      "text": "Empowering businesses through secure digital transformation.",
+      "text": "Securing Digital Growth for Businesses.",
       "delay": 200
     },
     {
@@ -20,7 +20,7 @@
       "icon1": "far fa-user",
       "icon2": "far fa-comments",
       "icon3": "fas fa-angle-double-right",
-      "author": "By Admin",
+     
       "comments": "6 Comments",
       "text": "Protect your data before it becomes a headline.",
       "delay": 400
@@ -33,7 +33,7 @@
       "icon1": "far fa-user",
       "icon2": "far fa-comments",
       "icon3": "fas fa-angle-double-right",
-      "author": "By Admin",
+     
       "comments": "9 Comments",
       "text": "Cybersecurity is not optional — it's essential.",
       "delay": 600

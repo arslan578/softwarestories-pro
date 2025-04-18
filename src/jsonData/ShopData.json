@@ -17,8 +17,8 @@
     },
     {
         "id": 3,
-        "thumb": "product-4.jpg",
-        "thumb2": "product-4.jpg",
+        "thumb": "cybrr1.jpg",
+        "thumb2": "cybrr1.jpg",
         "name": "Cybersecurity Service",
         "oldPrice": 70.00,
         "newPrice": 60.00
@@ -33,8 +33,8 @@
     },
     {
         "id": 5,
-        "thumb": "product-5.jpg",
-        "thumb2": "product-5.jpg",
+        "thumb": "product55.jpg",
+        "thumb2": "product55.jpg",
         "name": "Website Optimization",
         "oldPrice": 100.00,
         "newPrice": 90.00
@@ -49,8 +49,8 @@
     },
     {
         "id": 7,
-        "thumb": "product-7.jpg",
-        "thumb2": "product-2.jpg",
+        "thumb": "sha1.jpg",
+        "thumb2": "sha1.jpg",
         "name": "Mobile App Solutions",
         "oldPrice": 120.00,
         "newPrice": 110.00

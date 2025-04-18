@@ -14,11 +14,11 @@ const SingleBlogV2 = ({ blog }) => {
                     </div>
                     <div className="news-content">
                         <div className="news-author">
-                            <img src={`/images/news/${authorThumb}`} alt="Author" />
+                            
                         </div>
                         <ul className="post-meta-item">
                             <li>
-                                <b>By <Link to="#">{author}</Link></b>
+                                <b> <Link to="#">{author}</Link></b>
                             </li>
                             <li>
                                 <i className={icon}></i>

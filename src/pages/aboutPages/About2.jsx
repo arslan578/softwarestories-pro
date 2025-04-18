@@ -11,7 +11,10 @@ const About2 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="About Us" pageLink="about" />
+            <BreadCums pageTitle="Our Mission" pageLink="" 
+             image={"/images/gallery/cyb1.jpg"}
+             description={"Our mission at Software Stories Ltd. is to simplify technology <br/>and make it work for everyone. We aim to deliver high-quality <br/> digital solutions that solve real problems and create value for <br/>businesses and users alike.We focus on innovation, user experience, <br/>and long-term success for every project we take on."}
+             />
             <AboutV1 counter={false} aboutClass="pb-240" />
             <WorkProgressV3 />
             <TestimonialV1 />

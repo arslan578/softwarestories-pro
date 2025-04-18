@@ -11,7 +11,11 @@ const Services6 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Services Six" pageLink="Services-6" />
+            <BreadCums pageTitle="Digital Marketing." pageLink="" 
+            image={"/images/gallery/project1.jpg"}
+            description={" Boost your online reach with App Templates LTD the best name <br/>to appraise for expert SEO and social media and performance marketing services."}
+
+            /> 
             <ServiceV7 />
             <WorkProgressV6 />
             <PricingPlanV2 />

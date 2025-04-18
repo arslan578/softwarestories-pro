@@ -7,7 +7,7 @@ const SingleTestimonialV1 = ({ testimonial }) => {
         <>
             <div className="testimonial-item wow fadeInLeft delay-0-2s">
                 <div className="author-description">
-                    <img src={`/images/testimonials/${thumb}`} alt="Author" />
+                    
                     <div className="designation">
                         <h5>{name}</h5>
                         <span>{designation}</span>

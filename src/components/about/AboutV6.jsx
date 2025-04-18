@@ -19,8 +19,8 @@ const AboutV6 = () => {
                                     <span className="sub-title">IT Solutions for Your Business</span>
                                             <h2>Preparing for your success trusted source in IT services.</h2>
                                         </div>
-                                        <p>At Software Stories LTD, we provide cutting-edge technology solutions to 
-                                            help businesses thrive in the digital world.</p>
+                                        <p>At Software Stories LTD, we envision enabling businesses to build websites that are beautiful, responsive, 
+                                            and high performing, turning ideas into meaningful digital experiences..</p>
                     
                                     <ul className="list-style-one mt-25 pb-10">
                                         <li>Best IT Solutions</li>

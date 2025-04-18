@@ -88,16 +88,15 @@ const FooterV8 = () => {
                     <i className="fas fa-envelope"></i>
                     <span>
                       <b>Email : </b>{" "}
-                      <a href="aqsa9098syed@gmail.com">
-                        aqsa9098syed@gmail.com
+                      <a href="aqsasyed9098@gmail.com">
+                      aqsasyed9098@gmail.com
                       </a>
                     </span>
                   </li>
                   <li>
                     <i className="fas fa-map-marker-alt"></i>
                     <span>
-                      <b>Address : </b>71-75 Shelton Street, Covent Garden,
-                      London WC2H 9JQ, United Kingdom
+                      <b>Address : </b>Shelton Street, Covent Garden, London, UK
                     </span>
                   </li>
                 </ul>

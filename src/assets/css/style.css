@@ -1008,6 +1008,7 @@ a.theme-btn.gradient-btn-one:not(hover):before {
   color: white;
   background: #104cba;
   border-color: #104cba;
+  
 }
 
 /* ----- Rating ----- */
@@ -6240,7 +6241,7 @@ h6,
 
 @media only screen and (max-width: 1500px) {
   .top-left ul li {
-    margin-right: 15px;
+    margin-right: 20px;
   }
 }
 
@@ -11492,16 +11493,20 @@ h6,
 }
 
 .pricing-item-six p {
-  color: #6C727D;
+  color: black;
   font-size: 18px;
   margin-bottom: 50px;
 }
 
 .pricing-section-six .col-lg-4:nth-child(2) .pricing-item-six {
-  margin-top: -50px;
-  padding-top: 100px;
+  margin-top: 0px;
+  padding-top: 40px;
   padding-bottom: 100px;
-  background: #104cba;
+ height: 465px;
+ background: #000;
+ 
+
+ 
 }
 
 @media only screen and (max-width: 575px) {
@@ -12393,9 +12398,7 @@ h6,
   background-repeat: no-repeat;
 }
 
-.news-section-two.has-bg {
-  background: url('/images/news/news-bg-two.jpg');
-}
+
 
 .news-item.style-two {
   overflow: visible;
@@ -13131,7 +13134,7 @@ blockquote .author {
 
 
 .comments-wrap .blog-comments .comment-item:nth-child(2) {
-  margin-left: 55px;
+  margin-left: 0px;
 }
 
 @media only screen and (max-width: 375px) {

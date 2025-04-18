@@ -2,22 +2,22 @@
     {
         "id": 1,
         "thumb": "test-author-1.jpg",
-        "text": "This company provided us with exceptional service and truly understood our business needs. Their commitment to excellence sets them apart.",
-        "name": "John D. Smith",
+        "text": "Your willingness and ability to collaborate with other teams is something we can all learn from. Thank you for offering up your time to help others do their role better through sharing your knowledge, like sharing your insights with the sales team so they could better understand customer needs and why they love working with us.",
+        "name": "Ali Raza",
         "designation": "Chief Operations Officer"
     },
     {
         "id": 2,
         "thumb": "test-author-4.jpg",
-        "text": "From concept to execution, they have been an invaluable partner. Their innovative approach and timely delivery exceeded our expectations.",
-        "name": "Sophia L. Williams",
+        "text": "You always work so passionately to make sure our customers get the best experience and insight and they are reaping the rewards from your efforts! I love working collaboratively with you, you're always so authentic and enthusiastic. So glad you've had some great feedback from customers too as it's so deserved.",
+        "name": "Tayyab Rathore",
         "designation": "Lead Graphic Designer"
     },
     {
         "id": 3,
         "thumb": "test-author-2.jpg",
-        "text": "The professionalism and expertise this team brings are unmatched. They made the whole process seamless and easy to understand.",
-        "name": "David A. Brown",
+        "text": "Your management of the team has been unreal since taking on that responsibility. The team all trust and respect you, and rightly so. Alongside the continuous improvements of reporting templates and content, smashing customer delivery and event speaking sessions just shows how invaluable you are to the organisation!.",
+        "name": "Asad Ali",
         "designation": "Digital Marketing Manager"
     }
 ]

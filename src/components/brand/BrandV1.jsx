@@ -1,15 +1,18 @@
 import React from 'react';
-import BrandV1Data from '../../jsonData/BrandV1Data.json'
+import BrandV1Data from '../../jsonData/BrandV1Data.json';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Keyboard, Autoplay } from 'swiper/modules';
 import SingleBrandV1 from './SingleBrandV1';
 
 const BrandV1 = () => {
-
     return (
         <>
             <div className="logo-section bg-lighter py-120 rpy-100">
                 <div className="container">
+
+                    {/* Added Heading */}
+                    <h1 className="section-title text-center mb-50">Our Technologies</h1>
+
                     <div className="logo-carousel-wrap">
                         <Swiper
                             modules={[Keyboard, Autoplay]}
@@ -20,9 +23,7 @@ const BrandV1 = () => {
                                 disableOnInteraction: false,
                             }}
                             loop={true}
-                            keyboard={{
-                                enabled: true,
-                            }}
+                            keyboard={{ enabled: true }}
                             breakpoints={{
                                 320: {
                                     slidesPerView: 2,
@@ -42,11 +43,11 @@ const BrandV1 = () => {
                                 }
                             }}
                         >
-                            {BrandV1Data.map(brand =>
+                            {BrandV1Data.map(brand => (
                                 <SwiperSlide key={brand.id}>
                                     <SingleBrandV1 brand={brand} />
                                 </SwiperSlide>
-                            )}
+                            ))}
                         </Swiper>
                     </div>
                 </div>

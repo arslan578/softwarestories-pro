@@ -10,7 +10,9 @@ const Pricing4 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Pricing Four" pageLink="Pricing-4" />
+            <BreadCums pageTitle=" Cybersecurity Pricing" pageLink=""
+            image={"/images/gallery/cyb1.jpg"}
+            description={"Protecting your digital assets shouldn’t break the bank. We offer budget <br />friendly packages for penetration testing, vulnerability assessments, <br />firewall setups, and complete cybersecurity audits all designed  <br />to safeguard your business."} />
             <PricingPlanV4 />
             <TestimonialV1 />
             <ContactV4 />

@@ -22,14 +22,15 @@ const BannerV10 = () => {
                 </Fade>
                 <Fade bottom delay={400}>
                   <h1 className="mt-30">
-                    Smart Software, Tailored For Your Business
+                  Custom Software Solutions, Built for Your Business Needs
                   </h1>
                 </Fade>
                 <Fade bottom delay={600}>
                   <p>
-                    From mobile apps to web platforms — we craft digital
-                    solutions that solve real-world problems with creativity and
-                    precision.
+                  We take ideas and bring them to life. From developing web applications
+                   to creating digital solutions to address real life problems with innovation 
+                   and precision, we work from any medium that calls us.
+
                   </p>
                 </Fade>
 

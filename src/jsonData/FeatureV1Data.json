@@ -1,50 +1,51 @@
 [
     {
-        "id": 1,
-        "icon": "flaticon-art",
-        "title": "Web Development",
-        "text": "Empowering businesses with cutting-edge web and app development solutions. Transform your ideas into reality with Software Stories LTD",
-        "icon2": "fas fa-arrow-right",
-        "delay": 200
+      "id": 1,
+      "icon": "flaticon-art",
+      "title": "Web Development",
+      "text": "We create high-performance websites using modern technologies that elevate your brand online.",
+      "icon2": "fas fa-arrow-right",
+      "delay": 200
     },
     {
-        "id": 2,
-        "icon": "flaticon-cloud-computing-1",
-        "title": "cyber security",
-        "text": "Software Stories LTD – Innovating the Future with Cutting-Edge IT Solutions. From  Cybersecurity and IT Consulting,",
-        "icon2": "fas fa-arrow-right",
-        "delay": 400
+      "id": 2,
+      "icon": "flaticon-cloud-computing-1",
+      "title": "Cyber Security",
+      "text": "We safeguard your digital presence with advanced cybersecurity to ensure full data protection.",
+      "icon2": "fas fa-arrow-right",
+      "delay": 400
     },
     {
-        "id": 3,
-        "icon": "flaticon-development-3",
-        "title": "App Development",
-        "text": "At Software Stories LTD, we specialize in Web Development, Mobile App Development, and IT Consultancy. Our expert solutions ensure your business stays ahead in the digital era",
-        "icon2": "fas fa-arrow-right",
-        "delay": 600
+      "id": 3,
+      "icon": "flaticon-development-3",
+      "title": "App Development",
+      "text": "Our mobile and web apps are designed to help your business grow in the digital landscape.",
+      "icon2": "fas fa-arrow-right",
+      "delay": 600
     },
     {
-        "id": 4,
-        "icon": "flaticon-analysis-1",
-        "title": "AI & Automation Services",
-        "text": "Software Stories LTD – Your trusted partner in Web Development, App Development, and IT Consultancy. Empowering businesses with cutting-edge technology.",
-        "icon2": "fas fa-arrow-right",
-        "delay": 800
+      "id": 4,
+      "icon": "flaticon-analysis-1",
+      "title": "AI & Automation Services",
+      "text": "We deliver automation solutions that streamline workflows and boost business performance.",
+      "icon2": "fas fa-arrow-right",
+      "delay": 800
     },
     {
-        "id": 5,
-        "icon": "flaticon-web-development",
-        "title": "Software Development",
-        "text": "We at Software Stories LTD specialize in Web Development, App Development, and IT Solutions, helping businesses thrive in the digital age",
-        "icon2": "fas fa-arrow-right",
-        "delay": 1000
+      "id": 5,
+      "icon": "flaticon-web-development",
+      "title": "Software Development",
+      "text": "We craft scalable software and SaaS tools to help your business stay ahead of the curve.",
+      "icon2": "fas fa-arrow-right",
+      "delay": 1000
     },
     {
-        "id": 6,
-        "icon": "flaticon-plan",
-        "title": "Digital Marketing",
-        "text": "Boost Your Online Presence with Software Stories LTD – SEO, Social Media, & Performance Marketing Solutions",
-        "icon2": "fas fa-arrow-right",
-        "delay": 1200
+      "id": 6,
+      "icon": "flaticon-plan",
+      "title": "Digital Marketing",
+      "text": "From SEO to social media, we grow your digital visibility and connect you to your audience.",
+      "icon2": "fas fa-arrow-right",
+      "delay": 1200
     }
-]
+  ]
+  

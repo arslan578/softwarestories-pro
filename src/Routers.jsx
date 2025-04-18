@@ -49,9 +49,19 @@ import Testimonial2 from './pages/testimonial/Testimonial2';
 import Testimonial3 from './pages/testimonial/Testimonial3';
 import Testimonial4 from './pages/testimonial/Testimonial4';
 import Blog from './pages/blog/Blog';
-import BlogDetails from './pages/blogDetails/BlogDetails';
 import Contact from './pages/contact/Contact';
 import Error404 from './pages/error/Error404';
+import Secuitypage from './pages/portfolio/Secuitypage';
+import Webdevelopmentpage from './pages/portfolio/Webdevelopmentpage';
+import Digitalmarketingpage from './pages/portfolio/Digitalmarketingpage';
+import BlogDetails from './pages/blogDetails/BlogDetails';
+import CyberDetails from './pages/cybersecuity/CyberDetails';
+import WebDetails from './pages/webdevelopment/WebDetails';
+import AppDetails from './pages/appdevelopment/AppDetails';
+
+
+
+
 
 const Routers = () => {
     return (
@@ -86,6 +96,9 @@ const Routers = () => {
                 <Route path='/shop' element={<Shop />}></Route>
                 <Route path='/shop-details' element={<ShopDetails />}></Route>
                 <Route path='/portfolio' element={<Portfolio />}></Route>
+                <Route path='/security-page' element={<Secuitypage />}></Route>
+                <Route path='/webdevelopment-page' element={<Webdevelopmentpage />}></Route>
+                <Route path='/digitalmarketing-page' element={<Digitalmarketingpage />}></Route>
                 <Route path='/portfolio-2' element={<Portfolio2 />}></Route>
                 <Route path='/portfolio-3' element={<Portfolio3 />}></Route>
                 <Route path='/portfolio-4' element={<Portfolio4 />}></Route>
@@ -107,6 +120,9 @@ const Routers = () => {
                 <Route path='/testimonial-4' element={<Testimonial4 />}></Route>
                 <Route path='/blog' element={<Blog />}></Route>
                 <Route path='/blog-details' element={<BlogDetails />}></Route>
+                <Route path='/cyber-security' element={<CyberDetails />}></Route>
+                <Route path='/web-development' element={<WebDetails />}></Route>
+                <Route path='/app-development' element={<AppDetails />}></Route>
                 <Route path='/contact' element={<Contact />}></Route>
                 <Route path='*' element={<Error404 />}></Route>
             </Routes>

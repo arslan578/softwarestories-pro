@@ -10,7 +10,10 @@ const About7 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="About Us" pageLink="about" />
+            <BreadCums pageTitle="Our Values" pageLink=""
+             image={"/images/gallery/gallery-two-1.png"}
+             description={"We believe in: Integrity  We do what’s right, always.Innovation <br/> We embrace change and lead with new ideas.Customer Centricity <br/> Your needs shape our solutions.Quaity  We aim for excellence in  <br/>everything we build.."}
+             /> 
             <AboutV8 aboutSpace="pb-120" />
             <TestimonialV1 />
             <ContactV4 />

@@ -9,7 +9,9 @@ const Contact = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Contact Us" pageLink="Contact" />
+            <BreadCums pageTitle="CONTACT US" pageLink=""
+            image={"/images/gallery/dig2.jpg"}
+            description={"Do you happen to have any inquiries, ideas  or projects <br /> to pass along? We want to hear from you! Contact  <br />the Software Stories Ltd. team, and we'll bring your idea <br /> to life. We are just a message away — so let's connect. "} />
             <ContactContent />
             <ContactMap />
             <FooterV2 />

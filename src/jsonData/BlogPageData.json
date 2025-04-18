@@ -2,34 +2,37 @@
     {
         "id": 1,
         "thumb": "blog-standard-1.jpg",
-        "author": "Daniele Custer",
+        "author": "Shaista Azam",
         "icon": "far fa-user",
-        "date": "25 Jun 2023",
+        "date": "02 Apr 2025",
         "icon2": "fas fa-calendar-alt",
-        "title": "Monthly Web Development Update Complexity Over HTTPS, And Push Notifications",
-        "text": "But we ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit-",
-        "btn": "Read More"
+        "title": " Latest Web Development Trends: Speed, SEO & SecurityBy Software Stories Ltd",
+        "text": "Stay ahead with modern web development strategies including responsive design, SEO optimization, and strong security protocols. Our team ensures client websites perform flawlessly.",
+        "btn": "Read More",
+        "link": "web-development"
     },
     {
         "id": 2,
         "thumb": "blog-standard-2.jpg",
-        "author": "Mir Siap Ali",
+        "author": "Software Stories Team",
         "icon": "far fa-user",
-        "date": "22 Jun 2023",
+        "date": "28 Mar 2025",
         "icon2": "fas fa-calendar-alt",
-        "title": "Taking A Look At State Of Progressive Images And User Perception Weathers",
-        "text": "But we ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit-",
-        "btn": "Read More"
+        "title": "Why Cybersecurity Is a Must for Modern Businesses",
+        "text": "As cyber threats grow, our new services offer protection through firewalls, penetration testing, and real-time monitoring. Learn why investing in cybersecurity is vital.",
+        "btn": "Read More",
+        "link":"cyber-security"
     },
     {
         "id": 3,
         "thumb": "blog-standard-3.jpg",
-        "author": "Daniele Custer",
+        "author": "Software Stories Ltd.",
         "icon": "far fa-user",
-        "date": "23 Jun 2023",
+        "date": "20 Mar 2025",
         "icon2": "fas fa-calendar-alt",
-        "title": "Monthly Web Development Update Complexity Over HTTPS, And Push Notifications",
-        "text": "But we ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit-",
-        "btn": "Read More"
+        "title": "Mobile App Development: Turning Ideas into Reality",
+        "text": "We build scalable, user-friendly apps for Android & iOS. From concept to launch, discover how Software Stories brings innovation to mobile development.",
+        "btn": "Read More",
+        "link":"app-development"
     }
 ]

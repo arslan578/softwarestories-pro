@@ -11,7 +11,10 @@ const Team4 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Team Four" pageLink="Team-4" />
+            <BreadCums pageTitle="Laiba Rana" pageLink=""
+            image={"/images/gallery/dig22.jpg"}
+            description={"Laiba Rana is a dedicated Python Developer at Software Stories, <br/>always ready to learn better, cleaner, more maintainable and  <br/>above all, scalable pieces of code. She specializes in backend systems  <br/>and automation scripts and creates data-driven applications. With a good  <br/>grip on the fundamentals of Python, fine detailing makes her a very important <br/>part of every project, functionally and performance checked behind the scenes."}
+              />
             <TeamV4 teamClass="pb-200" partial={false} />
             <WorkProgressV3 />
             <TestimonialV1 />

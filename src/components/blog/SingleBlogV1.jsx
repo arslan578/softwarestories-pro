@@ -27,10 +27,7 @@ const SingleBlogV1 = ({ blog }) => {
                         <p>{text}</p>
                     </div>
                     <div className="news-author">
-                        <img src={`/images/news/${authorThumb}`} alt="Author" />
-                        <span className="posted-by">By
-                            <Link to="#" className='ms-1'>{author}</Link>
-                        </span>
+                        
                     </div>
                 </div>
             </Fade>

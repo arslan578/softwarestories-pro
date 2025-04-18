@@ -11,7 +11,9 @@ const Testimonial4 = () => {
     return (
         <>
             <InnerHeader />
-            <BreadCums pageTitle="Testimonial Four" pageLink="testimonial-4" />
+            <BreadCums pageTitle="Michael Lee" pageLink=""
+            image={"/images/gallery/dig22.jpg"}
+            description={""} />
             <TestimonialV4 testClass="pt-100" />
             <AboutV3 aboutClass="rpt-100 pb-240 rpb-150" />
             <WorkProgressV3 />

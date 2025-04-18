@@ -23,7 +23,7 @@ const BannerV7 = () => {
                                     <h1 className="mt-20">Big data will Come up with A Solution</h1>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={600}>
-                                    <p>At our company, we prioritize delivering cutting-edge solutions tailored to your needs, ensuring seamless experiences and exceptional results. </p>
+                                    <p>In our company, we help in the delivery of custom solutions that will give productive experiences and great outcomes </p>
                                 </Fade>
                                 <Fade className="fadeInUp" delay={800}>
                                     <Link to="/contact#" className="theme-btn style-eight mt-30">Start Free Trial <i className="fas fa-long-arrow-alt-right"></i></Link>

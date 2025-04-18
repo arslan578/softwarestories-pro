@@ -1,30 +1,31 @@
 [
     {
-        "id": 1,
-        "icon": "flaticon-3d",
-        "title": "Web Development",
-        "text": "Building fast, responsive, and scalable websites tailored to your business.",
-        "delay": 200
+      "id": 1,
+      "icon": "flaticon-3d",
+      "title": "Web Development",
+      "text": "We build fast, responsive, and scalable websites tailored to match your business goals and digital needs.",
+      "delay": 200
     },
     {
-        "id": 2,
-        "icon": "flaticon-coding",
-        "title": "App Development",
-        "text": "Creating user-friendly mobile and desktop apps to enhance customer experience.",
-        "delay": 400
+      "id": 2,
+      "icon": "flaticon-coding",
+      "title": "App Development",
+      "text": "We create modern mobile-first apps that improve customer service, user engagement, and digital experience.",
+      "delay": 400
     },
     {
-        "id": 3,
-        "icon": "flaticon-art",
-        "title": "Digital Marketing",
-        "text": "Driving growth through SEO, social media, and smart digital strategies.",
-        "delay": 600
+      "id": 3,
+      "icon": "flaticon-art",
+      "title": "Digital Marketing",
+      "text": "Boost your brand through SEO, social media, and intelligent strategies for strong online performance and visibility..",
+      "delay": 600
     },
     {
-        "id": 4,
-        "icon": "flaticon-web",
-        "title": "IT Consultancy",
-        "text": "Providing expert advice to help businesses adopt the right tech solutions.",
-        "delay": 800
+      "id": 4,
+      "icon": "flaticon-web",
+      "title": "IT Consultancy",
+      "text": "Get expert guidance to help your business choose smart and effective technical solutions confidently.",
+      "delay": 800
     }
-]
+  ]
+  

@@ -51,9 +51,9 @@ const FooterV6 = () => {
                                 <ul className="list-style-two">
                                     <li><i className="fas fa-phone-alt"></i> <a href="tel:+123-589-847">+123 - 589 - 847</a>
                                     </li>
-                                    <li><i className="fas fa-envelope"></i> <a href="aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a>
+                                    <li><i className="fas fa-envelope"></i> <a href="aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</a>
                                     </li>
-                                    <li><i className="fas fa-map-marker-alt"></i> 71-75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom
+                                    <li><i className="fas fa-map-marker-alt"></i> Shelton Street, Covent Garden, London, UK
                                     </li>
                                 </ul>
                             </div>

@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "thumb": "mobile1.jpg"
+        "thumb": "mobile12.jpg"
     },
     {
         "id": 2,
-        "thumb": "mobile2.jpg"
+        "thumb": "mobile22.jpg"
     },
     {
         "id": 3,
-        "thumb": "mobile33.jpg"
+        "thumb": "mobile3.jpg"
     },
     {
         "id": 4,
-        "thumb": "mobile1.jpg"
+        "thumb": "mobile44.jpg"
     },
     {
         "id": 5,
-        "thumb": "mobile2.jpg"
+        "thumb": "mobile5.jpg"
     },
     {
         "id": 6,
-        "thumb": "mobile33.jpg"
+        "thumb": "mobile6.jpg"
     },
     {
         "id": 7,
-        "thumb": "mobile2.jpg"
+        "thumb": "mobile7.jpg"
     },
     {
         "id": 8,
-        "thumb": "mobile33.jpg"
+        "thumb": "mobile8.jpg"
     },
     {
         "id": 9,
-        "thumb": "mobile1.jpg"
+        "thumb": "mobile9.jpg"
     },
     {
         "id": 10,
-        "thumb": "mobile2.jpg"
+        "thumb": "mobile11.jpg"
     }
 ]

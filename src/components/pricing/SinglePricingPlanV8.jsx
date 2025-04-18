@@ -10,7 +10,7 @@ const SinglePricingPlanV8 = ({ plan }) => {
             <Fade delay={delay}>
                 <div className="pricing-item-eight">
                     <h3 className="pricing-title">{title}</h3>
-                    <div className="image"><img src={`/images/shapes/${icon}`} alt="Gift" /></div>
+                    
                     <span className="price"><span>${price} /</span>monthly</span>
                     <ul className="list-style-three">
                         <li>{list1}</li>
