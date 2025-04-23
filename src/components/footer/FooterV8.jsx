@@ -81,7 +81,7 @@ const FooterV8 = () => {
                   <li>
                     <i className="fas fa-phone-alt"></i>
                     <span>
-                      <b>Phone : </b> <a href="tel:07438255631">07438255631</a>
+                      <b>Phone : </b> <a href="tel:+44 7438 215631">+44 7438 215631</a>
                     </span>
                   </li>
                   <li>

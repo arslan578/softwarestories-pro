@@ -49,7 +49,7 @@ const FooterV6 = () => {
                             <div className="footer-widget contact-widget mr-30 rmr-0">
                                 <h4 className="footer-title">Information</h4>
                                 <ul className="list-style-two">
-                                    <li><i className="fas fa-phone-alt"></i> <a href="tel:+123-589-847">+123 - 589 - 847</a>
+                                    <li><i className="fas fa-phone-alt"></i> <a href="tel:+44 7438 215631">+44 7438 215631</a>
                                     </li>
                                     <li><i className="fas fa-envelope"></i> <a href="aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</a>
                                     </li>
@@ -63,7 +63,7 @@ const FooterV6 = () => {
                 <div className="copyright-area mt-50">
                     <div className="container">
                         <div className="copyright-inner justify-content-center">
-                            <p>&copy; {(new Date().getFullYear())} Restly All Rights Reserved.</p>
+                            <p>&copy; {(new Date().getFullYear())}Software Stories LTD All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>

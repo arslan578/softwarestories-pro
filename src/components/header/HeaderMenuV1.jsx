@@ -37,9 +37,19 @@ const HeaderMenuV1 = () => {
                         <div className="header-top py-10">
                             <div className="top-left">
                                 <ul>
-                                    <li> <strong>Call Us:</strong> <a href="tel:07438255631">07438255631</a></li>
-                                    <li><strong>Email us: </strong><a href="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a></li>
-                                    <li><strong>Our Address :  </strong>  Shelton Street, Covent Garden, London, UK</li>
+                                    {/* <li> <strong>Call Us:</strong> <a href="tel:+44 7438 215631">....</a></li> */}
+                                    <li>
+           <strong>Email us: </strong>
+             <a href="mailto:aqsa9098syed@gmail.com">aqsa9098syed@gmail.com</a>
+         </li>
+
+     <li>
+             <strong>Our Address: </strong>
+           <a href="https://www.google.com/maps?q=71-75+Shelton+Street,+Covent+Garden,+London,+UK" target="_blank">
+    Shelton Street, Covent Garden, London, UK
+           </a>
+                </li>
+
                                 </ul>
                             </div>
                             <div className="top-right">

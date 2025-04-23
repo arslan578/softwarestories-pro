@@ -33,9 +33,11 @@ const InnerHeader = () => {
                             <div className="header-top">
                                 <div className="top-left">
                                 <ul>
-                                    <li>Call Us: <a href="tel:07438255631">07438255631</a></li>
+                                    <li>Call Us: <a href="tel:+44 7438 215631">....</a></li>
                                     <li>Email us: <a href="aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</a></li>
-                                    <li>Our address: <br />Shelton Street, Covent Garden, London, UK
+                                    <li>Our address: <br />  <a href="https://www.google.com/maps?q=71-75+Shelton+Street,+Covent+Garden,+London,+UK" target="_blank">
+    Shelton Street, Covent Garden, London, UK
+  </a>
                              </li>
                                 </ul>
                                 </div>

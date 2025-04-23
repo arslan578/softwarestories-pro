@@ -34,7 +34,7 @@ const HeaderMenu3 = () => {
                             <div className="header-top">
                                 <div className="top-left">
                                 <ul>
-                                    <li><strong>Call Us: </strong> <a href="tel:07438255631">07438255631</a></li>
+                                    <li><strong>Call Us: </strong> <a href="tel:+44 7438 215631">...</a></li>
                                     <li> <strong>Email us: </strong><a href="aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</a></li>
                                     <li><strong>Our Address:</strong><br /> Shelton Street, Covent Garden, London, UK</li>
 

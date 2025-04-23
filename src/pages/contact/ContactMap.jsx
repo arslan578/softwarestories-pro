@@ -8,9 +8,9 @@ const ContactMap = () => {
                     style={{
                        
                         textAlign: 'center',
-                        fontSize: '32px',
+                        fontSize: '40px',
                         fontWeight: 'bold',
-                        marginBottom: '80px',
+                        marginBottom: '40px',
                         marginTop: '-60px',
                         color: '#333',
                         transition: 'all 0.3s ease',
@@ -33,17 +33,18 @@ const ContactMap = () => {
                     Our Location
                 </h2>
 
-                <div className="our-location">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.1635372333444!2d-0.12463748407474174!3d51.51466177963645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cd9d8f206b%3A0x20b0f36d8c1d5407!2s71-75%20Shelton%20St%2C%20London%20WC2H%209JQ%2C%20UK!5e0!3m2!1sen!2suk!4v1713438650000!5m2!1sen!2suk"
-                        height="600"
-                        width="100%"
-                        style={{ border: 0, marginTop: '-60px' }}
-                        allowFullScreen=""
-                        loading="lazy"
-                        referrerPolicy="no-referrer-when-downgrade"
-                    ></iframe>
-                </div>
+                <div className="our-location" style={{ display: 'flex', justifyContent: 'center', marginTop: '10px', marginBottom: '50px' }}>
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.1635372333444!2d-0.12463748407474174!3d51.51466177963645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604cd9d8f206b%3A0x20b0f36d8c1d5407!2s71-75%20Shelton%20St%2C%20London%20WC2H%209JQ%2C%20UK!5e0!3m2!1sen!2suk!4v1713438650000!5m2!1sen!2suk"
+    height="450"
+    width="80%"
+    style={{ border: 0, borderRadius: '10px' }}
+    allowFullScreen=""
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+  ></iframe>
+</div>
+
             </div>
         </>
     );
