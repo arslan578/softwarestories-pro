@@ -11,8 +11,8 @@ const ContactContent = () => {
             <div className="contact-info-item">
               <i className="far fa-map"></i>
               <p>
-                 Our address: 71-75 Shelton Street Covent Garden London WC2H
-                9JQ United Kingdom
+                 Our address: Shelton Street Covent Garden London
+              Uk
               </p>
             </div>
             <div className="contact-info-item">
@@ -25,8 +25,8 @@ const ContactContent = () => {
             <div className="contact-info-item">
               <i className="fas fa-phone-alt"></i>
               <p>
-                <a href="tel:+08(964)712365">07438255631</a> <br />
-                <a href="tel:+0234(456)9864">+07438255631</a>
+                <a href="tel:+44 7438 215631">.....</a> <br />
+                <a href="tel:+44 7438 215631">.....</a>
               </p>
             </div>
           </div>

@@ -26,7 +26,7 @@ const ContactV1 = () => {
                                     <div className="contact-image-number bgs-cover" style={{ backgroundImage: "url(/images/contact/home-two.jpg)" }}>
                                         <div className="contact-number">
                                             <i className="fas fa-phone-alt"></i>
-                                            <a href="tel:+012-345-6789">07438255631</a>
+                                            <a href="tel:+44 7438 215631">.......</a>
                                         </div>
                                     </div>
                                 </Fade>
@@ -35,11 +35,11 @@ const ContactV1 = () => {
                     </div>
                     <div className="fact-counter-color text-center">
                         <div className="row">
-                            {CounterV1Data.map(counter =>
+                            {/* {CounterV1Data.map(counter =>
                                 <div className="col-lg-3 col-sm-6" key={counter.id}>
                                     <SingleCounterV1 counter={counter} />
                                 </div>
-                            )}
+                            )} */}
                         </div>
                     </div>
                 </div>

@@ -10,7 +10,7 @@ const SingleTeamV2 = ({ team }) => {
             <Fade className="fadeInUp" delay={delay}>
                 <div className="team-member style-two">
                     <div className="image">
-                        <img src={`/images/team/${thumb}`} alt="Team Member" />
+                        {/* <img src={`/images/team/${thumb}`} alt="Team Member" /> */}
                     </div>
                     <div className="member-designation text-white">
                         <h5><Link to="/team-profile#">{name}</Link></h5>

@@ -2,28 +2,28 @@
     {
         "id": 1,
         "start": 0,
-        "end": 0,
+        "end": 250,
         "title": "Projects Done",
         "delay": 200
     },
     {
         "id": 2,
         "start": 0,
-        "end": 0,
+        "end": 15,
         "title": "Awards Won",
         "delay": 400
     },
     {
         "id": 3,
         "start": 0,
-        "end": 0,
+        "end": 10,
         "title": "Years Experience",
         "delay": 600
     },
     {
         "id": 4,
         "start": 0,
-        "end": 0,
+        "end": 500,
         "title": "Happy Clients",
         "delay": 800
     }

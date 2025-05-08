@@ -44,7 +44,7 @@ const FooterV4Content = (props) => {
                             <ul className="list-style-two">
                                 <li><i className="fas fa-map-marker-alt"></i>Shelton Street, Covent Garden, London, UK</li>
                                 <li><i className="fas fa-clock"></i> Mon-Fri 9:00AM - 5:00PM</li>
-                                <li><i className="fas fa-phone-alt"></i> <Link to="tel:+07438255631">+07438255631</Link></li>
+                                <li><i className="fas fa-phone-alt"></i> <Link to="tel:+07438255631">+44 7438 215631</Link></li>
                                 <li><i className="fas fa-envelope"></i> <Link to="mailto:aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</Link></li>
                             </ul>
                         </div>
