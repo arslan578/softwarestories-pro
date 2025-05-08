@@ -51,14 +51,14 @@ const HeaderMenu8 = () => {
                                             <select name="language" id="language">
                                                 <option value="English">English</option>
                                                 <option value="Arabic">Arabic</option>
-                                                <option value="Spanish">Spanish</option>
+                                                <option value="Spanish">Urdu</option>
                                             </select>
                                         </li>
                                     </ul>
                                 </div>
                                 <div className="top-right">
                                     <div className="hotline">
-                                        <i className="fas fa-headset"></i><span>Hotline : </span> <a href="tel:+125846589">07438255631</a>
+                                        <i className="fas fa-headset"></i><span>Hotline : </span> <a href="tel:+125846589">....</a>
                                     </div>
                                     <div className="social-style-one">
                                         <SocialShare />

@@ -7,7 +7,7 @@ const AboutTabV1 = () => {
     return (
         <>
             <section className="about-tab-section bg-light-black text-white pb-120 rpb-100">
-                <CounterV1 />
+                {/* <CounterV1 /> */}
                 <div className="container">
                     <div className="section-title text-center mb-55">
                         <span className="sub-title">WHO WE ARE</span>

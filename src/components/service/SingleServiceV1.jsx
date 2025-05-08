@@ -8,8 +8,8 @@ const SingleServiceV1 = ({ service }) => {
     return (
         <>
             <Fade delay={delay}>
-                <div className="service-box fadeInUp">
-                    <div className="service-normal">
+                <div className="service-box transition-transform duration-300 transform hover:scale-110">
+                    <div className="service-normal ">
                         <div className="icon">
                             <i className={icon}></i>
                         </div>
@@ -19,7 +19,7 @@ const SingleServiceV1 = ({ service }) => {
                             <i className={icon2}></i>
                         </Link>
                     </div>
-                    <div className="service-hover bg-blue text-white">
+                    <div className="service-hover bg-blue text-white ">
                         <h3>{title2}</h3>
                         <p>{text2}</p>
                         <Link to="/service-details#" className="theme-btn">Learn More</Link>

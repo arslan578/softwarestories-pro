@@ -1,9 +1,5 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
-import aboutCyber from '/images/about/about-1.jpg';
-import aboutMarketing from '/images/about/about-2.jpg';
-import aboutWeb from '/images/about/about-3.png';
-import aboutApp from '/images/about/about-4.jpg';
 
 const AboutTabV1Content = () => {
     return (
@@ -36,14 +32,13 @@ const AboutTabV1Content = () => {
             </ul>
 
             <div className="tab-content about-tab-content">
-
                 {/* Cybersecurity */}
                 <div className="tab-pane fade show active" id="tabContent1" role="tabpanel">
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <Fade className="fadeInLeft" delay={300}>
                                 <div className="about-image-shape rmb-70">
-                                    <img src={aboutCyber} alt="Cybersecurity" />
+                                    <img src="/images/about/about-1.jpg?url" alt="Cybersecurity" />
                                 </div>
                             </Fade>
                         </div>
@@ -75,7 +70,7 @@ const AboutTabV1Content = () => {
                         <div className="col-lg-6">
                             <Fade className="fadeInLeft" delay={300}>
                                 <div className="about-image-shape rmb-70">
-                                    <img src={aboutMarketing} alt="Digital Marketing" />
+                                    <img src="/images/about/about-2.jpg?url" alt="Digital Marketing" />
                                 </div>
                             </Fade>
                         </div>
@@ -105,7 +100,7 @@ const AboutTabV1Content = () => {
                         <div className="col-lg-6">
                             <Fade className="fadeInLeft" delay={300}>
                                 <div className="about-image-shape rmb-70">
-                                    <img src={aboutWeb} alt="Web Development" />
+                                    <img src="/images/about/about-3.png?url" alt="Web Development" />
                                 </div>
                             </Fade>
                         </div>
@@ -135,7 +130,7 @@ const AboutTabV1Content = () => {
                         <div className="col-lg-6">
                             <Fade className="fadeInLeft" delay={300}>
                                 <div className="about-image-shape rmb-70">
-                                    <img src={aboutApp} alt="App Development" />
+                                    <img src="/images/about/about-4.jpg?url" alt="App Development" />
                                 </div>
                             </Fade>
                         </div>
@@ -158,7 +153,6 @@ const AboutTabV1Content = () => {
                         </div>
                     </div>
                 </div>
-
             </div>
         </>
     );

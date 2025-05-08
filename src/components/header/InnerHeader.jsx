@@ -3,7 +3,7 @@ import NavigationMenu from './NavigationMenu';
 import logo from '/images/logos/logo.png'
 import { HashLink as Link } from 'react-router-hash-link';
 import MobileHeader from './MobileHeader';
-
+import Button3 from '../importedButtons/Button3';
 const InnerHeader = () => {
 
     const [isSticky, setIsSticky] = useState(false);
@@ -33,9 +33,11 @@ const InnerHeader = () => {
                             <div className="header-top">
                                 <div className="top-left">
                                 <ul>
-                                    <li>Call Us: <a href="tel:07438255631">07438255631</a></li>
+                                    <li>Call Us: <a href="tel:+44 7438 215631">....</a></li>
                                     <li>Email us: <a href="aqsasyed9098@gmail.com">aqsasyed9098@gmail.com</a></li>
-                                    <li>Our address: <br />Shelton Street, Covent Garden, London, UK
+                                    <li>Our address: <br />  <a href="https://www.google.com/maps?q=71-75+Shelton+Street,+Covent+Garden,+London,+UK" target="_blank">
+    Shelton Street, Covent Garden, London, UK
+  </a>
                              </li>
                                 </ul>
                                 </div>
@@ -60,7 +62,9 @@ const InnerHeader = () => {
                                         <NavigationMenu />
                                     </nav>
                                     <div className="menu-btn">
-                                        <Link to="/contact#" className="theme-btn">meet with us</Link>
+                                        <Link to="/contact#" >
+                                        <Button3/>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>

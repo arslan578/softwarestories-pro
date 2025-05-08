@@ -6,6 +6,7 @@ import WorkProgressV6 from '../../components/work/WorkProgressV6';
 import PricingPlanV2 from '../../components/pricing/PricingPlanV2';
 import ContactV4 from '../../components/contact/ContactV4';
 import FooterV2 from '../../components/footer/FooterV2';
+import BrandV1 from '../../components/brand/BrandV1';
 
 const Services7 = () => {
     return (
@@ -17,6 +18,7 @@ const Services7 = () => {
           
           />
             <ServiceV8InnerPage />
+            <BrandV1 />
             <WorkProgressV6 />
             <PricingPlanV2 />
             <ContactV4 />
