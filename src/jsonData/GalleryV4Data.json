@@ -22,7 +22,7 @@
     },
     {
         "id": 4,
-        "thumb": "gallery-four-4.jpg",
+        "thumb": "abu1.jpg",
         "title": "Our Gallery",
         "description": "Laptop in the office",
         "delay": 800
@@ -36,7 +36,7 @@
     },
     {
         "id": 6,
-        "thumb": "gallery-3.jpg",
+        "thumb": "car1.jpg",
         "title": "Our Gallery",
         "description": "Laptop in the office",
         "delay": 1200

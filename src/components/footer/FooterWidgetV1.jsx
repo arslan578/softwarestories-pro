@@ -28,7 +28,9 @@ const FooterWidgetV1 = (props) => {
                             </div>
                             <ul className="contact-info mt-20">
                                 <li><i className="fas fa-map-marker-alt"></i><span>
-            71-75 Shelton Street Covent Garden London WC2H 9JQ United Kingdom</span></li>
+                                <a href="https://www.google.com/maps?q=71-75+Shelton+Street,+Covent+Garden,+London,+UK" target="_blank">
+    Shelton Street, Covent Garden, London, UK
+  </a></span></li>
                             </ul>
                         </div>
                     </div>

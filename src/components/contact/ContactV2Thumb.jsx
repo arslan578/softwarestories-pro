@@ -13,7 +13,7 @@ const ContactV2Thumb = () => {
                                 <i className="fas fa-phone-alt"></i>
                                 <div className="content">
                                     <span>Call Us</span>
-                                    <h5><a href="tel:+012-345-6789">+07438255631</a></h5>
+                                    <h5><a href="tel:+44 7438 215631">...</a></h5>
                                 </div>
                             </li>
                             <li>

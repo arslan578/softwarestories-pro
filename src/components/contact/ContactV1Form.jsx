@@ -1,5 +1,6 @@
 import React from 'react';
 import { toast } from 'react-toastify';
+import Button4 from '../importedButtons/Button4';
 
 const ContactV1Form = () => {
 
@@ -48,7 +49,7 @@ const ContactV1Form = () => {
                         </div>
                     </div>
                     <div className="col-sm-12">
-                        <button type="submit" className="theme-btn">Send Message</button>
+                        <Button4/>
                     </div>
                 </div>
             </form>
