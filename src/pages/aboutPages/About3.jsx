@@ -4,6 +4,8 @@ import BreadCums from '../../components/breadCums/BreadCums';
 import TestimonialV1 from '../../components/testimonial/TestimonialV1';
 import ContactV4 from '../../components/contact/ContactV4';
 import FooterV2 from '../../components/footer/FooterV2';
+import FeatureV1 from '../../components/feature/FeatureV1';
+
 
 const About3 = () => {
     return (
@@ -13,7 +15,10 @@ const About3 = () => {
              image={"/images/gallery/dig22.jpg"}
              description={"We envision a world where technology empowers every business <br/>to grow smarter and faster.At Software Stories Ltd., our goal is to <br/>be a global leader in creating digital solutions that are intuitive, <br/>scalable, and future-ready.We strive to inspire innovation and <br/>drive meaningful change through technology."}
              /> 
+               <FeatureV1 featureSpace="pt-115" />
+             
             <TestimonialV1 />
+        
             <ContactV4 />
             <FooterV2 />
         </>

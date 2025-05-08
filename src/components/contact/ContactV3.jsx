@@ -50,7 +50,7 @@ const ContactV3 = () => {
                                 <Fade className="fadeInUp" delay={800}>
                                     <div className="form-group">
                                         <label htmlFor="number">Phone Number</label>
-                                        <input type="number" id="number" name="number" className="form-control no-arrows" placeholder=" 07438255631" required autoComplete="off" />
+                                        <input type="number" id="number" name="number" className="form-control no-arrows" placeholder=" +44 7438 215631" required autoComplete="off" />
                                     </div>
                                 </Fade>
                             </div>
